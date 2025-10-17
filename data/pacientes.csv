@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0001,Ana García,4,,Miraflores,Medicina General,2022-12-13,202.67
+P0002,Ana Gómez,38,M,Lima,Dermatología,2021-06-21,164.91
+P0003,Pedro Rojas,NA,,NA,Oncología,2021-07-02,380.36
+P0004,José Pérez,76,M,Lima,Cardiología,2022-09-02,76.72
+P0005,José Rojas,3,F,Lima,Cardiología,2022-03-24,171.91
+P0006,Pedro García,NA,NA,Comas,Odontología,2022-04-23,299.35
+P0007,María Castillo,67,NA,Los Olivos,Oncología,2021-08-05,189.87
+P0008,Jorge García,85,NA,Surco,Cardiología,2021-02-15,490.48
+P0009,Carmen Pérez,NA,,Callao,NA,2022-09-12,250.19
+P0010,Miguel Ramírez,NA,,Los Olivos,NA,2022-06-27,235.94
+P0011,Lucía García,NA,M,San Isidro,Pediatría,2020-04-21,370.26
+P0012,Carmen Gómez,NA,NA,Lima,Pediatría,2020-06-06,213.12
+P0013,Pedro Torres,56,M,Miraflores,Dermatología,2022-08-25,169.91
+P0014,José Flores,47,,Los Olivos,Medicina General,2024-11-01,102.75
+P0015,Carmen Rojas,81,,San Isidro,Cardiología,2024-09-17,455.77
+P0016,Pedro Pérez,NA,NA,Miraflores,Dermatología,2020-08-27,448.39
+P0017,María Castillo,NA,M,Comas,Oncología,2022-12-02,55.76
+P0018,Jorge Flores,NA,NA,Miraflores,NA,2024-06-30,135.25
+P0019,Pedro García,1,F,Comas,Pediatría,2020-10-24,104.36
+P0020,Miguel García,68,,Callao,Medicina General,2024-11-26,102.09
+P0021,María Flores,28,NA,Surco,Dermatología,2021-12-19,305.46
+P0022,Ana Castillo,5,NA,San Isidro,Oncología,2023-12-10,210.96
+P0023,Carmen Flores,40,M,San Isidro,Dermatología,2024-03-23,187.74
+P0024,Miguel Castillo,63,NA,Lima,Pediatría,2024-11-27,123.58
+P0025,Carmen Pérez,NA,M,Los Olivos,Odontología,2022-12-28,405.3
+P0026,Lucía Rojas,10,NA,Lima,Cardiología,2020-07-29,343.48
+P0027,Luis Ramírez,NA,M,Miraflores,Pediatría,2021-02-11,231.69
+P0028,Miguel Castillo,60,F,Miraflores,Odontología,2024-12-08,115.1
+P0029,María Ramírez,NA,F,NA,Dermatología,2022-01-18,74.63
+P0030,Jorge Flores,NA,M,Miraflores,Pediatría,2021-12-09,371.19
+P0031,Ana Gómez,NA,NA,Surco,Cardiología,2024-08-18,451.43
+P0032,Carmen Flores,37,M,Surco,Dermatología,2023-02-18,269.72
+P0033,María Torres,7,NA,Miraflores,Dermatología,2020-08-25,340.45
+P0034,Ana García,NA,F,Lima,Odontología,2021-07-06,357.27
+P0035,Jorge Pérez,NA,,Lima,Odontología,2022-04-19,155.08
+P0036,Luis Ramírez,46,M,Miraflores,Odontología,2020-07-31,445.1
+P0037,Lucía Rojas,NA,F,NA,Odontología,2023-07-21,336.88
+P0038,Miguel Rojas,17,NA,Comas,Pediatría,2024-01-14,215.96
+P0039,José Pérez,83,,Surco,Dermatología,2023-09-04,467.69
+P0040,Pedro Pérez,51,M,Callao,Dermatología,2022-12-11,299.49
+P0041,Ana Rojas,9,,Los Olivos,Cardiología,2024-01-02,438.81
+P0042,María Gómez,NA,NA,Surco,Odontología,2021-11-23,461.79
+P0043,Jorge Pérez,21,,San Isidro,NA,2021-07-23,301.74
+P0044,José Flores,9,NA,Miraflores,Oncología,2023-08-12,257.94
+P0045,José Castillo,NA,NA,Los Olivos,Dermatología,2022-03-22,404.66
+P0046,José Pérez,38,F,NA,Odontología,2024-11-13,144.4
+P0047,Jorge Ramírez,29,NA,Miraflores,Medicina General,2024-03-18,389.95
+P0048,Ana Pérez,4,NA,Callao,Pediatría,2022-10-30,457.08
+P0049,Carmen Gómez,3,,Los Olivos,Medicina General,2020-03-27,409.32
+P0050,Lucía Ramírez,NA,,Surco,Dermatología,2022-10-26,164.68
+P0051,María García,66,F,NA,Dermatología,2023-05-22,191.29
+P0052,José Castillo,NA,M,Miraflores,Pediatría,2023-06-30,233.12
+P0053,Pedro Ramírez,64,,Surco,NA,2024-07-28,371.08
+P0054,Ana Castillo,56,F,San Isidro,Odontología,2022-09-12,52.79
+P0055,José Flores,NA,M,Los Olivos,Oncología,2021-12-16,158.44
+P0056,Miguel Torres,16,F,Surco,Oncología,2022-09-07,416.37
+P0057,Carmen García,NA,M,Surco,NA,2020-12-17,422.39
+P0058,María Rojas,NA,M,Comas,Pediatría,2022-02-17,498.35
+P0059,Miguel García,59,F,Comas,NA,2021-06-14,392.25
+P0060,Jorge García,NA,F,San Isidro,Odontología,2021-02-19,214.29
+P0061,Lucía Ramírez,79,NA,Lima,Cardiología,2020-10-25,490.63
+P0062,Carmen Pérez,40,M,San Isidro,NA,2020-09-14,101.25
+P0063,José Ramírez,58,NA,San Isidro,NA,2024-07-17,347.52
+P0064,Ana Rojas,90,NA,Callao,Medicina General,2020-09-28,148.38
+P0065,José Rojas,NA,,Los Olivos,Medicina General,2022-09-13,67.61
+P0066,Pedro García,NA,NA,Los Olivos,Medicina General,2022-12-15,404.44
+P0067,Luis Flores,46,F,Comas,Medicina General,2021-11-04,117.18
+P0068,Rosa Torres,NA,NA,Comas,Dermatología,2022-06-14,281.7
+P0069,Ana Castillo,NA,M,Surco,Dermatología,2023-03-16,252.64
+P0070,Luis Flores,37,F,Surco,Medicina General,2020-01-10,437.21
+P0071,José Torres,61,M,Callao,Medicina General,2022-11-03,388.3
+P0072,José Gómez,NA,,Los Olivos,Cardiología,2021-03-08,106.51
+P0073,Ana Gómez,57,F,Surco,Medicina General,2020-10-01,257.44
+P0074,Luis Rojas,NA,NA,Surco,Oncología,2020-09-30,271.71
+P0075,Rosa Torres,79,F,San Isidro,Dermatología,2023-09-06,286.91
+P0076,Carmen Flores,NA,NA,NA,Pediatría,2024-03-15,347.55
+P0077,Jorge Torres,5,M,Los Olivos,NA,2022-12-08,198.98
+P0078,Pedro Castillo,NA,NA,Lima,Oncología,2023-06-18,450.27
+P0079,Rosa Gómez,20,F,Lima,Pediatría,2021-04-02,146.8
+P0080,Pedro Pérez,NA,NA,Surco,Medicina General,2022-03-03,411.61
+P0081,José Rojas,23,F,Los Olivos,Odontología,2023-10-04,210.27
+P0082,Lucía Rojas,NA,,San Isidro,NA,2023-11-07,292.32
+P0083,Miguel Flores,65,NA,Miraflores,Oncología,2024-05-02,425.55
+P0084,Carmen Rojas,31,F,NA,Pediatría,2023-12-07,344.58
+P0085,Carmen Pérez,NA,NA,Los Olivos,Cardiología,2020-03-08,354.13
+P0086,Luis Gómez,26,F,Lima,Oncología,2021-01-01,203.65
+P0087,Rosa Rojas,NA,,NA,Oncología,2023-08-27,183.34
+P0088,María Gómez,NA,,Los Olivos,Dermatología,2022-12-04,389.5
+P0089,Luis Castillo,NA,F,Miraflores,Odontología,2023-05-06,248.12
+P0090,Luis García,19,,Callao,Medicina General,2024-09-30,447.44
+P0091,Pedro Torres,82,,Callao,Cardiología,2024-10-28,345.99
+P0092,Carmen Gómez,82,,Miraflores,Dermatología,2023-07-27,271.67
+P0093,Carmen Castillo,NA,NA,Comas,Dermatología,2023-02-13,162.25
+P0094,Pedro Torres,58,M,Comas,Odontología,2020-11-22,487.25
+P0095,Luis Rojas,31,F,Los Olivos,Dermatología,2020-02-23,436.13
+P0096,Ana García,NA,,Comas,Dermatología,2021-03-29,232.72
+P0097,Jorge Castillo,NA,F,Los Olivos,Dermatología,2022-02-22,317.9
+P0098,Pedro Rojas,79,,Callao,Pediatría,2020-05-30,370.17
+P0099,Ana García,NA,,Miraflores,Medicina General,2020-01-30,115.9
+P0100,Miguel Castillo,35,,San Isidro,Medicina General,2023-03-28,70.71
+P0101,María García,35,NA,Miraflores,Pediatría,2020-01-21,460.52
+P0102,Rosa Gómez,64,NA,Callao,NA,2024-11-08,78.31
+P0103,Miguel Rojas,NA,,Callao,Pediatría,2020-09-12,395.58
+P0104,José García,66,,Callao,Medicina General,2024-01-05,83.96
+P0105,Luis Ramírez,NA,,Comas,Medicina General,2024-01-30,69.04
+P0106,Rosa Torres,70,F,Surco,Cardiología,2022-07-24,82.15
+P0107,Rosa Pérez,NA,NA,Callao,Oncología,2022-12-16,55.24
+P0108,Luis Gómez,NA,NA,Los Olivos,Dermatología,2021-05-27,488.26
+P0109,Pedro Torres,52,,San Isidro,Medicina General,2021-07-02,388.23
+P0110,Luis Gómez,NA,M,Comas,Pediatría,2020-11-28,270.47
+P0111,María Flores,NA,NA,Los Olivos,Oncología,2022-03-16,83.21
+P0112,Jorge Ramírez,52,F,Lima,Oncología,2023-09-11,326.13
+P0113,María Castillo,NA,NA,Surco,Medicina General,2023-11-03,172.2
+P0114,Jorge Castillo,NA,NA,Lima,Cardiología,2020-05-02,103.9
+P0115,Luis Rojas,NA,NA,Miraflores,Odontología,2020-09-07,416.01
+P0116,Miguel Torres,12,M,San Isidro,Pediatría,2024-02-19,166.92
+P0117,Ana Flores,9,M,Surco,Dermatología,2022-04-04,194.66
+P0118,José Rojas,55,F,Miraflores,Dermatología,2020-06-30,248.84
+P0119,Pedro Ramírez,59,NA,Callao,Cardiología,2021-01-31,160.08
+P0120,Jorge Flores,2,F,Comas,Odontología,2021-07-13,291.61
+P0121,Lucía Ramírez,9,M,Lima,Oncología,2023-10-18,157.68
+P0122,Pedro Castillo,NA,NA,San Isidro,Odontología,2024-07-25,216.64
+P0123,Miguel García,NA,,Miraflores,NA,2020-10-05,173.97
+P0124,Lucía Flores,29,M,Comas,NA,2022-09-17,265.23
+P0125,Jorge Pérez,NA,,Miraflores,Pediatría,2024-09-28,158.89
+P0126,Rosa Castillo,61,,Los Olivos,NA,2020-11-28,343.32
+P0127,Pedro Ramírez,23,NA,NA,Cardiología,2020-08-14,180.18
+P0128,José Rojas,29,,Callao,Cardiología,2024-05-22,307.94
+P0129,Pedro Flores,NA,M,Surco,Dermatología,2022-06-15,131.72
+P0130,Lucía Castillo,NA,M,Callao,Pediatría,2023-03-03,248.92
+P0131,María Gómez,NA,F,Comas,NA,2021-07-03,156.44
+P0132,Luis Pérez,NA,,Miraflores,Pediatría,2021-08-15,386.03
+P0133,Pedro Castillo,32,,Surco,Pediatría,2023-01-30,94.24
+P0134,Miguel Castillo,41,,Miraflores,Odontología,2024-04-24,383.11
+P0135,Rosa Castillo,52,NA,Surco,Pediatría,2022-03-03,435.08
+P0136,Miguel Pérez,NA,M,Lima,Odontología,2023-12-24,256.57
+P0137,José Castillo,77,F,Lima,Odontología,2024-08-15,418.41
+P0138,Luis Torres,85,M,San Isidro,Cardiología,2024-12-23,243.17
+P0139,José Torres,82,M,Surco,Dermatología,2020-09-12,285.57
+P0140,Luis Torres,59,,San Isidro,Pediatría,2024-01-23,170.08
+P0141,Ana Pérez,90,NA,Surco,Medicina General,2022-11-19,51.31
+P0142,Miguel Torres,NA,F,NA,Dermatología,2022-01-28,438.68
+P0143,Jorge Ramírez,NA,M,San Isidro,Pediatría,2023-03-31,457.5
+P0144,Rosa Gómez,7,,NA,NA,2024-07-13,56.19
+P0145,Miguel Flores,7,M,Callao,Pediatría,2023-11-09,362.78
+P0146,Pedro García,80,M,San Isidro,Dermatología,2020-01-04,454.35
+P0147,Miguel Flores,NA,NA,Los Olivos,Cardiología,2024-07-25,303.9
+P0148,María Rojas,NA,F,San Isidro,Pediatría,2022-05-05,172.92
+P0149,Miguel Pérez,39,NA,Lima,NA,2024-11-15,395.28
+P0150,Carmen García,51,NA,San Isidro,Oncología,2020-01-09,153.74
+P0151,Pedro Pérez,79,,Los Olivos,Cardiología,2020-05-19,391.55
+P0152,Jorge Ramírez,76,M,San Isidro,Dermatología,2023-07-03,410.37
+P0153,Carmen Flores,NA,F,Miraflores,Pediatría,2023-03-29,392.9
+P0154,Carmen García,55,M,San Isidro,Odontología,2022-09-22,236.82
+P0155,María Ramírez,NA,F,Callao,Dermatología,2024-04-15,348.36
+P0156,José García,66,NA,Los Olivos,Medicina General,2024-06-03,415.15
+P0157,Pedro Gómez,37,F,Los Olivos,Oncología,2023-12-05,346.85
+P0158,Carmen Castillo,87,F,Surco,Dermatología,2024-09-03,491.15
+P0159,Pedro Gómez,67,,Lima,Dermatología,2023-03-09,276.64
+P0160,Rosa Flores,12,F,Callao,Medicina General,2022-08-07,493.42
+P0161,José Pérez,NA,F,Miraflores,Medicina General,2023-04-16,292.94
+P0162,Carmen García,75,F,Lima,Cardiología,2021-08-02,337.99
+P0163,Lucía Gómez,40,,Los Olivos,Odontología,2024-03-26,338.04
+P0164,Luis Pérez,14,NA,Miraflores,Pediatría,2020-11-19,323.79
+P0165,María Torres,46,F,Los Olivos,Oncología,2021-06-04,454.86
+P0166,María Flores,NA,,Surco,Odontología,2020-03-10,316.58
+P0167,María Flores,NA,F,San Isidro,Medicina General,2021-11-07,116.35
+P0168,Luis Torres,50,NA,Miraflores,Medicina General,2023-12-21,307.8
+P0169,María Torres,28,NA,Callao,Cardiología,2020-12-05,412.22
+P0170,Miguel Torres,52,M,San Isidro,Dermatología,2022-02-28,217.01
+P0171,Lucía Pérez,NA,M,San Isidro,Medicina General,2022-11-28,202.56
+P0172,Jorge Gómez,NA,M,San Isidro,Odontología,2021-10-31,119.15
+P0173,Pedro Torres,NA,M,Miraflores,Cardiología,2021-10-06,114.84
+P0174,Miguel Gómez,14,F,Los Olivos,Medicina General,2023-02-22,226.03
+P0175,Jorge Rojas,31,NA,Comas,Dermatología,2022-04-03,129.8
+P0176,Luis García,37,F,NA,Medicina General,2022-05-16,261.93
+P0177,Ana Castillo,36,F,Surco,Pediatría,2024-02-24,56.86
+P0178,Jorge Castillo,78,F,San Isidro,Pediatría,2021-10-28,489.45
+P0179,María Torres,87,F,Comas,Odontología,2023-01-13,371.93
+P0180,José Ramírez,60,F,Lima,NA,2021-02-16,421.23
+P0181,José Ramírez,NA,NA,Lima,Medicina General,2023-10-01,153.2
+P0182,Miguel Torres,NA,F,Lima,Medicina General,2020-08-11,102.83
+P0183,Rosa Gómez,NA,NA,NA,Odontología,2024-01-30,130.46
+P0184,José Rojas,NA,NA,San Isidro,NA,2023-10-21,379.38
+P0185,Luis Gómez,33,NA,Callao,Odontología,2023-07-22,457.96
+P0186,José Pérez,43,M,Comas,Pediatría,2022-01-28,451.17
+P0187,José Rojas,27,M,Los Olivos,Dermatología,2022-03-31,171.37
+P0188,Carmen García,NA,,Lima,NA,2022-08-22,433.48
+P0189,Lucía Flores,33,F,NA,Dermatología,2024-07-10,96.94
+P0190,María Ramírez,NA,NA,Surco,Odontología,2023-07-31,459.34
+P0191,Jorge Castillo,NA,M,NA,Odontología,2021-09-26,171.53
+P0192,Jorge García,43,M,Comas,Odontología,2023-06-03,469.41
+P0193,María Rojas,41,,Miraflores,Oncología,2021-06-19,274.92
+P0194,Carmen Torres,NA,,Callao,Pediatría,2023-04-10,418.12
+P0195,Lucía Pérez,NA,M,NA,NA,2022-03-02,418.4
+P0196,Miguel Gómez,72,M,Surco,Dermatología,2022-07-02,347.31
+P0197,Lucía Pérez,NA,NA,San Isidro,Oncología,2022-05-02,196.74
+P0198,María Torres,15,M,Lima,Odontología,2023-06-22,94.44
+P0199,Ana Rojas,58,,Callao,Oncología,2020-06-23,368.29
+P0200,José Rojas,NA,NA,Surco,Oncología,2020-01-24,172.42
+P0201,María Castillo,7,M,Lima,Oncología,2023-05-21,358.06
+P0202,Pedro Pérez,NA,M,NA,Oncología,2024-01-21,372.41
+P0203,Pedro García,36,M,Los Olivos,Pediatría,2023-07-22,243.7
+P0204,Carmen Flores,NA,,Miraflores,NA,2020-09-09,178.88
+P0205,Luis García,60,,Surco,NA,2021-05-31,385.04
+P0206,Ana Rojas,NA,NA,NA,Dermatología,2024-11-22,299.91
+P0207,Miguel Rojas,NA,M,Los Olivos,Medicina General,2023-07-04,303.21
+P0208,Miguel Castillo,NA,,NA,Cardiología,2024-09-30,473.11
+P0209,Carmen Castillo,NA,M,Comas,Cardiología,2024-02-07,459.97
+P0210,José García,88,M,Lima,Oncología,2024-07-24,330.26
+P0211,Rosa Pérez,19,NA,Miraflores,Medicina General,2023-01-11,328.38
+P0212,Rosa Rojas,NA,F,Callao,NA,2023-05-09,298.62
+P0213,Rosa Torres,58,F,Lima,Cardiología,2021-08-09,149.73
+P0214,José Ramírez,NA,,NA,Pediatría,2022-03-18,414.22
+P0215,Lucía Flores,NA,M,Los Olivos,Medicina General,2021-03-30,438.34
+P0216,Lucía Pérez,2,NA,NA,Dermatología,2022-11-08,426.93
+P0217,Lucía Ramírez,NA,NA,San Isidro,Dermatología,2021-06-09,251.05
+P0218,Ana Rojas,NA,,Surco,Odontología,2020-08-08,408.57
+P0219,José García,NA,,Los Olivos,Dermatología,2023-04-03,418.28
+P0220,José Castillo,NA,M,Comas,Pediatría,2023-10-22,205.93
+P0221,Rosa Pérez,NA,F,NA,Dermatología,2020-09-03,142.46
+P0222,José Castillo,81,,Surco,Pediatría,2023-09-29,203.24
+P0223,Carmen Flores,80,,NA,Pediatría,2022-04-08,450.79
+P0224,Luis García,NA,F,San Isidro,Pediatría,2021-03-23,162.25
+P0225,Miguel Torres,90,F,NA,Oncología,2023-11-24,74.47
+P0226,Miguel Castillo,24,NA,Callao,Medicina General,2023-06-12,100.37
+P0227,Carmen Castillo,70,F,San Isidro,Cardiología,2020-02-05,385.66
+P0228,Carmen Rojas,NA,F,San Isidro,Cardiología,2020-11-15,312.99
+P0229,Ana Rojas,88,M,NA,Cardiología,2025-01-01,492.13
+P0230,Pedro García,NA,M,Callao,Cardiología,2021-05-05,129.19
+P0231,María Pérez,NA,NA,Lima,Odontología,2020-11-28,267.81
+P0232,María García,NA,,Los Olivos,NA,2021-12-22,195.03
+P0233,Pedro Castillo,NA,F,Miraflores,Odontología,2021-04-14,240.14
+P0234,Pedro Torres,33,F,Los Olivos,Medicina General,2022-06-19,442.19
+P0235,Pedro Pérez,64,,Los Olivos,Cardiología,2023-07-19,187.45
+P0236,María Torres,NA,NA,Miraflores,NA,2023-05-10,57.81
+P0237,Rosa Gómez,NA,M,Los Olivos,Oncología,2023-09-16,304.81
+P0238,José Pérez,38,M,Los Olivos,Cardiología,2021-02-21,141.43
+P0239,Rosa Rojas,NA,M,Surco,Oncología,2021-05-08,444.94
+P0240,Rosa Castillo,67,M,Callao,Cardiología,2021-11-04,63.22
+P0241,Luis Gómez,38,NA,Surco,NA,2021-02-20,431.58
+P0242,Miguel Rojas,NA,F,San Isidro,Cardiología,2023-05-27,95.47
+P0243,Rosa Torres,NA,F,Los Olivos,Dermatología,2024-08-28,306.92
+P0244,José Pérez,12,NA,San Isidro,Cardiología,2022-09-29,447.28
+P0245,Ana Castillo,36,,San Isidro,Odontología,2024-08-29,266.26
+P0246,Luis Gómez,NA,F,Miraflores,NA,2023-12-19,470.81
+P0247,Lucía Rojas,NA,F,Miraflores,Odontología,2022-12-28,61.81
+P0248,Lucía Ramírez,48,,San Isidro,Medicina General,2020-02-05,265.51
+P0249,Pedro Pérez,69,F,Los Olivos,Cardiología,2024-11-12,166.79
+P0250,Rosa Castillo,89,,Miraflores,Pediatría,2023-01-12,219.5
+P0251,Jorge Gómez,50,M,Surco,NA,2021-11-02,136.18
+P0252,Ana Castillo,74,M,Comas,Pediatría,2024-01-30,461.65
+P0253,Lucía Pérez,NA,M,Surco,Medicina General,2020-04-12,231.64
+P0254,Carmen Gómez,NA,M,San Isidro,Pediatría,2021-04-06,272.56
+P0255,Carmen Pérez,13,,Callao,NA,2022-11-26,418.56
+P0256,José Pérez,67,M,San Isidro,Cardiología,2021-04-14,203.35
+P0257,Jorge Torres,66,,Lima,NA,2020-04-01,126.78
+P0258,Carmen García,NA,M,Miraflores,Cardiología,2022-12-31,499.48
+P0259,Ana Rojas,NA,F,Los Olivos,Dermatología,2024-01-04,448.42
+P0260,Carmen Rojas,NA,F,Miraflores,Medicina General,2024-12-12,54.61
+P0261,María García,34,,Surco,Odontología,2021-07-26,59.86
+P0262,Luis Gómez,NA,NA,Surco,Pediatría,2022-10-01,426.33
+P0263,Ana Ramírez,NA,F,Callao,Oncología,2021-04-01,388.01
+P0264,Jorge Castillo,78,M,Surco,NA,2021-12-20,257.07
+P0265,Miguel García,NA,F,San Isidro,NA,2021-06-01,175.12
+P0266,Pedro Gómez,41,NA,Miraflores,Oncología,2022-09-21,201.71
+P0267,María Ramírez,9,,San Isidro,Cardiología,2021-02-07,235.62
+P0268,Ana Rojas,NA,F,Comas,NA,2023-01-12,193.91
+P0269,José Flores,NA,NA,NA,NA,2020-02-06,298.34
+P0270,José Castillo,8,F,NA,Pediatría,2022-08-08,189.12
+P0271,Lucía Ramírez,NA,M,Comas,Odontología,2022-04-12,168.36
+P0272,Rosa Flores,NA,NA,Surco,Cardiología,2022-09-10,277.65
+P0273,Pedro Flores,NA,M,Surco,Medicina General,2024-03-11,232.66
+P0274,José Torres,52,F,Miraflores,NA,2024-07-30,255.34
+P0275,Pedro Flores,42,,Miraflores,NA,2022-06-17,246.73
+P0276,Miguel Pérez,20,,Los Olivos,Oncología,2024-08-16,53.53
+P0277,Carmen Rojas,NA,M,NA,Pediatría,2020-06-05,275.59
+P0278,María Torres,43,M,Surco,Medicina General,2022-05-24,398.33
+P0279,Rosa Pérez,82,M,Callao,Odontología,2023-04-21,492.82
+P0280,Carmen Ramírez,NA,,Los Olivos,Odontología,2020-05-20,391.57
+P0281,María Rojas,82,F,NA,NA,2024-11-24,60.21
+P0282,Jorge Castillo,NA,F,Miraflores,Dermatología,2021-06-19,494.62
+P0283,Ana Torres,NA,NA,Los Olivos,Medicina General,2023-08-15,401.07
+P0284,Jorge Rojas,NA,M,San Isidro,Oncología,2020-09-02,475.22
+P0285,Pedro García,47,M,Los Olivos,Pediatría,2021-09-21,142.76
+P0286,Miguel Torres,56,F,Surco,Pediatría,2020-03-02,313.86
+P0287,Lucía Gómez,NA,M,Miraflores,NA,2020-04-07,118.31
+P0288,Lucía Pérez,67,M,Callao,NA,2023-05-21,217.95
+P0289,Jorge Flores,29,NA,San Isidro,Dermatología,2022-03-16,414.46
+P0290,Ana Flores,25,,Callao,Dermatología,2023-07-12,172.3
+P0291,José Torres,42,NA,Lima,Odontología,2020-08-27,147.02
+P0292,Miguel Torres,NA,M,Callao,Oncología,2021-08-25,303.22
+P0293,Luis Ramírez,NA,NA,Lima,Oncología,2020-11-09,244.09
+P0294,Jorge García,NA,NA,Lima,Pediatría,2021-08-12,225.25
+P0295,Ana García,15,,Miraflores,Dermatología,2021-06-04,317.63
+P0296,María Castillo,87,F,Lima,Dermatología,2021-07-14,455.85
+P0297,Rosa Rojas,74,F,NA,Pediatría,2024-12-22,258.95
+P0298,Ana Ramírez,NA,F,Surco,Odontología,2020-01-02,460.49
+P0299,Luis Castillo,NA,F,Miraflores,Odontología,2023-11-01,478.32
+P0300,Carmen Pérez,88,F,NA,NA,2022-04-13,396.43
+P0301,Miguel Ramírez,66,NA,Comas,Cardiología,2022-10-04,338.54
+P0302,Luis Castillo,35,F,Los Olivos,Oncología,2020-10-26,496.87
+P0303,Jorge Rojas,56,M,Lima,Oncología,2022-06-08,472.24
+P0304,María García,41,M,Comas,Medicina General,2020-11-24,407.08
+P0305,Lucía García,32,F,San Isidro,Oncología,2024-04-07,70.6
+P0306,Lucía Castillo,NA,,Lima,Dermatología,2020-01-18,111.79
+P0307,Rosa Torres,NA,M,Surco,NA,2023-06-08,89.87
+P0308,José Flores,16,M,Lima,Medicina General,2023-02-12,121.79
+P0309,Luis Torres,41,F,Comas,Medicina General,2023-11-10,404.53
+P0310,Jorge Rojas,45,F,Comas,NA,2020-05-11,212.26
+P0311,Lucía García,42,M,Surco,Pediatría,2024-12-02,317.55
+P0312,Luis García,67,NA,Lima,Pediatría,2020-08-15,380.83
+P0313,Luis García,58,M,Lima,Dermatología,2020-09-09,326.44
+P0314,José Ramírez,NA,NA,San Isidro,Dermatología,2022-03-25,482.7
+P0315,Rosa Flores,NA,,San Isidro,NA,2021-11-09,334.07
+P0316,Lucía Ramírez,15,M,Comas,Oncología,2024-03-01,280.67
+P0317,María Gómez,53,NA,Miraflores,Oncología,2021-12-30,437.05
+P0318,José Ramírez,41,F,Callao,Odontología,2024-08-03,278.12
+P0319,Rosa Castillo,18,NA,NA,Pediatría,2024-04-07,347.46
+P0320,Rosa Castillo,NA,NA,Los Olivos,Oncología,2020-01-24,77.79
+P0321,Lucía Torres,NA,F,Callao,NA,2024-08-25,329.5
+P0322,María Gómez,NA,F,Lima,NA,2020-06-29,131.44
+P0323,Carmen Gómez,NA,M,Lima,Dermatología,2022-08-09,137.72
+P0324,Carmen Castillo,NA,,Surco,Medicina General,2020-06-30,386.23
+P0325,Ana García,78,M,NA,Odontología,2021-11-16,310.87
+P0326,Ana Gómez,NA,M,NA,Pediatría,2023-08-23,119.43
+P0327,Carmen Rojas,NA,M,Surco,Odontología,2020-10-26,417.07
+P0328,Pedro Castillo,66,F,Lima,Medicina General,2024-10-24,394.53
+P0329,Rosa Rojas,NA,,Lima,Odontología,2021-11-26,100.5
+P0330,Miguel Flores,63,F,Lima,Odontología,2020-04-29,374.84
+P0331,Rosa Ramírez,NA,M,Lima,Cardiología,2023-03-15,275.66
+P0332,Rosa Gómez,NA,M,Callao,Cardiología,2020-12-23,293.07
+P0333,María Flores,NA,,Surco,Cardiología,2020-02-03,449.44
+P0334,Luis Ramírez,NA,,Miraflores,Medicina General,2021-04-15,145.99
+P0335,Lucía Flores,NA,F,Comas,Oncología,2021-12-29,152.14
+P0336,Luis Castillo,NA,M,Miraflores,NA,2022-02-12,286.08
+P0337,Ana Torres,NA,NA,Lima,Oncología,2021-11-02,280.9
+P0338,Carmen Gómez,NA,NA,Los Olivos,Oncología,2024-11-16,335.14
+P0339,Ana Pérez,NA,M,Surco,Pediatría,2023-12-29,396.27
+P0340,José Rojas,NA,NA,San Isidro,Pediatría,2020-07-02,208.94
+P0341,María Flores,NA,F,Miraflores,Oncología,2020-02-02,423.9
+P0342,Miguel Torres,17,NA,Lima,Cardiología,2022-06-21,215.08
+P0343,Luis Rojas,NA,F,Comas,Oncología,2020-02-12,173.46
+P0344,Luis Ramírez,5,NA,Callao,Oncología,2023-10-29,147.67
+P0345,Jorge Ramírez,64,,Callao,Pediatría,2023-02-25,156.23
+P0346,Miguel Torres,83,NA,Comas,Dermatología,2020-08-12,192.85
+P0347,Jorge Ramírez,61,,San Isidro,Cardiología,2021-09-02,64.4
+P0348,Luis Rojas,74,NA,NA,Medicina General,2022-12-16,483.97
+P0349,Lucía Ramírez,34,NA,NA,Odontología,2024-09-23,446.83
+P0350,Ana Ramírez,77,,Comas,NA,2024-08-15,174.37
+P0351,Miguel Castillo,NA,M,San Isidro,Odontología,2023-01-16,270.88
+P0352,Ana Gómez,48,NA,Lima,Oncología,2023-12-09,92.1
+P0353,Pedro Rojas,NA,M,San Isidro,Oncología,2023-08-30,496.78
+P0354,Pedro Gómez,NA,M,Comas,Oncología,2022-09-06,150.32
+P0355,María Gómez,NA,NA,Los Olivos,Odontología,2021-12-10,417.12
+P0356,Rosa Flores,NA,,Los Olivos,Odontología,2021-09-13,167.94
+P0357,Luis García,NA,M,Los Olivos,Oncología,2020-04-08,167.46
+P0358,María Flores,70,,NA,Cardiología,2021-09-16,129.49
+P0359,Luis Castillo,75,F,Comas,NA,2022-01-06,281.85
+P0360,Pedro Castillo,NA,NA,San Isidro,NA,2021-10-24,408.15
+P0361,Jorge Castillo,40,F,Los Olivos,Dermatología,2022-12-02,276.83
+P0362,Luis García,61,M,Los Olivos,Pediatría,2020-12-01,382.32
+P0363,Ana Flores,NA,,Callao,NA,2023-11-12,203.84
+P0364,Jorge Pérez,NA,M,Lima,Odontología,2024-07-12,379.91
+P0365,Rosa García,74,M,Callao,Oncología,2023-12-28,318.3
+P0366,Miguel Gómez,65,,NA,Dermatología,2021-04-13,453.55
+P0367,José Ramírez,5,M,Miraflores,Oncología,2022-12-05,221.41
+P0368,Carmen Pérez,73,M,Surco,Oncología,2023-06-27,191.65
+P0369,Pedro Gómez,33,M,San Isidro,Odontología,2021-01-05,169.21
+P0370,Miguel Torres,NA,F,Surco,Dermatología,2022-07-06,336.22
+P0371,Luis Ramírez,NA,M,Miraflores,Cardiología,2024-06-03,88.59
+P0372,Pedro Flores,47,NA,Lima,Cardiología,2022-09-20,212.94
+P0373,Ana Gómez,28,M,Comas,Oncología,2024-06-23,177.02
+P0374,Miguel Castillo,NA,M,Surco,Oncología,2023-08-11,355.11
+P0375,Jorge Castillo,27,F,Miraflores,Pediatría,2021-03-20,352.88
+P0376,Jorge Rojas,69,M,Callao,Dermatología,2022-08-07,347.75
+P0377,Carmen Ramírez,4,F,Surco,Pediatría,2021-06-05,233.92
+P0378,Ana Gómez,NA,NA,Comas,Pediatría,2024-11-26,409.89
+P0379,Ana García,NA,M,Lima,Cardiología,2023-03-11,300.4
+P0380,José Torres,24,NA,NA,Odontología,2022-04-13,171.94
+P0381,Jorge Flores,NA,,Miraflores,Cardiología,2020-03-25,242.94
+P0382,Rosa Rojas,NA,NA,Surco,Odontología,2024-03-02,427.51
+P0383,María Pérez,NA,NA,Surco,Dermatología,2024-05-18,298.52
+P0384,María Torres,NA,M,Surco,NA,2020-01-30,189.8
+P0385,Miguel Ramírez,NA,,Comas,Cardiología,2022-08-18,447.9
+P0386,Carmen Torres,NA,,Miraflores,Oncología,2024-10-29,344.74
+P0387,Jorge Ramírez,90,,Los Olivos,Medicina General,2021-03-20,467.77
+P0388,José Ramírez,57,M,Surco,Odontología,2023-06-01,137.63
+P0389,Pedro Torres,23,,San Isidro,Odontología,2021-07-05,479.64
+P0390,Luis García,27,F,Comas,Pediatría,2020-02-12,244.14
+P0391,Ana Rojas,37,,Miraflores,Odontología,2022-09-22,400.0
+P0392,Pedro Torres,NA,NA,NA,Odontología,2022-12-15,450.85
+P0393,Luis Ramírez,NA,,Callao,Medicina General,2024-08-05,365.74
+P0394,Ana Torres,NA,,NA,NA,2020-12-17,63.55
+P0395,María Torres,34,NA,Lima,NA,2020-12-02,91.81
+P0396,Ana Flores,NA,NA,Callao,Dermatología,2023-05-18,322.78
+P0397,Jorge Ramírez,8,NA,Surco,Pediatría,2021-04-03,88.81
+P0398,Luis Rojas,NA,M,Miraflores,Cardiología,2021-06-29,151.04
+P0399,Ana Castillo,NA,,Los Olivos,Odontología,2022-06-22,103.09
+P0400,Carmen Castillo,NA,,Miraflores,Odontología,2022-05-12,78.15
+P0401,Jorge Ramírez,22,M,Surco,Medicina General,2024-08-03,149.94
+P0402,Ana Rojas,52,,Miraflores,NA,2021-11-25,397.17
+P0403,Pedro Gómez,NA,NA,Los Olivos,NA,2024-04-25,397.95
+P0404,Luis Flores,30,F,Lima,Medicina General,2022-11-05,238.62
+P0405,Jorge Gómez,NA,,NA,NA,2021-08-14,59.48
+P0406,Carmen Flores,39,,Miraflores,Dermatología,2024-04-28,431.08
+P0407,José Ramírez,NA,F,Lima,Dermatología,2023-06-09,299.08
+P0408,Ana Gómez,78,F,Lima,Dermatología,2023-04-09,161.28
+P0409,María Pérez,13,,Callao,NA,2023-12-08,91.13
+P0410,José Ramírez,NA,M,NA,Cardiología,2021-07-01,120.35
+P0411,Carmen Castillo,74,,San Isidro,Cardiología,2023-08-20,315.09
+P0412,Pedro Rojas,NA,F,Miraflores,Cardiología,2024-01-13,69.09
+P0413,Ana Ramírez,24,,Los Olivos,Pediatría,2020-08-24,73.3
+P0414,Lucía Flores,90,,Surco,Odontología,2023-09-20,252.52
+P0415,Rosa Castillo,60,,Surco,Dermatología,2020-09-03,472.21
+P0416,Pedro Ramírez,5,,Miraflores,Odontología,2023-08-11,372.48
+P0417,Carmen Rojas,NA,F,Comas,Cardiología,2020-07-25,303.87
+P0418,Pedro Pérez,21,NA,San Isidro,Dermatología,2021-02-24,193.02
+P0419,Ana Castillo,42,M,NA,NA,2020-04-22,322.71
+P0420,Ana Flores,7,F,Lima,Oncología,2023-03-13,83.54
+P0421,Jorge Gómez,9,M,San Isidro,Dermatología,2023-12-24,128.25
+P0422,Rosa Ramírez,50,NA,Miraflores,Odontología,2021-04-23,70.91
+P0423,Lucía Gómez,75,,Miraflores,Odontología,2020-06-30,142.32
+P0424,María García,72,NA,Callao,Medicina General,2021-01-07,328.56
+P0425,Miguel Castillo,64,M,Lima,Dermatología,2021-09-21,321.48
+P0426,Jorge Pérez,41,NA,Callao,Odontología,2021-01-02,67.83
+P0427,Ana Gómez,20,M,NA,Odontología,2020-01-04,196.77
+P0428,Ana García,NA,,Comas,Medicina General,2024-02-29,425.24
+P0429,José Rojas,NA,M,NA,Odontología,2022-12-25,217.07
+P0430,Ana Ramírez,13,NA,Lima,Cardiología,2021-01-17,147.0
+P0431,José Pérez,NA,NA,NA,Medicina General,2022-06-05,308.62
+P0432,María Torres,87,F,Comas,Cardiología,2023-05-01,151.08
+P0433,Pedro Gómez,57,NA,Surco,Medicina General,2024-08-27,90.16
+P0434,Ana Gómez,76,F,Lima,Odontología,2020-03-03,183.62
+P0435,Carmen Castillo,NA,F,Los Olivos,Cardiología,2024-05-05,447.03
+P0436,Miguel Gómez,NA,F,San Isidro,Medicina General,2021-12-07,334.6
+P0437,Rosa Torres,77,,Los Olivos,NA,2020-08-16,140.23
+P0438,Pedro García,34,M,Lima,NA,2024-11-12,198.35
+P0439,José Pérez,52,NA,Comas,Odontología,2024-01-14,485.5
+P0440,José Flores,NA,F,NA,Medicina General,2022-03-06,398.57
+P0441,Lucía Torres,76,NA,NA,Oncología,2023-11-22,154.94
+P0442,Luis García,16,M,Miraflores,Oncología,2022-11-26,64.27
+P0443,Lucía Gómez,36,F,Lima,Pediatría,2023-10-04,64.73
+P0444,María Torres,22,F,NA,Pediatría,2022-09-22,402.62
+P0445,Luis Pérez,NA,F,Callao,Odontología,2024-05-25,187.87
+P0446,Luis Flores,70,NA,Miraflores,Dermatología,2023-07-24,301.72
+P0447,José Gómez,2,NA,Los Olivos,Medicina General,2023-11-05,249.02
+P0448,Lucía Rojas,87,,NA,Oncología,2020-02-25,346.82
+P0449,María Flores,1,NA,Miraflores,Dermatología,2022-03-16,412.61
+P0450,Jorge García,NA,NA,Surco,Odontología,2023-12-02,150.35
+P0451,Pedro García,72,F,NA,Dermatología,2023-05-17,422.48
+P0452,Rosa Gómez,NA,NA,Miraflores,NA,2023-10-30,409.61
+P0453,Rosa Castillo,NA,F,Callao,Odontología,2021-01-11,323.39
+P0454,José Flores,NA,M,Los Olivos,Dermatología,2024-12-16,234.68
+P0455,Ana García,NA,NA,Surco,Cardiología,2023-06-29,421.41
+P0456,Luis Torres,NA,,Comas,Odontología,2022-11-16,499.79
+P0457,Carmen Gómez,NA,M,Miraflores,NA,2023-08-07,379.93
+P0458,Lucía Torres,49,F,Lima,Dermatología,2020-12-18,416.69
+P0459,Lucía García,57,M,Callao,Medicina General,2023-04-10,273.28
+P0460,María Flores,NA,,Comas,Pediatría,2021-02-13,116.46
+P0461,Rosa Gómez,73,NA,Comas,Medicina General,2020-05-14,431.98
+P0462,Rosa Torres,21,F,Lima,Dermatología,2022-12-13,422.51
+P0463,Miguel Torres,NA,M,Lima,Oncología,2023-05-14,256.87
+P0464,Miguel Pérez,46,M,Los Olivos,Dermatología,2022-07-07,284.06
+P0465,María Rojas,NA,F,Los Olivos,Odontología,2024-12-28,129.51
+P0466,María Flores,17,NA,Callao,Cardiología,2021-08-28,460.22
+P0467,Luis Gómez,45,NA,Surco,Dermatología,2023-08-05,422.11
+P0468,Carmen Rojas,NA,M,Callao,Pediatría,2023-04-05,244.12
+P0469,José Torres,NA,F,NA,Oncología,2021-02-01,52.86
+P0470,Carmen García,NA,NA,Comas,Cardiología,2023-05-26,453.6
+P0471,Miguel Flores,NA,,Lima,Medicina General,2024-07-26,436.53
+P0472,Pedro García,9,F,Surco,NA,2021-08-14,414.5
+P0473,Ana Ramírez,74,NA,Miraflores,Oncología,2022-11-18,200.32
+P0474,Carmen Ramírez,22,M,NA,Oncología,2024-09-06,377.54
+P0475,Carmen Flores,NA,F,Callao,Pediatría,2020-02-14,461.46
+P0476,María Pérez,72,NA,San Isidro,Odontología,2021-09-08,84.12
+P0477,María Flores,37,,Callao,Pediatría,2022-12-29,307.19
+P0478,José Flores,49,F,Lima,Odontología,2024-05-06,428.19
+P0479,Rosa Castillo,5,NA,Surco,Cardiología,2022-05-29,415.4
+P0480,Pedro García,72,F,Lima,Odontología,2021-04-09,123.23
+P0481,Carmen Gómez,41,M,Los Olivos,Pediatría,2024-01-26,356.58
+P0482,Ana Ramírez,73,,Miraflores,Odontología,2024-11-21,240.88
+P0483,Pedro Pérez,15,M,Lima,NA,2020-05-20,58.4
+P0484,Ana Pérez,74,,Surco,Cardiología,2020-01-05,253.13
+P0485,Carmen Flores,69,M,Miraflores,Oncología,2024-08-28,360.62
+P0486,Pedro Torres,NA,NA,NA,Oncología,2021-01-03,154.47
+P0487,Luis García,NA,NA,Lima,NA,2024-08-23,107.75
+P0488,Luis Rojas,59,M,NA,NA,2021-03-06,237.82
+P0489,Jorge Castillo,NA,F,Lima,Cardiología,2022-03-20,432.71
+P0490,Jorge Torres,25,M,Callao,NA,2020-01-21,407.15
+P0491,Lucía Flores,81,M,Los Olivos,Oncología,2020-03-04,207.35
+P0492,Pedro Flores,NA,F,San Isidro,Pediatría,2022-01-17,414.22
+P0493,María Pérez,46,NA,Lima,Dermatología,2020-08-30,389.7
+P0494,Jorge Flores,34,M,NA,Odontología,2020-08-27,415.87
+P0495,José Gómez,9,M,Los Olivos,Medicina General,2020-06-19,381.72
+P0496,José Flores,NA,M,Comas,Oncología,2023-01-03,64.57
+P0497,Carmen Gómez,NA,,Miraflores,Cardiología,2021-06-24,445.82
+P0498,Carmen Gómez,53,,Miraflores,Medicina General,2022-03-19,109.98
+P0499,Pedro Flores,NA,M,Lima,NA,2024-10-26,487.07
+P0500,Lucía García,NA,F,Comas,Cardiología,2023-07-03,346.62
+P0501,Carmen Ramírez,29,NA,NA,Pediatría,2022-12-17,267.12
+P0502,Carmen Gómez,23,NA,NA,NA,2024-03-27,103.59
+P0503,José Ramírez,NA,,Los Olivos,Cardiología,2024-10-03,139.29
+P0504,Carmen Gómez,16,F,Los Olivos,Cardiología,2024-10-19,305.59
+P0505,Rosa Torres,16,M,Callao,Dermatología,2024-09-19,208.37
+P0506,José Flores,NA,F,Los Olivos,Dermatología,2022-08-12,276.84
+P0507,María Ramírez,NA,,Surco,Cardiología,2022-01-19,355.47
+P0508,Carmen Pérez,NA,,Miraflores,Oncología,2023-05-29,407.93
+P0509,Pedro Castillo,37,,Miraflores,Oncología,2023-08-01,312.08
+P0510,Rosa Gómez,51,,Los Olivos,Dermatología,2020-04-03,233.92
+P0511,Lucía Flores,NA,,NA,Dermatología,2023-08-24,294.46
+P0512,Pedro Pérez,NA,,Callao,Medicina General,2023-08-22,145.86
+P0513,Jorge Torres,82,,NA,Dermatología,2022-02-06,66.41
+P0514,Miguel Castillo,NA,M,NA,Medicina General,2022-01-12,76.86
+P0515,María Torres,NA,M,Comas,Oncología,2023-10-11,288.53
+P0516,Lucía García,NA,,Lima,Medicina General,2021-08-17,274.64
+P0517,Miguel Gómez,NA,M,Lima,NA,2024-11-01,124.0
+P0518,Carmen García,NA,NA,NA,NA,2022-01-26,272.61
+P0519,Pedro Castillo,NA,,Los Olivos,Oncología,2022-09-06,356.88
+P0520,Jorge Castillo,NA,,Comas,Medicina General,2021-10-13,80.38
+P0521,Miguel Flores,54,NA,NA,Medicina General,2022-01-04,421.84
+P0522,Rosa García,NA,F,Lima,Pediatría,2024-01-25,266.17
+P0523,Miguel Castillo,40,NA,Surco,Oncología,2024-11-29,85.77
+P0524,Lucía Gómez,63,M,Surco,Oncología,2024-10-27,429.05
+P0525,Rosa Ramírez,NA,M,Los Olivos,Dermatología,2020-06-15,408.68
+P0526,Miguel Gómez,NA,NA,Surco,Odontología,2022-12-22,498.38
+P0527,María Ramírez,NA,,Comas,Dermatología,2024-09-01,332.83
+P0528,Pedro Pérez,NA,NA,Comas,Odontología,2023-07-03,226.59
+P0529,Jorge García,NA,NA,San Isidro,Odontología,2024-01-10,209.96
+P0530,Lucía García,NA,F,San Isidro,Dermatología,2024-06-02,132.89
+P0531,María Gómez,88,F,Miraflores,Odontología,2020-05-06,404.13
+P0532,Jorge Ramírez,38,NA,Surco,Odontología,2021-05-20,366.68
+P0533,Lucía Castillo,NA,NA,Comas,Cardiología,2022-03-11,225.58
+P0534,Miguel Gómez,10,F,Surco,Pediatría,2023-04-02,138.48
+P0535,Lucía Torres,NA,,Miraflores,Odontología,2022-01-30,450.14
+P0536,Lucía Pérez,29,NA,Los Olivos,Cardiología,2020-05-07,305.31
+P0537,Carmen Pérez,42,M,Los Olivos,Oncología,2023-02-04,470.39
+P0538,Pedro Pérez,NA,F,Comas,Odontología,2024-03-02,319.12
+P0539,Rosa Pérez,71,M,Callao,Oncología,2023-06-14,441.69
+P0540,José Castillo,NA,F,Miraflores,Dermatología,2020-09-13,289.92
+P0541,Carmen Ramírez,63,,Comas,Pediatría,2022-12-17,186.43
+P0542,María Torres,NA,M,Callao,Odontología,2020-03-03,137.14
+P0543,Luis Pérez,67,M,Surco,Odontología,2021-08-31,139.01
+P0544,Pedro Flores,NA,M,Miraflores,Medicina General,2024-06-21,231.55
+P0545,María Flores,NA,NA,San Isidro,Odontología,2023-12-14,73.16
+P0546,María Gómez,20,M,Callao,Pediatría,2020-12-12,136.96
+P0547,Pedro Torres,49,M,Lima,NA,2022-06-21,213.45
+P0548,Pedro Castillo,NA,,Lima,NA,2023-12-19,241.98
+P0549,José Ramírez,77,,Comas,Cardiología,2022-04-24,54.56
+P0550,Ana Gómez,4,,Surco,Medicina General,2022-12-14,343.97
+P0551,Luis Flores,59,NA,Miraflores,Medicina General,2023-04-29,342.79
+P0552,Pedro Rojas,NA,NA,Comas,NA,2020-08-13,303.96
+P0553,Lucía Gómez,31,,Los Olivos,Oncología,2024-10-13,212.41
+P0554,María Castillo,25,NA,NA,Pediatría,2020-01-24,360.58
+P0555,Ana Flores,NA,F,Los Olivos,Medicina General,2022-06-10,420.05
+P0556,Miguel Gómez,27,,Los Olivos,NA,2023-12-19,449.34
+P0557,Rosa Castillo,NA,M,NA,Odontología,2021-09-20,476.73
+P0558,Pedro Flores,69,,Lima,Pediatría,2022-12-25,354.5
+P0559,Luis García,NA,M,Los Olivos,Oncología,2024-07-13,442.64
+P0560,Pedro Pérez,10,M,Surco,Cardiología,2020-10-02,160.39
+P0561,Luis Gómez,NA,NA,Lima,Medicina General,2022-09-12,102.02
+P0562,Pedro Pérez,NA,F,NA,Cardiología,2022-12-01,433.95
+P0563,María Castillo,NA,,NA,NA,2024-08-22,68.65
+P0564,Carmen Castillo,NA,,San Isidro,Cardiología,2022-04-27,244.33
+P0565,Miguel Gómez,39,F,NA,Oncología,2024-04-22,464.83
+P0566,Ana García,33,NA,NA,Dermatología,2024-08-23,415.29
+P0567,José Rojas,64,M,San Isidro,Pediatría,2021-10-01,415.84
+P0568,Jorge Flores,NA,,San Isidro,Medicina General,2024-09-30,191.12
+P0569,Carmen Castillo,18,,Los Olivos,Pediatría,2023-08-01,209.97
+P0570,Rosa Torres,78,M,San Isidro,Pediatría,2024-08-23,249.37
+P0571,Miguel Castillo,NA,NA,Lima,Pediatría,2021-12-18,329.06
+P0572,Ana Pérez,NA,M,Callao,NA,2020-07-22,227.1
+P0573,Miguel Gómez,34,,Miraflores,Pediatría,2020-07-27,329.5
+P0574,Lucía Castillo,NA,F,San Isidro,Medicina General,2023-01-30,438.7
+P0575,Miguel Flores,NA,,San Isidro,Medicina General,2023-10-12,140.92
+P0576,Jorge Rojas,80,F,Los Olivos,NA,2021-01-08,52.28
+P0577,Lucía Gómez,NA,,Callao,Cardiología,2023-11-11,90.46
+P0578,María Castillo,24,NA,Surco,Odontología,2023-06-15,391.9
+P0579,María García,NA,M,NA,Odontología,2021-05-11,358.32
+P0580,José Flores,31,F,Miraflores,Pediatría,2021-03-24,177.23
+P0581,Carmen Pérez,16,F,San Isidro,Medicina General,2021-09-25,281.04
+P0582,Ana Ramírez,80,M,NA,Pediatría,2023-11-14,268.98
+P0583,Lucía Gómez,NA,F,Miraflores,Medicina General,2020-10-31,244.32
+P0584,Rosa Flores,29,NA,Surco,Dermatología,2022-06-23,227.82
+P0585,Ana Gómez,81,M,NA,Odontología,2023-12-12,240.66
+P0586,Pedro Flores,NA,F,Comas,Odontología,2022-12-18,177.72
+P0587,Ana Flores,16,,Miraflores,Medicina General,2022-03-19,455.28
+P0588,Lucía Ramírez,NA,,San Isidro,Medicina General,2023-07-04,214.64
+P0589,José Ramírez,NA,,Lima,Oncología,2021-04-29,230.81
+P0590,José Gómez,NA,NA,Miraflores,Dermatología,2020-12-26,351.96
+P0591,María Ramírez,6,M,Surco,NA,2021-10-14,53.35
+P0592,Miguel Torres,65,,Lima,Oncología,2022-05-23,168.97
+P0593,Luis García,NA,,NA,Medicina General,2023-12-19,352.31
+P0594,Ana Ramírez,17,NA,Miraflores,Oncología,2024-01-25,498.13
+P0595,Ana Torres,NA,M,San Isidro,Pediatría,2024-05-29,74.23
+P0596,Lucía Pérez,NA,NA,Lima,Dermatología,2022-03-23,334.38
+P0597,Luis Castillo,79,,NA,NA,2020-09-02,114.89
+P0598,Luis Gómez,NA,,Miraflores,Cardiología,2022-09-09,243.77
+P0599,Luis Castillo,1,NA,Los Olivos,Medicina General,2024-09-05,216.08
+P0600,María Pérez,NA,,NA,Medicina General,2024-01-12,139.06
+P0601,María Flores,NA,F,Miraflores,Oncología,2023-08-19,335.7
+P0602,Carmen Flores,NA,,Lima,Odontología,2021-09-25,338.72
+P0603,Pedro Pérez,22,NA,NA,Medicina General,2022-03-14,254.6
+P0604,Jorge Flores,NA,F,NA,Medicina General,2024-12-25,340.76
+P0605,María Pérez,NA,M,Miraflores,Medicina General,2024-02-11,370.63
+P0606,Ana Ramírez,54,,Callao,Medicina General,2022-01-21,171.74
+P0607,Lucía Flores,NA,M,NA,Odontología,2020-04-27,51.0
+P0608,Carmen García,86,M,NA,Medicina General,2023-01-15,257.07
+P0609,Pedro Ramírez,37,,Surco,Odontología,2020-10-02,55.91
+P0610,Carmen Torres,33,F,San Isidro,Odontología,2021-07-02,379.61
+P0611,María Flores,35,,Callao,NA,2024-05-08,62.08
+P0612,Lucía Pérez,NA,M,NA,Medicina General,2021-05-12,173.94
+P0613,Pedro Pérez,82,,NA,Cardiología,2021-11-09,236.57
+P0614,Ana Torres,67,NA,NA,Medicina General,2024-11-24,94.32
+P0615,Lucía García,NA,F,Los Olivos,Dermatología,2024-10-13,240.07
+P0616,Lucía García,22,F,Callao,Oncología,2020-03-04,92.78
+P0617,Luis Flores,5,,Lima,Dermatología,2021-06-10,429.26
+P0618,María Castillo,23,F,Los Olivos,NA,2021-09-27,260.48
+P0619,María Castillo,14,,NA,Medicina General,2024-09-17,302.9
+P0620,Miguel Flores,NA,NA,Miraflores,Pediatría,2020-12-21,294.22
+P0621,Pedro Pérez,66,M,Los Olivos,Cardiología,2022-06-07,206.32
+P0622,Lucía Rojas,81,NA,NA,Odontología,2022-05-14,307.14
+P0623,José García,30,,San Isidro,Odontología,2024-10-12,60.66
+P0624,Jorge Ramírez,NA,,Comas,Pediatría,2021-04-08,468.18
+P0625,María Torres,39,F,Comas,Medicina General,2024-05-16,67.95
+P0626,Pedro Flores,34,M,Los Olivos,Dermatología,2021-10-05,464.02
+P0627,José Ramírez,33,M,Lima,Medicina General,2022-09-20,314.37
+P0628,Carmen Torres,68,,NA,Cardiología,2022-03-19,456.61
+P0629,Luis Castillo,87,,Lima,NA,2021-08-01,441.76
+P0630,Lucía Ramírez,NA,F,Los Olivos,Pediatría,2023-04-22,223.31
+P0631,Ana Ramírez,75,NA,San Isidro,Cardiología,2024-01-29,232.73
+P0632,Pedro Torres,NA,M,Comas,Dermatología,2021-08-20,484.5
+P0633,Jorge Ramírez,NA,F,San Isidro,Pediatría,2022-07-27,182.47
+P0634,Miguel Ramírez,NA,F,Comas,NA,2021-08-09,239.33
+P0635,Jorge Pérez,NA,F,Comas,Cardiología,2023-11-14,397.63
+P0636,Lucía Torres,NA,M,Lima,NA,2021-07-26,193.01
+P0637,Jorge Rojas,49,F,Comas,Medicina General,2023-03-04,433.91
+P0638,Lucía Castillo,NA,M,San Isidro,Cardiología,2020-05-04,209.05
+P0639,Pedro Pérez,NA,F,Callao,Oncología,2021-04-13,61.79
+P0640,Jorge Castillo,51,NA,Los Olivos,NA,2020-05-02,303.53
+P0641,José Torres,58,,Los Olivos,NA,2024-03-06,101.93
+P0642,Luis Torres,70,,Los Olivos,Medicina General,2023-04-02,256.51
+P0643,Lucía Torres,71,,Surco,Dermatología,2020-06-18,493.71
+P0644,Luis García,61,,Miraflores,Odontología,2021-10-16,327.31
+P0645,Carmen García,9,NA,Callao,Medicina General,2021-05-15,447.01
+P0646,Rosa Gómez,69,NA,Lima,NA,2024-03-27,226.79
+P0647,José Pérez,NA,F,San Isidro,Pediatría,2023-04-13,214.89
+P0648,Jorge García,NA,F,Comas,Dermatología,2023-05-24,84.54
+P0649,María Torres,NA,M,Callao,Odontología,2020-11-05,214.36
+P0650,Luis García,NA,NA,Callao,NA,2023-12-07,288.65
+P0651,Miguel Flores,NA,,Comas,Medicina General,2024-03-31,490.5
+P0652,José Torres,NA,,Comas,NA,2020-08-21,254.36
+P0653,Carmen Ramírez,NA,M,San Isidro,Medicina General,2023-10-01,481.81
+P0654,Miguel Rojas,15,,Callao,Oncología,2023-12-27,90.17
+P0655,Jorge Torres,78,NA,Los Olivos,Oncología,2023-07-28,121.3
+P0656,Carmen Flores,NA,F,NA,NA,2024-08-19,263.21
+P0657,Carmen Castillo,15,,Callao,Cardiología,2022-06-05,468.98
+P0658,Ana Castillo,NA,,Comas,Cardiología,2020-04-30,77.31
+P0659,Lucía Ramírez,89,M,Comas,Oncología,2022-09-03,170.91
+P0660,José Gómez,73,NA,San Isidro,Cardiología,2022-06-01,156.59
+P0661,Carmen Gómez,44,,San Isidro,Medicina General,2020-05-13,76.79
+P0662,Pedro Ramírez,36,,NA,Pediatría,2021-02-16,88.63
+P0663,Jorge Torres,27,NA,NA,Dermatología,2022-05-05,477.74
+P0664,Rosa Castillo,NA,NA,Callao,Odontología,2022-12-21,357.56
+P0665,Rosa Castillo,88,F,Callao,Pediatría,2023-12-31,373.81
+P0666,Lucía Gómez,NA,NA,Callao,Cardiología,2021-07-09,149.65
+P0667,Jorge Rojas,29,F,Lima,Dermatología,2022-12-12,323.58
+P0668,Luis Ramírez,NA,,Callao,Pediatría,2024-02-05,288.26
+P0669,Lucía Flores,NA,M,Callao,Dermatología,2020-12-25,64.13
+P0670,Rosa Gómez,43,F,Comas,NA,2020-05-02,187.07
+P0671,Jorge Pérez,29,NA,NA,NA,2022-11-16,303.91
+P0672,Rosa Pérez,NA,F,Los Olivos,Pediatría,2022-05-29,285.95
+P0673,Miguel Rojas,12,,Los Olivos,NA,2020-08-18,301.06
+P0674,Lucía Ramírez,NA,NA,Lima,Cardiología,2024-06-26,380.58
+P0675,Miguel Castillo,NA,M,San Isidro,Oncología,2020-10-12,311.12
+P0676,Ana Ramírez,35,NA,Comas,Odontología,2024-09-25,227.34
+P0677,Lucía Torres,NA,,Comas,Dermatología,2021-06-07,193.13
+P0678,Pedro Castillo,40,NA,San Isidro,Odontología,2022-09-06,331.99
+P0679,José García,NA,F,NA,NA,2022-10-17,164.02
+P0680,José Torres,36,F,Miraflores,Pediatría,2022-09-02,338.55
+P0681,Carmen Pérez,40,M,Surco,Cardiología,2022-07-27,402.48
+P0682,Luis Pérez,NA,F,NA,Cardiología,2020-12-03,151.55
+P0683,Rosa Ramírez,64,,Los Olivos,Cardiología,2021-11-29,306.97
+P0684,José Pérez,26,,Miraflores,Pediatría,2024-09-03,118.18
+P0685,María Gómez,NA,M,Lima,Dermatología,2023-05-22,85.92
+P0686,Miguel Flores,35,NA,San Isidro,NA,2021-03-21,492.01
+P0687,Carmen Flores,NA,M,Lima,Dermatología,2020-03-27,87.08
+P0688,José Ramírez,23,F,Callao,Odontología,2024-06-23,301.46
+P0689,Miguel Flores,NA,,Miraflores,Medicina General,2022-07-09,153.61
+P0690,Jorge Castillo,47,M,Miraflores,Oncología,2023-06-04,302.49
+P0691,Miguel Castillo,NA,,Callao,Odontología,2023-05-05,56.96
+P0692,Lucía Pérez,NA,NA,Lima,Dermatología,2023-09-12,107.77
+P0693,Miguel Gómez,NA,,Lima,Dermatología,2020-04-17,67.83
+P0694,María Castillo,NA,M,Comas,Pediatría,2024-04-22,160.38
+P0695,Rosa Pérez,NA,F,Surco,Cardiología,2023-08-02,385.69
+P0696,Luis Ramírez,62,F,NA,Medicina General,2021-01-15,207.06
+P0697,Miguel Flores,NA,F,Comas,Dermatología,2021-11-13,67.86
+P0698,José García,NA,F,Miraflores,Medicina General,2020-05-10,163.75
+P0699,Rosa Rojas,NA,,San Isidro,Cardiología,2021-06-24,193.34
+P0700,José Torres,33,,Lima,Odontología,2024-06-22,166.39
+P0701,Pedro García,69,F,NA,Dermatología,2024-02-14,56.29
+P0702,Rosa Flores,38,M,NA,Pediatría,2022-06-28,311.83
+P0703,María Rojas,NA,M,Surco,Dermatología,2024-08-01,159.05
+P0704,Carmen Gómez,NA,NA,Los Olivos,Oncología,2020-03-14,202.22
+P0705,Ana Pérez,12,M,Surco,Medicina General,2021-09-12,334.72
+P0706,Carmen Pérez,19,F,NA,Medicina General,2020-05-07,252.76
+P0707,Luis García,23,F,Comas,Odontología,2020-12-04,200.35
+P0708,Pedro Flores,57,M,Lima,NA,2024-06-13,130.17
+P0709,Ana García,NA,F,Surco,Odontología,2023-07-04,417.4
+P0710,José Castillo,NA,F,Lima,Dermatología,2021-04-11,463.41
+P0711,Rosa García,47,NA,San Isidro,Odontología,2021-08-16,451.91
+P0712,Carmen Castillo,NA,F,Los Olivos,Odontología,2023-05-21,178.02
+P0713,Carmen Ramírez,NA,M,San Isidro,Dermatología,2024-12-16,174.87
+P0714,Miguel Flores,45,,NA,Odontología,2021-09-13,292.35
+P0715,Ana García,NA,NA,Comas,Medicina General,2024-09-16,150.45
+P0716,María Ramírez,48,M,Comas,Dermatología,2023-06-21,224.45
+P0717,Pedro Castillo,71,M,NA,Dermatología,2023-03-03,172.82
+P0718,Luis Flores,83,M,Lima,NA,2020-11-24,54.17
+P0719,José Torres,88,,NA,Odontología,2023-12-05,241.94
+P0720,Luis Flores,NA,M,Callao,Cardiología,2022-01-26,216.15
+P0721,Luis Gómez,3,F,NA,Dermatología,2023-09-28,76.92
+P0722,José García,66,F,Surco,Cardiología,2022-02-26,277.73
+P0723,Luis Pérez,31,,Comas,Pediatría,2022-12-21,401.65
+P0724,Miguel Flores,NA,F,Lima,Medicina General,2022-07-05,168.17
+P0725,Jorge Rojas,32,,Lima,Pediatría,2022-04-17,307.77
+P0726,Luis Ramírez,43,F,NA,Cardiología,2022-10-05,109.14
+P0727,Ana Torres,9,M,Comas,Cardiología,2022-10-31,274.22
+P0728,José Pérez,NA,NA,Los Olivos,Medicina General,2024-06-24,487.7
+P0729,María Castillo,NA,M,NA,Oncología,2020-03-02,143.91
+P0730,Pedro Castillo,NA,,Callao,NA,2022-09-02,102.94
+P0731,José Flores,9,NA,Comas,NA,2021-06-21,473.72
+P0732,Miguel Torres,17,F,Comas,Oncología,2023-08-21,327.99
+P0733,María Ramírez,NA,F,Callao,Dermatología,2020-08-31,383.26
+P0734,Carmen Flores,NA,M,Comas,Odontología,2023-01-19,456.99
+P0735,Pedro Flores,NA,,Miraflores,Odontología,2021-11-28,251.08
+P0736,Pedro Pérez,8,F,Callao,Medicina General,2022-11-20,146.35
+P0737,Pedro Ramírez,16,F,NA,Cardiología,2023-01-27,421.9
+P0738,Pedro Torres,18,F,Surco,Pediatría,2020-03-20,451.66
+P0739,José Gómez,NA,F,Callao,Oncología,2024-08-09,298.39
+P0740,José Rojas,34,F,Lima,Dermatología,2021-10-21,154.83
+P0741,Carmen Castillo,30,NA,Lima,NA,2024-12-14,217.31
+P0742,Carmen Ramírez,NA,NA,Surco,Oncología,2024-01-21,103.2
+P0743,Jorge García,13,M,Comas,Cardiología,2022-06-06,59.4
+P0744,Pedro García,6,NA,Lima,Dermatología,2022-03-04,70.98
+P0745,Luis Pérez,55,,Callao,Pediatría,2024-03-04,279.89
+P0746,Rosa Pérez,NA,NA,Callao,Odontología,2022-01-19,194.08
+P0747,Luis Pérez,NA,F,Callao,Dermatología,2022-01-18,242.71
+P0748,Carmen García,22,M,Surco,Oncología,2023-09-07,169.01
+P0749,José Pérez,49,M,Miraflores,Medicina General,2024-12-17,457.89
+P0750,Pedro Rojas,NA,,Surco,Oncología,2023-05-22,433.09
+P0751,Jorge Ramírez,49,F,Lima,Odontología,2022-01-15,402.99
+P0752,María Castillo,NA,M,Callao,Medicina General,2022-01-28,164.82
+P0753,Pedro Ramírez,52,,Callao,NA,2023-03-28,195.91
+P0754,Pedro Pérez,NA,NA,Surco,Oncología,2023-09-30,484.69
+P0755,José Flores,NA,M,Comas,Oncología,2024-03-10,118.11
+P0756,Lucía Torres,NA,NA,San Isidro,Medicina General,2021-02-21,494.72
+P0757,Rosa García,16,,Miraflores,Dermatología,2022-11-30,429.48
+P0758,María Castillo,NA,,Miraflores,Medicina General,2023-06-06,113.97
+P0759,Pedro Castillo,NA,M,Surco,Medicina General,2024-01-23,352.82
+P0760,Pedro Pérez,58,NA,Comas,NA,2024-01-06,106.43
+P0761,Lucía Rojas,NA,,Comas,Cardiología,2023-05-15,384.41
+P0762,Ana Gómez,NA,F,Surco,Pediatría,2024-10-03,288.53
+P0763,Carmen Gómez,30,,Miraflores,Odontología,2023-01-17,356.0
+P0764,Carmen Castillo,NA,M,Lima,Pediatría,2020-06-12,248.52
+P0765,Rosa Ramírez,NA,NA,San Isidro,Dermatología,2021-09-06,178.72
+P0766,Ana García,40,NA,Los Olivos,Cardiología,2024-12-28,168.46
+P0767,María Rojas,NA,,Los Olivos,NA,2020-04-07,224.29
+P0768,Jorge García,16,NA,NA,NA,2024-11-06,357.82
+P0769,Carmen Castillo,NA,,San Isidro,NA,2023-01-06,219.15
+P0770,Jorge Ramírez,85,F,San Isidro,Cardiología,2023-01-31,399.55
+P0771,María Gómez,NA,,San Isidro,Dermatología,2020-05-04,259.24
+P0772,Carmen Pérez,NA,F,Surco,Dermatología,2023-07-24,342.34
+P0773,Carmen Flores,72,,Surco,Pediatría,2024-04-02,468.18
+P0774,José Flores,13,NA,San Isidro,Odontología,2021-10-29,138.84
+P0775,Carmen Gómez,NA,NA,NA,Medicina General,2021-11-25,223.63
+P0776,Jorge Ramírez,NA,M,Callao,Pediatría,2023-09-11,382.87
+P0777,Rosa Ramírez,NA,,Los Olivos,Oncología,2022-08-21,121.13
+P0778,Miguel García,NA,NA,Los Olivos,Oncología,2020-08-15,88.62
+P0779,Miguel García,NA,M,NA,Pediatría,2022-10-02,116.04
+P0780,Rosa Ramírez,9,NA,Surco,Dermatología,2023-11-19,68.45
+P0781,Lucía Rojas,40,NA,Los Olivos,Oncología,2020-03-11,164.18
+P0782,Jorge García,81,M,Lima,Odontología,2021-10-21,120.69
+P0783,María Pérez,82,NA,NA,Dermatología,2022-01-05,229.2
+P0784,José Rojas,15,M,Miraflores,Cardiología,2024-07-19,168.15
+P0785,José Rojas,47,,Miraflores,Oncología,2021-06-08,258.78
+P0786,Pedro Torres,29,F,Lima,Dermatología,2020-11-07,466.89
+P0787,Lucía Flores,35,NA,Callao,Medicina General,2021-02-15,100.89
+P0788,José Ramírez,NA,F,Miraflores,NA,2022-01-19,248.55
+P0789,Luis Rojas,43,F,Callao,Cardiología,2021-03-29,212.45
+P0790,Miguel Pérez,NA,NA,NA,NA,2024-01-28,376.63
+P0791,Pedro Ramírez,NA,NA,Comas,NA,2021-11-18,348.78
+P0792,José Torres,NA,M,Callao,Dermatología,2022-11-20,276.23
+P0793,José Castillo,NA,NA,Comas,NA,2022-07-29,442.68
+P0794,Pedro García,88,F,Miraflores,Pediatría,2021-10-16,337.03
+P0795,Jorge García,76,F,Lima,Pediatría,2021-02-28,234.4
+P0796,Ana Torres,72,F,Lima,Odontología,2022-05-03,460.18
+P0797,Jorge Torres,52,,Surco,Medicina General,2021-11-22,54.82
+P0798,Carmen Ramírez,NA,,Los Olivos,Dermatología,2021-10-13,461.14
+P0799,Pedro Gómez,46,M,Surco,Pediatría,2023-06-19,225.14
+P0800,Lucía Rojas,18,M,Surco,NA,2021-04-19,290.46
+P0801,Carmen Pérez,NA,F,Miraflores,Dermatología,2024-07-02,360.08
+P0802,Luis Castillo,NA,M,Lima,Odontología,2020-01-12,90.22
+P0803,Miguel Ramírez,NA,F,Los Olivos,Cardiología,2022-05-06,390.79
+P0804,Lucía García,74,NA,Surco,NA,2023-09-11,146.45
+P0805,Jorge Gómez,NA,,Lima,Cardiología,2024-11-08,292.7
+P0806,Pedro Flores,52,NA,Miraflores,NA,2021-01-13,91.38
+P0807,María Flores,59,,NA,Dermatología,2022-12-24,108.23
+P0808,María Torres,28,M,NA,Medicina General,2024-04-03,226.45
+P0809,Pedro Ramírez,42,F,Lima,Medicina General,2021-08-29,253.13
+P0810,Pedro Pérez,10,F,Lima,Cardiología,2022-06-01,55.9
+P0811,Pedro Rojas,NA,M,NA,Cardiología,2021-11-17,204.24
+P0812,Pedro Ramírez,70,F,Comas,Dermatología,2024-03-04,379.77
+P0813,Pedro Castillo,NA,NA,Comas,Medicina General,2022-06-04,118.12
+P0814,Pedro Torres,NA,NA,Los Olivos,Pediatría,2023-07-10,376.18
+P0815,Ana Castillo,10,,Comas,Odontología,2021-06-08,350.08
+P0816,Rosa Gómez,NA,F,NA,Odontología,2022-11-12,364.05
+P0817,Miguel Flores,53,M,Miraflores,Cardiología,2021-11-12,225.28
+P0818,Carmen Rojas,NA,NA,Callao,Odontología,2022-09-13,333.0
+P0819,Ana Rojas,NA,,Lima,Odontología,2021-09-25,313.25
+P0820,José Flores,NA,M,NA,Pediatría,2021-03-10,369.57
+P0821,Miguel Rojas,42,F,Miraflores,Cardiología,2021-04-12,237.65
+P0822,María Flores,61,M,Lima,Cardiología,2021-02-27,66.31
+P0823,José Rojas,NA,NA,San Isidro,Medicina General,2023-06-23,461.29
+P0824,María Torres,34,,Lima,Cardiología,2022-11-27,405.45
+P0825,Rosa Castillo,NA,,NA,Pediatría,2023-10-30,455.56
+P0826,Carmen Ramírez,71,NA,Surco,NA,2023-01-09,455.2
+P0827,José Ramírez,47,F,Miraflores,Cardiología,2020-11-14,308.13
+P0828,José Pérez,56,,Callao,Odontología,2021-10-29,257.17
+P0829,Jorge Gómez,NA,,Comas,Oncología,2024-03-17,200.05
+P0830,Pedro Torres,69,,Los Olivos,NA,2024-11-02,145.62
+P0831,Lucía Rojas,NA,F,Lima,Cardiología,2023-11-27,469.39
+P0832,Luis Torres,42,M,Surco,Pediatría,2021-12-30,67.69
+P0833,Lucía Flores,52,NA,Lima,Medicina General,2024-01-28,75.12
+P0834,Rosa García,54,NA,Lima,Pediatría,2020-01-20,438.31
+P0835,José Pérez,13,F,Miraflores,Oncología,2020-08-20,138.51
+P0836,Luis García,21,F,Los Olivos,Pediatría,2022-01-04,71.98
+P0837,José Castillo,NA,M,Callao,Dermatología,2021-06-04,272.2
+P0838,Pedro García,59,,San Isidro,Cardiología,2021-10-12,55.44
+P0839,Jorge Flores,36,F,NA,Pediatría,2022-12-19,72.1
+P0840,Carmen Castillo,83,,Los Olivos,Medicina General,2020-10-16,475.95
+P0841,Rosa Pérez,NA,M,Lima,Cardiología,2022-06-21,51.18
+P0842,Pedro Flores,39,NA,San Isidro,Pediatría,2022-12-11,379.16
+P0843,Ana Rojas,NA,,San Isidro,NA,2021-10-12,202.87
+P0844,Miguel Rojas,NA,F,San Isidro,Cardiología,2023-01-21,79.86
+P0845,Miguel Torres,79,NA,Surco,Oncología,2022-03-11,283.46
+P0846,María Gómez,74,M,Surco,Oncología,2023-12-28,146.77
+P0847,María Flores,NA,NA,Lima,Pediatría,2024-08-31,344.87
+P0848,Miguel Pérez,50,F,Callao,Medicina General,2020-09-18,456.97
+P0849,Rosa Torres,NA,M,San Isidro,Pediatría,2022-06-04,243.6
+P0850,Luis Pérez,38,F,Los Olivos,Cardiología,2024-05-15,87.81
+P0851,María Rojas,NA,,Miraflores,Pediatría,2021-03-14,496.18
+P0852,Pedro Rojas,NA,M,Surco,Dermatología,2023-05-13,282.28
+P0853,Lucía García,NA,M,NA,Dermatología,2024-12-19,227.36
+P0854,Jorge Pérez,NA,NA,Surco,Pediatría,2020-10-01,485.75
+P0855,José Rojas,11,M,Los Olivos,Odontología,2023-04-22,499.06
+P0856,Ana Gómez,42,NA,Miraflores,Medicina General,2022-02-05,466.64
+P0857,Ana García,1,F,Comas,Odontología,2023-04-09,128.0
+P0858,Miguel Gómez,NA,F,NA,NA,2020-03-30,162.95
+P0859,Carmen García,NA,NA,NA,NA,2023-04-18,113.89
+P0860,Miguel Ramírez,67,NA,Miraflores,Medicina General,2022-09-13,354.75
+P0861,José Rojas,49,M,Callao,Medicina General,2021-05-12,273.31
+P0862,Miguel Gómez,82,M,NA,Odontología,2023-03-28,163.18
+P0863,Miguel Gómez,NA,M,Lima,Cardiología,2023-06-21,229.04
+P0864,José Rojas,NA,NA,San Isidro,Pediatría,2020-11-16,304.11
+P0865,Pedro Gómez,67,NA,Surco,Medicina General,2022-03-06,258.3
+P0866,Luis Torres,NA,F,Surco,Oncología,2024-05-09,486.8
+P0867,Jorge Torres,51,NA,San Isidro,Cardiología,2021-05-10,214.92
+P0868,Jorge Rojas,20,NA,Comas,Dermatología,2020-07-13,142.36
+P0869,Lucía Castillo,NA,,Los Olivos,Odontología,2024-06-07,124.76
+P0870,Miguel Gómez,NA,M,Los Olivos,Odontología,2022-01-26,445.19
+P0871,Ana Castillo,NA,NA,Comas,Oncología,2022-11-08,408.8
+P0872,Pedro Torres,NA,M,Miraflores,NA,2021-07-24,98.2
+P0873,Miguel Rojas,NA,,Comas,Odontología,2024-07-08,66.6
+P0874,Rosa Torres,NA,F,Surco,Oncología,2024-06-25,263.7
+P0875,Rosa Castillo,16,NA,NA,Dermatología,2022-12-25,383.79
+P0876,Pedro García,64,,NA,Cardiología,2023-05-21,147.27
+P0877,María Gómez,6,F,Miraflores,Dermatología,2022-12-26,382.97
+P0878,María Ramírez,NA,M,Callao,Cardiología,2023-04-16,349.79
+P0879,Luis Castillo,NA,F,Comas,Dermatología,2023-01-15,407.36
+P0880,Lucía Rojas,NA,M,Surco,Odontología,2024-09-09,55.43
+P0881,José Pérez,NA,F,Callao,Odontología,2020-07-31,412.31
+P0882,Carmen García,3,,Surco,Oncología,2021-11-07,236.98
+P0883,Lucía Rojas,80,,Surco,Cardiología,2024-12-06,371.73
+P0884,Rosa Ramírez,59,F,Lima,Odontología,2021-01-15,465.47
+P0885,Carmen Castillo,NA,NA,Comas,Odontología,2024-03-19,196.98
+P0886,Jorge Ramírez,22,,Lima,NA,2021-11-30,399.09
+P0887,Lucía Castillo,72,F,Callao,Pediatría,2024-06-09,120.79
+P0888,Jorge Ramírez,25,,Los Olivos,Medicina General,2022-12-18,325.78
+P0889,Pedro Torres,27,NA,Callao,Odontología,2023-09-29,454.83
+P0890,Luis Pérez,59,NA,Surco,Cardiología,2021-04-27,416.55
+P0891,Lucía Gómez,40,NA,Los Olivos,Oncología,2023-12-31,473.59
+P0892,Carmen Flores,NA,,San Isidro,Cardiología,2020-06-17,263.82
+P0893,Ana Torres,82,F,Lima,Cardiología,2024-10-16,447.07
+P0894,Jorge Pérez,NA,F,San Isidro,Cardiología,2021-10-25,318.73
+P0895,Carmen Flores,NA,F,Lima,NA,2020-01-09,339.17
+P0896,Luis Gómez,52,,Callao,Odontología,2023-01-04,344.31
+P0897,Ana Gómez,NA,NA,San Isidro,NA,2024-06-23,380.27
+P0898,María Flores,17,M,Surco,Medicina General,2024-10-06,419.49
+P0899,Pedro Castillo,NA,,Miraflores,Dermatología,2024-10-20,236.11
+P0900,María Ramírez,NA,,Miraflores,Oncología,2024-11-10,207.45
+P0901,Ana Pérez,3,M,Lima,Pediatría,2022-11-26,212.91
+P0902,Lucía García,40,NA,NA,Cardiología,2023-01-24,415.3
+P0903,Pedro Flores,NA,F,NA,Oncología,2024-07-03,475.31
+P0904,María Rojas,5,NA,Los Olivos,Medicina General,2020-08-15,53.63
+P0905,José Rojas,6,NA,Comas,Oncología,2021-07-22,480.8
+P0906,Luis Rojas,NA,,NA,NA,2024-06-16,364.27
+P0907,José Rojas,36,F,Callao,NA,2021-05-30,119.64
+P0908,Luis Flores,66,NA,NA,Medicina General,2022-07-20,397.65
+P0909,José Rojas,NA,M,Lima,Dermatología,2023-02-10,185.43
+P0910,Rosa Rojas,25,,NA,NA,2023-11-18,436.17
+P0911,Ana García,NA,NA,Los Olivos,Oncología,2021-02-05,301.31
+P0912,Lucía Ramírez,14,F,Los Olivos,Medicina General,2023-06-01,426.54
+P0913,Lucía Flores,50,F,Callao,NA,2020-06-29,375.48
+P0914,Pedro Pérez,88,M,Comas,Pediatría,2021-12-02,296.51
+P0915,Luis Rojas,22,NA,Los Olivos,Pediatría,2022-11-04,130.71
+P0916,Carmen Flores,NA,M,Surco,Pediatría,2024-10-27,321.02
+P0917,Jorge Flores,70,M,Callao,NA,2021-10-02,277.38
+P0918,Miguel Castillo,NA,NA,San Isidro,Oncología,2022-09-25,243.6
+P0919,Ana Torres,NA,,Los Olivos,Odontología,2022-11-10,237.14
+P0920,Luis Flores,69,F,Surco,Odontología,2024-07-30,193.57
+P0921,Rosa Gómez,2,F,NA,Pediatría,2022-06-09,156.52
+P0922,Jorge Ramírez,54,,Los Olivos,Oncología,2024-05-21,361.14
+P0923,Miguel Flores,NA,M,Lima,Oncología,2020-06-29,490.13
+P0924,Jorge Flores,13,,Surco,Oncología,2022-11-20,333.67
+P0925,Luis Flores,84,NA,Los Olivos,Cardiología,2023-04-18,175.21
+P0926,Lucía Flores,5,M,Surco,Odontología,2023-11-02,245.4
+P0927,María Gómez,5,M,San Isidro,Pediatría,2022-05-16,465.92
+P0928,Lucía Flores,72,NA,Miraflores,NA,2022-10-28,332.86
+P0929,Pedro Gómez,NA,F,Comas,Cardiología,2023-08-04,449.85
+P0930,Jorge Pérez,NA,NA,Miraflores,NA,2022-09-21,388.69
+P0931,Carmen Flores,61,NA,NA,Medicina General,2022-11-03,396.59
+P0932,Carmen Gómez,35,NA,Comas,Pediatría,2021-08-04,147.45
+P0933,Luis Castillo,NA,NA,Comas,Pediatría,2020-06-16,426.64
+P0934,José Torres,85,M,Callao,Pediatría,2022-07-13,161.1
+P0935,José Ramírez,78,NA,NA,Odontología,2020-02-03,470.5
+P0936,María Pérez,NA,M,NA,Dermatología,2022-10-31,498.61
+P0937,Miguel Ramírez,10,F,Los Olivos,Odontología,2024-05-08,51.89
+P0938,Carmen Rojas,NA,,NA,Medicina General,2022-06-27,437.21
+P0939,Jorge Rojas,24,,Lima,NA,2024-07-23,282.1
+P0940,José Pérez,74,,Los Olivos,Cardiología,2023-04-10,178.87
+P0941,Pedro Gómez,NA,NA,San Isidro,Cardiología,2022-09-10,124.65
+P0942,María Flores,NA,F,Miraflores,Dermatología,2022-01-01,372.61
+P0943,Ana Gómez,NA,,Comas,Cardiología,2024-06-29,279.23
+P0944,Pedro Castillo,7,M,Surco,Cardiología,2023-06-01,115.12
+P0945,Ana Rojas,54,F,Surco,Oncología,2021-03-12,471.87
+P0946,Carmen Flores,NA,NA,Comas,Dermatología,2022-10-07,159.02
+P0947,Miguel Flores,NA,,Surco,Odontología,2021-02-03,132.95
+P0948,Pedro Flores,NA,M,Los Olivos,Pediatría,2021-03-07,321.57
+P0949,Miguel Pérez,24,M,Comas,Odontología,2023-02-25,149.54
+P0950,Pedro Flores,NA,NA,Comas,Dermatología,2021-10-22,120.12
+P0951,Ana Flores,67,F,Los Olivos,NA,2023-06-06,340.07
+P0952,Pedro Castillo,NA,M,NA,Dermatología,2023-09-13,117.07
+P0953,Pedro Pérez,23,M,NA,Medicina General,2021-11-18,343.96
+P0954,Miguel Gómez,NA,M,Callao,Medicina General,2022-05-19,296.52
+P0955,Jorge Flores,NA,NA,San Isidro,Odontología,2020-09-12,168.76
+P0956,Miguel García,NA,M,Surco,Odontología,2021-03-30,319.94
+P0957,Miguel Ramírez,24,NA,NA,Odontología,2024-05-20,486.29
+P0958,Ana Gómez,NA,,NA,Oncología,2023-09-29,236.95
+P0959,Jorge Ramírez,NA,F,Callao,Cardiología,2023-08-23,347.48
+P0960,Miguel Torres,NA,NA,Callao,Oncología,2023-05-25,392.52
+P0961,María Pérez,NA,NA,Lima,Oncología,2022-11-07,185.13
+P0962,Ana Castillo,79,M,Lima,Pediatría,2021-01-18,56.63
+P0963,María García,NA,M,Lima,Odontología,2022-12-23,333.18
+P0964,María García,15,,Callao,NA,2021-06-25,402.75
+P0965,Lucía Ramírez,42,NA,Surco,Odontología,2020-12-29,226.06
+P0966,Lucía Ramírez,81,M,Miraflores,Medicina General,2021-04-06,410.35
+P0967,Rosa Torres,NA,M,Los Olivos,Pediatría,2024-03-17,162.49
+P0968,Ana Castillo,10,,Comas,NA,2024-07-18,61.05
+P0969,José Ramírez,NA,F,Lima,Cardiología,2021-06-01,64.46
+P0970,Ana García,90,,Los Olivos,Cardiología,2022-03-16,203.6
+P0971,Miguel Ramírez,NA,,Comas,Pediatría,2021-10-06,410.26
+P0972,Pedro Rojas,NA,M,San Isidro,Pediatría,2022-03-02,131.73
+P0973,María García,NA,,NA,Oncología,2021-10-24,300.85
+P0974,María Torres,62,NA,Comas,NA,2024-09-11,108.27
+P0975,Jorge Ramírez,NA,NA,Comas,Oncología,2020-06-01,121.24
+P0976,Ana Torres,NA,F,NA,NA,2021-05-26,101.35
+P0977,Jorge Flores,45,M,San Isidro,Medicina General,2021-06-01,130.79
+P0978,Ana Flores,NA,,NA,Pediatría,2021-05-02,497.64
+P0979,Jorge Flores,25,,Lima,Medicina General,2020-11-09,59.03
+P0980,Ana Gómez,48,M,Comas,Medicina General,2021-07-22,316.61
+P0981,Carmen García,30,F,Miraflores,Odontología,2023-11-17,234.86
+P0982,Rosa Castillo,4,,Comas,NA,2022-11-21,160.69
+P0983,Rosa Castillo,NA,NA,San Isidro,Medicina General,2022-12-12,271.11
+P0984,Pedro Castillo,NA,NA,Miraflores,NA,2024-11-16,216.5
+P0985,Rosa Flores,6,F,Comas,Pediatría,2022-04-11,114.82
+P0986,Jorge Rojas,59,M,Miraflores,Pediatría,2023-01-05,474.49
+P0987,Miguel Flores,NA,M,Surco,NA,2024-05-15,182.87
+P0988,José Ramírez,1,F,NA,Medicina General,2022-10-07,330.18
+P0989,Jorge Ramírez,37,,Surco,Cardiología,2021-01-24,413.56
+P0990,María García,NA,,Surco,Pediatría,2023-02-28,338.06
+P0991,María Rojas,NA,,Lima,Pediatría,2020-09-14,137.74
+P0992,Ana Castillo,NA,NA,San Isidro,Dermatología,2021-03-05,426.33
+P0993,Miguel Castillo,54,,Lima,NA,2020-01-26,388.9
+P0994,Rosa Gómez,85,F,Callao,NA,2021-09-11,289.69
+P0995,Luis García,24,M,Lima,Medicina General,2021-07-12,473.77
+P0996,María Ramírez,2,NA,Comas,Dermatología,2023-06-24,81.46
+P0997,Lucía Castillo,NA,NA,Surco,Dermatología,2022-07-27,65.2
+P0998,Pedro Flores,79,NA,NA,NA,2024-12-19,194.72
+P0999,Lucía García,37,M,Callao,Odontología,2023-01-25,53.59
+P1000,María Castillo,NA,NA,Surco,Odontología,2024-04-13,472.72
+P1001,Carmen Ramírez,NA,,NA,Medicina General,2024-03-01,153.35
+P1002,Lucía Pérez,NA,F,Callao,Cardiología,2023-01-06,208.12
+P1003,Lucía Ramírez,NA,,Surco,NA,2023-07-01,312.76
+P1004,Ana Torres,1,M,Callao,Pediatría,2024-12-12,234.9
+P1005,Lucía Ramírez,NA,F,Miraflores,Oncología,2021-10-18,242.31
+P1006,Carmen Torres,85,,San Isidro,Odontología,2023-04-18,195.09
+P1007,Lucía García,5,F,Miraflores,Cardiología,2020-02-09,467.59
+P1008,Miguel Ramírez,66,M,Lima,Odontología,2023-08-27,487.74
+P1009,Luis Ramírez,84,M,Miraflores,Oncología,2020-03-03,349.34
+P1010,Jorge Ramírez,NA,M,San Isidro,NA,2020-11-01,96.48
+P1011,Lucía Torres,NA,NA,Callao,Medicina General,2024-11-14,243.2
+P1012,Luis Torres,81,F,Comas,Oncología,2022-12-02,489.6
+P1013,Jorge Castillo,64,,Los Olivos,Dermatología,2023-03-07,420.39
+P1014,Lucía Rojas,36,,Lima,Pediatría,2020-04-25,466.91
+P1015,María García,NA,M,Miraflores,Cardiología,2023-05-02,376.11
+P1016,Rosa García,30,F,Callao,Cardiología,2023-12-20,271.41
+P1017,Lucía Flores,NA,NA,Callao,Medicina General,2022-08-15,132.12
+P1018,Rosa Rojas,5,F,Lima,Oncología,2021-09-16,392.79
+P1019,Luis Gómez,39,F,Lima,Dermatología,2024-06-04,187.1
+P1020,Ana Gómez,NA,F,Lima,Dermatología,2023-09-19,194.04
+P1021,Jorge Flores,18,,Lima,Pediatría,2021-06-08,251.59
+P1022,María Castillo,NA,,San Isidro,NA,2023-04-28,60.77
+P1023,Luis Castillo,77,F,Comas,Cardiología,2020-12-15,169.15
+P1024,Jorge Castillo,62,F,Lima,Oncología,2022-10-25,187.73
+P1025,Rosa Flores,15,,San Isidro,Pediatría,2022-06-02,277.45
+P1026,María García,NA,,Surco,Pediatría,2024-06-25,226.32
+P1027,María Rojas,NA,F,Los Olivos,NA,2023-03-28,351.53
+P1028,Rosa Gómez,50,F,Surco,Dermatología,2020-05-09,280.63
+P1029,José Castillo,NA,F,Los Olivos,Pediatría,2022-06-27,194.0
+P1030,Ana Rojas,24,,Miraflores,Pediatría,2024-02-25,123.47
+P1031,Rosa Gómez,NA,F,Lima,Dermatología,2022-12-25,135.45
+P1032,Jorge Castillo,7,NA,Callao,Pediatría,2024-06-04,185.65
+P1033,Pedro Castillo,40,NA,Callao,Odontología,2024-02-27,411.82
+P1034,Miguel Castillo,NA,,Callao,Cardiología,2024-04-24,409.05
+P1035,Rosa Flores,NA,NA,Lima,NA,2024-05-22,258.0
+P1036,Ana García,NA,M,Surco,Odontología,2021-12-01,61.7
+P1037,Miguel Ramírez,5,,NA,Dermatología,2020-01-07,61.84
+P1038,José Gómez,21,NA,Surco,NA,2023-11-16,303.33
+P1039,Rosa Torres,55,F,Los Olivos,Medicina General,2022-09-24,470.3
+P1040,Jorge Ramírez,85,NA,Surco,Dermatología,2024-06-26,215.95
+P1041,María Ramírez,72,,San Isidro,Medicina General,2021-10-31,371.74
+P1042,María Ramírez,16,F,Miraflores,Medicina General,2020-01-29,492.16
+P1043,José Flores,NA,F,NA,Odontología,2023-08-09,170.17
+P1044,Luis García,NA,F,Lima,Odontología,2021-10-19,273.87
+P1045,Miguel Gómez,84,F,Callao,NA,2022-01-18,286.25
+P1046,José Castillo,85,,Callao,Medicina General,2022-04-18,312.87
+P1047,Jorge Flores,31,,Callao,Odontología,2024-02-17,172.56
+P1048,José Ramírez,54,NA,Lima,NA,2023-08-02,312.3
+P1049,Pedro García,25,NA,Los Olivos,NA,2023-11-08,378.14
+P1050,María Gómez,60,M,San Isidro,Dermatología,2023-04-02,447.0
+P1051,Luis Gómez,70,,San Isidro,Odontología,2022-11-09,249.47
+P1052,Luis Rojas,NA,,Miraflores,Oncología,2024-06-29,460.76
+P1053,Carmen Castillo,NA,M,NA,Medicina General,2022-07-13,199.63
+P1054,José Gómez,58,NA,Lima,Pediatría,2020-07-06,298.41
+P1055,Luis Castillo,NA,,Lima,Oncología,2020-10-14,192.76
+P1056,Miguel Torres,NA,M,San Isidro,Oncología,2022-11-07,477.55
+P1057,José Gómez,11,M,Miraflores,Medicina General,2021-01-02,192.94
+P1058,Jorge Ramírez,18,F,NA,Pediatría,2021-06-10,455.16
+P1059,Rosa Torres,NA,NA,Callao,Medicina General,2021-05-14,210.42
+P1060,Lucía Castillo,NA,M,Callao,Odontología,2023-11-11,478.85
+P1061,Luis Torres,35,F,Los Olivos,Odontología,2025-01-01,104.24
+P1062,Miguel Rojas,NA,M,Callao,Oncología,2021-03-26,119.75
+P1063,Jorge García,NA,,Miraflores,Oncología,2021-12-22,402.53
+P1064,Miguel Torres,12,NA,NA,Pediatría,2023-08-23,376.19
+P1065,Ana Flores,7,M,Miraflores,Medicina General,2023-09-30,77.5
+P1066,Pedro Torres,75,,Surco,Oncología,2020-08-27,86.82
+P1067,Jorge Gómez,NA,M,NA,Cardiología,2021-03-23,96.93
+P1068,Carmen Gómez,35,NA,Callao,Cardiología,2021-01-19,304.86
+P1069,Pedro García,41,F,San Isidro,Odontología,2020-10-03,340.46
+P1070,María Ramírez,64,M,San Isidro,Cardiología,2021-08-07,109.68
+P1071,Ana Castillo,15,NA,NA,Pediatría,2023-12-31,257.4
+P1072,Jorge Pérez,NA,,Surco,Dermatología,2023-01-17,480.06
+P1073,Miguel Torres,NA,NA,Lima,Oncología,2020-04-28,498.04
+P1074,Pedro Flores,NA,M,Miraflores,Oncología,2020-10-04,435.69
+P1075,Miguel Pérez,88,,Callao,Pediatría,2020-11-21,180.54
+P1076,Carmen Pérez,15,,NA,Cardiología,2024-08-16,366.48
+P1077,Lucía Gómez,NA,F,Surco,Pediatría,2024-08-07,228.43
+P1078,Ana Torres,NA,,Los Olivos,Oncología,2024-11-23,386.18
+P1079,María Torres,NA,M,Miraflores,NA,2022-02-10,448.67
+P1080,Jorge Ramírez,83,NA,NA,Pediatría,2021-06-03,219.39
+P1081,José Gómez,6,NA,Comas,Pediatría,2021-02-20,258.56
+P1082,Ana Flores,NA,M,Comas,Oncología,2024-04-09,299.73
+P1083,Ana Gómez,NA,NA,Comas,Dermatología,2024-10-13,267.83
+P1084,Ana Rojas,NA,,Lima,Medicina General,2020-11-27,444.23
+P1085,Carmen Ramírez,23,NA,Los Olivos,Cardiología,2023-08-20,459.07
+P1086,Lucía Rojas,NA,,San Isidro,Pediatría,2022-01-05,346.24
+P1087,María Pérez,19,F,Comas,Pediatría,2022-03-22,407.84
+P1088,Lucía Ramírez,NA,NA,Surco,Oncología,2023-10-19,359.87
+P1089,Miguel Flores,NA,NA,Comas,Dermatología,2022-01-15,114.61
+P1090,José García,NA,F,Los Olivos,Odontología,2023-08-09,284.21
+P1091,María Pérez,NA,,Comas,Dermatología,2020-04-18,384.32
+P1092,Rosa Rojas,16,M,Miraflores,NA,2023-06-22,451.78
+P1093,José Rojas,88,NA,San Isidro,Oncología,2020-11-27,88.85
+P1094,Pedro García,NA,NA,Surco,Oncología,2020-05-17,261.35
+P1095,Lucía Gómez,41,NA,Miraflores,Oncología,2022-01-19,431.48
+P1096,Rosa Gómez,NA,,San Isidro,Cardiología,2023-10-03,286.12
+P1097,Ana Pérez,NA,M,Miraflores,Odontología,2020-10-14,165.43
+P1098,María Castillo,62,M,Comas,Cardiología,2021-08-12,171.45
+P1099,Miguel Ramírez,90,M,Lima,Odontología,2022-01-22,388.4
+P1100,Carmen García,32,NA,NA,NA,2022-01-23,235.58
+P1101,Lucía Torres,NA,F,Surco,Pediatría,2021-09-28,473.68
+P1102,Miguel Torres,17,F,Lima,Cardiología,2021-05-17,196.47
+P1103,Miguel Torres,NA,F,Callao,Oncología,2023-08-19,391.22
+P1104,Ana Castillo,12,,San Isidro,Medicina General,2024-06-21,417.96
+P1105,Ana Ramírez,89,NA,NA,Dermatología,2022-02-13,137.19
+P1106,Jorge Rojas,NA,F,Lima,NA,2024-12-05,406.83
+P1107,Carmen Torres,NA,,Lima,Medicina General,2022-01-24,426.11
+P1108,Jorge García,79,NA,Surco,Dermatología,2021-12-09,106.94
+P1109,Lucía Pérez,NA,F,Los Olivos,Medicina General,2022-07-31,464.44
+P1110,Miguel Gómez,NA,NA,Surco,Medicina General,2023-12-15,447.45
+P1111,Rosa Rojas,82,NA,Surco,Oncología,2024-04-02,315.78
+P1112,Jorge Ramírez,NA,,Lima,Odontología,2024-07-02,448.9
+P1113,Miguel Castillo,NA,,Surco,Medicina General,2021-06-28,225.24
+P1114,Luis Castillo,72,NA,Comas,NA,2020-03-11,426.73
+P1115,Carmen Castillo,73,M,Callao,Medicina General,2024-03-03,275.97
+P1116,Miguel García,NA,NA,Comas,Pediatría,2024-01-13,272.7
+P1117,María García,NA,M,Callao,Medicina General,2020-06-22,115.24
+P1118,José Rojas,NA,NA,Miraflores,Pediatría,2022-11-01,359.85
+P1119,Miguel Ramírez,49,,Miraflores,Dermatología,2024-03-26,385.41
+P1120,María Torres,24,F,Los Olivos,Odontología,2024-09-05,107.04
+P1121,Ana Pérez,6,F,Comas,NA,2024-03-25,275.09
+P1122,María Gómez,11,,Miraflores,Pediatría,2021-12-05,302.77
+P1123,Lucía Gómez,74,NA,Surco,Medicina General,2021-12-17,285.92
+P1124,Rosa Torres,32,NA,Lima,Pediatría,2020-11-02,72.94
+P1125,Rosa Rojas,NA,NA,San Isidro,Medicina General,2021-02-11,102.39
+P1126,José Gómez,NA,F,Miraflores,Odontología,2024-07-04,293.92
+P1127,Lucía Flores,23,,Surco,Odontología,2020-04-16,478.38
+P1128,Luis Castillo,79,M,San Isidro,Oncología,2022-04-24,115.74
+P1129,María Castillo,8,F,Comas,Medicina General,2023-03-04,90.93
+P1130,Miguel Flores,21,,Surco,Dermatología,2024-03-09,300.76
+P1131,Lucía García,NA,,Miraflores,Cardiología,2021-04-10,135.53
+P1132,Luis Rojas,14,F,Callao,Odontología,2022-12-28,180.13
+P1133,Lucía Pérez,NA,F,Los Olivos,Odontología,2020-05-12,297.75
+P1134,Miguel Torres,NA,F,Miraflores,Cardiología,2021-02-23,373.32
+P1135,Lucía Rojas,NA,M,San Isidro,Odontología,2024-09-19,156.75
+P1136,Rosa Flores,41,,Lima,Medicina General,2021-05-08,82.8
+P1137,Carmen Gómez,NA,NA,Miraflores,Medicina General,2020-05-04,479.52
+P1138,Jorge García,21,,Los Olivos,NA,2022-05-27,463.84
+P1139,María Castillo,87,,Lima,Cardiología,2024-08-22,156.89
+P1140,Lucía Castillo,76,NA,Miraflores,Oncología,2024-04-08,345.79
+P1141,Miguel Gómez,36,M,Miraflores,Cardiología,2021-03-31,398.96
+P1142,Pedro Rojas,47,NA,NA,Dermatología,2024-05-21,195.4
+P1143,Luis García,NA,F,Surco,Pediatría,2021-03-22,156.07
+P1144,José Gómez,NA,F,Lima,NA,2022-11-11,269.19
+P1145,Pedro Ramírez,NA,M,Lima,Pediatría,2024-06-27,384.34
+P1146,Rosa Rojas,57,,Comas,Dermatología,2023-04-12,128.55
+P1147,Ana Ramírez,NA,M,Comas,NA,2022-02-06,206.61
+P1148,Ana García,NA,,NA,Oncología,2023-08-18,388.38
+P1149,Rosa Rojas,NA,NA,Miraflores,Dermatología,2020-08-18,470.77
+P1150,José Torres,NA,NA,San Isidro,Cardiología,2023-09-06,179.37
+P1151,Pedro García,48,M,Comas,Pediatría,2020-05-04,458.11
+P1152,Pedro Gómez,NA,,Miraflores,Pediatría,2022-08-12,87.35
+P1153,Lucía Gómez,NA,F,Callao,Dermatología,2023-02-06,219.84
+P1154,Rosa Rojas,NA,,Miraflores,NA,2020-12-28,172.32
+P1155,Miguel García,NA,M,Lima,Cardiología,2020-01-04,460.03
+P1156,Jorge Torres,61,,Los Olivos,Oncología,2022-05-27,281.78
+P1157,Pedro Torres,NA,,Los Olivos,Dermatología,2020-10-21,339.58
+P1158,Lucía García,NA,M,Lima,Pediatría,2022-01-13,148.8
+P1159,Rosa Flores,NA,,NA,Cardiología,2020-09-24,81.56
+P1160,Pedro Torres,32,F,Lima,Cardiología,2020-03-18,465.13
+P1161,Jorge Castillo,32,,Comas,Pediatría,2023-09-14,354.48
+P1162,Jorge Castillo,64,M,Comas,NA,2022-02-24,323.78
+P1163,Carmen García,84,NA,Comas,Dermatología,2023-06-04,198.85
+P1164,José Ramírez,29,,Miraflores,Odontología,2024-01-06,61.44
+P1165,José Rojas,NA,NA,San Isidro,Cardiología,2021-02-20,149.9
+P1166,Miguel Flores,84,NA,NA,Pediatría,2024-01-17,289.12
+P1167,José Gómez,83,F,Lima,Oncología,2023-07-07,322.49
+P1168,José Torres,NA,F,Surco,Oncología,2023-10-01,213.28
+P1169,Pedro Castillo,73,,Lima,Cardiología,2022-12-31,248.44
+P1170,Rosa Torres,NA,NA,Comas,Odontología,2021-05-08,304.75
+P1171,Miguel Ramírez,NA,,Lima,Dermatología,2020-12-28,321.33
+P1172,Rosa Castillo,NA,NA,NA,Oncología,2024-07-05,58.66
+P1173,Luis Rojas,NA,,Comas,Oncología,2020-12-19,346.91
+P1174,Jorge Castillo,NA,M,San Isidro,Odontología,2021-09-17,187.33
+P1175,Lucía Flores,50,M,Callao,Pediatría,2024-04-15,230.41
+P1176,Rosa Torres,NA,NA,Comas,Medicina General,2020-07-25,198.85
+P1177,Jorge García,84,,San Isidro,Oncología,2021-07-30,292.56
+P1178,Luis Castillo,NA,,Los Olivos,Odontología,2020-07-25,90.99
+P1179,Lucía Castillo,22,M,Los Olivos,NA,2022-12-28,333.54
+P1180,Lucía Castillo,2,M,Lima,Cardiología,2022-01-04,314.35
+P1181,Carmen Flores,13,NA,Callao,Odontología,2020-02-01,273.91
+P1182,Ana Pérez,65,F,Surco,Odontología,2021-05-06,379.44
+P1183,Carmen Castillo,89,NA,San Isidro,Pediatría,2021-04-19,409.34
+P1184,María Pérez,NA,,Surco,Odontología,2022-04-18,308.27
+P1185,Carmen Torres,27,F,Surco,Odontología,2024-12-07,215.8
+P1186,Miguel García,18,NA,Lima,Odontología,2022-05-14,294.51
+P1187,Luis Castillo,31,F,Comas,Pediatría,2024-01-01,369.9
+P1188,Miguel Castillo,NA,M,Los Olivos,Cardiología,2020-08-04,175.77
+P1189,José Torres,NA,M,Comas,Pediatría,2023-03-10,234.44
+P1190,Carmen Gómez,NA,M,Comas,Medicina General,2023-05-21,418.63
+P1191,Pedro Rojas,48,M,Callao,Dermatología,2023-11-19,70.71
+P1192,Pedro Torres,NA,NA,San Isidro,Medicina General,2022-01-05,160.32
+P1193,Jorge Flores,82,M,Lima,Odontología,2023-01-30,119.35
+P1194,Lucía Rojas,30,M,Surco,Pediatría,2021-08-05,479.69
+P1195,Ana Ramírez,20,M,Comas,Odontología,2020-02-05,419.0
+P1196,Lucía Pérez,33,NA,Callao,Odontología,2023-01-31,295.91
+P1197,Rosa Castillo,NA,,Callao,Medicina General,2020-03-28,480.72
+P1198,Rosa Castillo,NA,NA,Los Olivos,Dermatología,2022-01-22,302.17
+P1199,José Torres,75,NA,Lima,Pediatría,2024-08-14,391.91
+P1200,Ana García,NA,,Callao,Oncología,2020-11-11,366.98
+P1201,Luis Ramírez,NA,F,Comas,NA,2020-07-29,377.28
+P1202,Miguel Pérez,34,NA,Los Olivos,Medicina General,2021-06-14,462.84
+P1203,María Pérez,29,M,Lima,Medicina General,2024-12-30,357.21
+P1204,Lucía García,NA,NA,Surco,Cardiología,2022-12-12,358.17
+P1205,Miguel Gómez,48,,Lima,NA,2021-11-03,308.11
+P1206,José Flores,NA,NA,Comas,Cardiología,2022-10-10,472.51
+P1207,Luis Torres,69,F,Lima,Medicina General,2020-12-09,439.13
+P1208,Pedro Gómez,NA,M,Callao,NA,2021-08-11,97.27
+P1209,Pedro Flores,90,M,Surco,Pediatría,2020-10-20,376.33
+P1210,Jorge Gómez,11,M,Miraflores,Pediatría,2023-04-02,223.39
+P1211,Jorge García,14,NA,NA,Medicina General,2021-12-25,343.37
+P1212,Lucía Flores,NA,M,Los Olivos,Cardiología,2022-02-15,465.06
+P1213,Rosa Pérez,27,NA,Los Olivos,Cardiología,2022-12-03,173.24
+P1214,Luis Rojas,NA,,Surco,Medicina General,2023-01-03,323.42
+P1215,Rosa Ramírez,NA,,Los Olivos,Odontología,2022-05-09,210.11
+P1216,Lucía Rojas,38,,Callao,Odontología,2022-01-29,394.34
+P1217,Miguel Torres,NA,NA,Lima,Pediatría,2020-05-30,299.96
+P1218,Ana Flores,81,M,Miraflores,Odontología,2022-07-27,255.57
+P1219,Lucía García,NA,M,Comas,NA,2021-02-16,159.48
+P1220,Carmen Rojas,54,F,Callao,Pediatría,2022-03-09,296.86
+P1221,Rosa Ramírez,NA,NA,Los Olivos,NA,2023-06-24,307.15
+P1222,José Ramírez,NA,M,Comas,Pediatría,2023-04-03,329.01
+P1223,Rosa Flores,7,F,Callao,Pediatría,2022-01-25,142.51
+P1224,Carmen Rojas,NA,F,Miraflores,Oncología,2022-09-10,288.46
+P1225,Lucía Pérez,88,M,Lima,NA,2021-03-28,440.38
+P1226,Lucía García,NA,M,NA,NA,2023-03-30,264.0
+P1227,Pedro Rojas,88,M,Callao,Oncología,2020-12-22,486.77
+P1228,Pedro Flores,NA,M,Miraflores,NA,2022-10-29,265.26
+P1229,Rosa García,8,,Miraflores,Oncología,2024-04-23,220.38
+P1230,Pedro Castillo,NA,F,Miraflores,Oncología,2022-04-05,162.31
+P1231,María Torres,89,,Comas,NA,2020-11-20,475.05
+P1232,Rosa Gómez,NA,,Lima,Odontología,2024-10-25,217.14
+P1233,María Rojas,NA,F,Lima,Pediatría,2022-11-30,440.03
+P1234,José Pérez,NA,F,Surco,NA,2022-03-27,252.16
+P1235,Lucía Castillo,66,NA,Miraflores,Cardiología,2022-12-17,111.87
+P1236,José Gómez,NA,NA,Miraflores,Odontología,2022-12-12,188.03
+P1237,Carmen Flores,NA,M,Miraflores,Medicina General,2022-02-04,413.75
+P1238,Rosa Pérez,64,F,Surco,Pediatría,2024-07-16,278.92
+P1239,Carmen Rojas,NA,M,Comas,Cardiología,2020-11-24,370.3
+P1240,Luis Rojas,78,NA,San Isidro,Medicina General,2022-04-26,155.26
+P1241,Carmen Ramírez,3,,San Isidro,Pediatría,2021-10-16,55.85
+P1242,Lucía Rojas,61,M,Surco,Pediatría,2022-05-02,213.65
+P1243,Ana Ramírez,NA,,Miraflores,Oncología,2022-05-27,168.54
+P1244,Carmen Castillo,18,NA,Comas,Medicina General,2020-09-13,299.92
+P1245,Jorge García,NA,NA,San Isidro,Odontología,2022-05-20,346.17
+P1246,José Castillo,45,NA,Callao,NA,2021-05-28,294.3
+P1247,Pedro Gómez,33,M,San Isidro,Cardiología,2023-04-07,478.88
+P1248,Luis Torres,NA,M,Miraflores,Pediatría,2021-01-22,216.6
+P1249,Luis Rojas,NA,M,San Isidro,Medicina General,2023-02-26,88.27
+P1250,Ana Flores,15,NA,Lima,Pediatría,2023-09-23,208.84
+P1251,Rosa Castillo,NA,,San Isidro,Cardiología,2024-11-30,263.91
+P1252,Miguel Rojas,81,F,NA,Pediatría,2022-04-06,292.96
+P1253,Carmen Rojas,61,NA,San Isidro,Dermatología,2022-11-15,327.66
+P1254,Lucía Torres,NA,F,Comas,Oncología,2020-09-07,195.43
+P1255,Jorge García,NA,,Surco,Cardiología,2021-03-13,352.0
+P1256,Miguel Gómez,NA,NA,Surco,Oncología,2021-05-08,137.5
+P1257,María Rojas,55,F,Lima,Medicina General,2024-09-26,446.69
+P1258,José García,44,NA,Comas,Dermatología,2020-01-10,436.43
+P1259,Ana Ramírez,NA,,Miraflores,Odontología,2022-03-19,89.57
+P1260,Ana Torres,35,F,San Isidro,Dermatología,2024-05-02,283.59
+P1261,María Gómez,47,,NA,Pediatría,2021-09-02,82.14
+P1262,María Rojas,NA,,San Isidro,Cardiología,2022-07-19,441.02
+P1263,Ana Flores,37,,Surco,Medicina General,2020-07-29,426.87
+P1264,Miguel Torres,NA,F,San Isidro,Medicina General,2020-03-15,445.01
+P1265,Lucía Castillo,NA,,Callao,Odontología,2022-07-28,137.57
+P1266,Jorge Rojas,NA,NA,Comas,Medicina General,2022-05-08,271.65
+P1267,José Pérez,NA,M,Comas,Odontología,2024-12-14,233.31
+P1268,Pedro Gómez,79,,Surco,Cardiología,2020-03-10,437.05
+P1269,Ana Castillo,NA,F,San Isidro,Dermatología,2022-04-20,215.82
+P1270,Luis Flores,NA,NA,Los Olivos,Dermatología,2024-10-19,491.83
+P1271,Pedro Rojas,NA,F,Surco,NA,2021-09-11,116.35
+P1272,Carmen Ramírez,18,,Callao,Odontología,2024-11-01,338.75
+P1273,Miguel Pérez,NA,,Los Olivos,Odontología,2020-09-29,439.66
+P1274,José García,NA,NA,San Isidro,Medicina General,2022-01-08,351.1
+P1275,Carmen Flores,63,F,Miraflores,Oncología,2024-10-26,498.49
+P1276,Lucía Torres,76,F,Callao,Pediatría,2021-10-11,100.86
+P1277,Lucía Gómez,53,M,Miraflores,Cardiología,2024-06-25,124.61
+P1278,María Pérez,NA,,Los Olivos,Oncología,2021-05-12,411.35
+P1279,Luis Torres,52,,Comas,NA,2022-11-17,441.47
+P1280,Miguel García,NA,NA,Los Olivos,Oncología,2023-07-08,384.0
+P1281,Carmen García,NA,F,Los Olivos,Pediatría,2020-10-29,486.41
+P1282,José Torres,NA,F,Miraflores,Pediatría,2022-09-05,181.04
+P1283,José Ramírez,16,,San Isidro,Pediatría,2021-06-02,119.47
+P1284,Miguel Castillo,NA,,Comas,NA,2020-01-21,405.21
+P1285,Carmen García,NA,,San Isidro,Pediatría,2020-01-23,334.31
+P1286,María Rojas,NA,NA,Los Olivos,Medicina General,2023-01-18,74.66
+P1287,Miguel Torres,NA,,Surco,Cardiología,2020-09-15,327.94
+P1288,José García,72,,Los Olivos,NA,2020-02-10,103.53
+P1289,Carmen Flores,53,,Los Olivos,Cardiología,2023-05-24,469.14
+P1290,Pedro Rojas,NA,F,Callao,Oncología,2022-02-21,428.28
+P1291,Luis Flores,60,,NA,Pediatría,2022-05-11,412.88
+P1292,Rosa Castillo,NA,F,Comas,Cardiología,2022-05-06,427.15
+P1293,Luis Castillo,NA,,Comas,Oncología,2021-05-04,467.01
+P1294,Rosa Pérez,9,M,San Isidro,Odontología,2024-06-10,202.71
+P1295,Carmen Flores,NA,F,Surco,Dermatología,2020-11-24,206.8
+P1296,Carmen Ramírez,NA,M,San Isidro,Medicina General,2020-01-24,211.3
+P1297,María Ramírez,NA,M,Lima,Cardiología,2023-07-20,54.92
+P1298,Jorge Gómez,NA,M,Los Olivos,NA,2021-06-20,136.13
+P1299,Miguel Ramírez,34,,Lima,Oncología,2020-05-22,208.3
+P1300,Rosa Rojas,24,M,Callao,Pediatría,2021-03-14,480.04
+P1301,María Castillo,30,F,Los Olivos,Dermatología,2024-03-01,476.31
+P1302,Lucía Ramírez,NA,F,Callao,Dermatología,2020-11-18,484.2
+P1303,Rosa Rojas,NA,F,San Isidro,Pediatría,2023-01-31,71.83
+P1304,Pedro Gómez,24,,Miraflores,Oncología,2021-05-12,100.63
+P1305,Carmen Torres,36,F,San Isidro,Medicina General,2023-08-17,99.61
+P1306,Jorge Rojas,NA,,NA,Odontología,2024-01-25,76.28
+P1307,Carmen Ramírez,NA,,Miraflores,Cardiología,2023-02-28,460.26
+P1308,Jorge Pérez,60,,Los Olivos,Oncología,2020-12-24,435.06
+P1309,Lucía Torres,52,F,Comas,Odontología,2021-06-19,332.08
+P1310,Luis Torres,NA,F,Comas,Pediatría,2020-09-16,222.93
+P1311,Ana Rojas,NA,,Lima,Oncología,2024-04-22,319.65
+P1312,José Castillo,NA,,Callao,Cardiología,2021-08-20,423.45
+P1313,Miguel Ramírez,NA,,Lima,Oncología,2023-03-23,188.5
+P1314,Jorge Rojas,NA,,Comas,NA,2024-12-16,408.66
+P1315,Pedro Rojas,73,M,Comas,Cardiología,2024-09-05,192.77
+P1316,Rosa Flores,NA,F,San Isidro,NA,2022-02-11,77.34
+P1317,Carmen Pérez,NA,NA,Comas,NA,2020-09-06,147.73
+P1318,Miguel García,1,M,Miraflores,NA,2022-09-21,291.44
+P1319,José Flores,77,NA,Los Olivos,Cardiología,2023-09-14,50.7
+P1320,Ana Pérez,NA,NA,Lima,NA,2023-01-19,153.63
+P1321,Ana García,82,NA,Miraflores,Medicina General,2023-01-03,186.18
+P1322,José Ramírez,78,NA,Miraflores,Dermatología,2020-01-17,71.74
+P1323,José Rojas,NA,M,Los Olivos,Pediatría,2020-06-22,122.6
+P1324,María Flores,86,,Callao,Oncología,2024-09-04,219.84
+P1325,Miguel Pérez,NA,NA,NA,Pediatría,2023-05-31,69.71
+P1326,Carmen Castillo,34,,Lima,Pediatría,2024-11-23,430.57
+P1327,Rosa Ramírez,60,NA,Surco,Dermatología,2023-09-03,125.33
+P1328,Jorge Pérez,NA,F,San Isidro,NA,2020-02-19,440.89
+P1329,Ana Rojas,63,M,Miraflores,Cardiología,2022-12-09,83.26
+P1330,Pedro Rojas,42,NA,Lima,Cardiología,2021-05-31,192.02
+P1331,Miguel Rojas,NA,F,Los Olivos,Odontología,2020-10-03,242.39
+P1332,Lucía Pérez,20,M,NA,NA,2020-04-06,249.89
+P1333,Miguel Torres,NA,NA,San Isidro,Dermatología,2023-06-27,448.04
+P1334,Lucía Rojas,NA,M,Comas,NA,2020-11-02,244.08
+P1335,Miguel Torres,36,M,San Isidro,Dermatología,2024-11-04,222.18
+P1336,Luis Flores,85,,Miraflores,Oncología,2020-01-05,222.16
+P1337,Pedro Pérez,58,,San Isidro,Medicina General,2024-09-30,87.12
+P1338,José Castillo,3,F,Miraflores,Pediatría,2024-07-11,61.52
+P1339,Ana Castillo,NA,F,Callao,Medicina General,2024-04-16,64.6
+P1340,Pedro Rojas,NA,F,Surco,Dermatología,2023-04-08,446.41
+P1341,María Torres,NA,NA,Surco,Cardiología,2023-07-08,179.54
+P1342,Ana Gómez,NA,F,Comas,NA,2022-10-19,247.03
+P1343,José Castillo,NA,M,Los Olivos,Pediatría,2022-11-23,462.28
+P1344,Carmen Pérez,58,F,NA,Pediatría,2023-03-31,58.02
+P1345,Lucía Rojas,31,NA,Comas,Odontología,2021-04-26,392.89
+P1346,María Castillo,79,M,NA,Odontología,2022-10-30,218.91
+P1347,José García,20,M,Lima,Dermatología,2020-09-02,318.12
+P1348,José Castillo,NA,,NA,Cardiología,2021-02-09,452.82
+P1349,Ana Torres,19,M,Comas,Cardiología,2023-02-08,189.17
+P1350,Pedro Pérez,13,,Lima,Odontología,2020-10-29,68.07
+P1351,Lucía Torres,NA,M,NA,NA,2024-08-27,405.02
+P1352,Rosa García,NA,F,NA,Medicina General,2021-08-10,200.48
+P1353,Miguel Gómez,7,F,Surco,NA,2021-07-18,113.29
+P1354,Rosa García,52,M,Miraflores,Pediatría,2021-09-09,378.52
+P1355,Luis Ramírez,12,M,Callao,Medicina General,2020-01-13,449.96
+P1356,Ana García,19,,NA,Dermatología,2024-08-25,360.48
+P1357,María Rojas,12,F,Lima,Odontología,2023-08-19,395.75
+P1358,Luis Pérez,NA,M,Surco,Pediatría,2021-04-21,452.82
+P1359,José Gómez,20,M,San Isidro,Pediatría,2024-11-28,339.86
+P1360,Pedro Torres,NA,NA,Lima,Pediatría,2023-07-27,359.52
+P1361,Luis Castillo,81,M,Lima,Oncología,2021-10-12,467.46
+P1362,Lucía Castillo,42,NA,Los Olivos,Dermatología,2024-07-01,239.39
+P1363,Lucía Pérez,NA,F,Miraflores,Cardiología,2021-09-10,435.65
+P1364,Carmen Castillo,NA,NA,Lima,Odontología,2024-08-03,304.47
+P1365,Pedro Rojas,NA,F,Miraflores,Medicina General,2023-06-14,328.47
+P1366,José Rojas,75,F,NA,Oncología,2024-04-25,145.27
+P1367,Rosa Gómez,NA,,NA,Dermatología,2020-10-24,119.05
+P1368,Jorge García,53,NA,San Isidro,Odontología,2020-07-22,373.16
+P1369,Rosa Torres,NA,NA,Callao,Medicina General,2022-09-19,282.61
+P1370,Miguel García,77,F,Lima,Pediatría,2022-10-06,246.98
+P1371,Lucía Torres,7,F,NA,Cardiología,2022-05-26,353.61
+P1372,José Torres,NA,M,San Isidro,Oncología,2024-12-06,206.72
+P1373,Rosa Ramírez,NA,M,Comas,Dermatología,2023-06-03,67.14
+P1374,Miguel Flores,23,F,Surco,Odontología,2020-07-06,155.82
+P1375,Pedro García,46,,Los Olivos,Cardiología,2024-06-24,298.02
+P1376,Lucía Castillo,NA,M,Lima,Cardiología,2020-09-17,482.83
+P1377,Lucía Gómez,NA,M,Los Olivos,Cardiología,2021-04-22,325.09
+P1378,José García,NA,NA,Los Olivos,Odontología,2023-03-11,315.71
+P1379,Ana Torres,65,F,Miraflores,NA,2024-04-28,499.67
+P1380,Luis Rojas,NA,NA,Comas,Dermatología,2020-09-21,242.38
+P1381,Ana Castillo,47,M,Callao,Pediatría,2021-06-29,311.79
+P1382,Miguel Ramírez,71,M,Comas,Odontología,2021-02-27,143.6
+P1383,Luis Gómez,64,,Lima,Medicina General,2024-01-27,276.19
+P1384,Miguel Rojas,NA,,Comas,Pediatría,2020-12-08,450.66
+P1385,Rosa Torres,NA,,NA,Medicina General,2021-09-12,195.08
+P1386,Luis García,NA,M,San Isidro,Odontología,2020-03-31,418.12
+P1387,Jorge Gómez,NA,M,Los Olivos,Dermatología,2021-06-08,494.22
+P1388,Pedro García,37,M,Los Olivos,Oncología,2020-03-29,104.8
+P1389,Carmen Ramírez,26,NA,Comas,Oncología,2020-02-18,51.85
+P1390,Jorge Gómez,31,NA,Lima,Oncología,2023-08-08,246.83
+P1391,Pedro Pérez,26,M,NA,Pediatría,2020-04-04,151.36
+P1392,Lucía Gómez,45,,Surco,Odontología,2021-02-01,296.95
+P1393,Luis Torres,NA,M,San Isidro,Cardiología,2022-09-03,302.72
+P1394,José Rojas,NA,,Callao,Dermatología,2021-04-03,252.72
+P1395,Jorge Gómez,NA,,NA,Odontología,2024-04-18,148.36
+P1396,Lucía Gómez,NA,F,Surco,Oncología,2023-05-28,407.52
+P1397,José Torres,NA,M,NA,Cardiología,2024-10-16,369.6
+P1398,José Torres,NA,,Lima,Cardiología,2022-06-03,70.79
+P1399,Lucía Ramírez,61,NA,Callao,Oncología,2024-09-20,104.08
+P1400,Rosa Ramírez,NA,NA,Callao,Cardiología,2020-08-23,234.17
+P1401,Luis Gómez,NA,M,Comas,NA,2024-02-19,66.28
+P1402,Rosa Rojas,NA,M,San Isidro,NA,2023-05-01,71.43
+P1403,Carmen Rojas,NA,M,Lima,NA,2025-01-01,416.14
+P1404,José Rojas,NA,M,Miraflores,NA,2022-07-28,246.55
+P1405,Pedro Torres,78,F,Miraflores,Oncología,2021-07-25,320.71
+P1406,María Gómez,19,F,Los Olivos,Odontología,2023-04-17,294.19
+P1407,Ana Pérez,77,M,Callao,Odontología,2023-07-22,479.29
+P1408,Rosa Pérez,84,,NA,Odontología,2024-01-26,62.46
+P1409,Pedro Gómez,NA,,Lima,Odontología,2024-10-26,257.69
+P1410,Pedro Torres,67,NA,NA,Pediatría,2022-04-01,353.96
+P1411,Carmen Castillo,17,F,Callao,Odontología,2023-10-13,190.63
+P1412,Carmen García,29,M,San Isidro,NA,2024-05-27,252.31
+P1413,Ana Ramírez,64,,Callao,Oncología,2021-05-16,413.91
+P1414,Lucía Gómez,NA,M,Surco,Pediatría,2022-03-07,478.22
+P1415,Carmen Flores,9,F,Comas,Cardiología,2024-08-14,197.78
+P1416,Ana Castillo,NA,,Los Olivos,Oncología,2023-01-16,122.83
+P1417,Rosa Gómez,NA,,Los Olivos,Dermatología,2022-01-19,171.85
+P1418,José Ramírez,NA,,Miraflores,Oncología,2021-10-04,158.65
+P1419,Luis Pérez,68,F,Surco,Dermatología,2024-03-10,134.82
+P1420,Ana García,57,F,NA,NA,2020-12-19,312.05
+P1421,Jorge García,25,NA,Surco,Oncología,2024-12-12,452.41
+P1422,María Torres,44,,Lima,Cardiología,2022-07-13,194.18
+P1423,Lucía Pérez,28,NA,Miraflores,NA,2021-02-20,133.71
+P1424,Luis Pérez,44,NA,Surco,Dermatología,2020-06-28,115.16
+P1425,Ana Ramírez,NA,NA,Miraflores,Medicina General,2020-08-22,123.34
+P1426,Pedro Torres,NA,NA,Los Olivos,Odontología,2024-09-08,214.13
+P1427,Pedro Flores,NA,M,Los Olivos,Pediatría,2022-10-12,445.8
+P1428,Miguel García,56,M,Miraflores,Pediatría,2020-08-31,172.6
+P1429,José Castillo,80,F,Lima,Pediatría,2021-05-15,120.22
+P1430,Miguel Torres,59,F,Surco,Oncología,2020-04-30,55.83
+P1431,Miguel García,NA,F,Miraflores,Oncología,2022-07-06,479.92
+P1432,Pedro Gómez,75,M,Comas,Odontología,2022-07-29,162.99
+P1433,Lucía Castillo,53,NA,Los Olivos,Odontología,2023-10-26,479.18
+P1434,Miguel Rojas,NA,,Lima,Oncología,2023-07-23,82.07
+P1435,Ana Pérez,22,NA,Miraflores,Pediatría,2020-09-21,159.66
+P1436,Luis Castillo,NA,M,Comas,Dermatología,2023-04-04,360.96
+P1437,Miguel García,NA,F,Lima,Dermatología,2024-08-22,486.17
+P1438,Ana Ramírez,52,M,Los Olivos,NA,2021-01-30,443.88
+P1439,Lucía Gómez,NA,M,Lima,Pediatría,2021-11-13,301.78
+P1440,María Castillo,1,M,Surco,Pediatría,2021-01-12,112.61
+P1441,María Ramírez,NA,NA,Lima,Dermatología,2023-09-24,434.14
+P1442,Ana García,NA,NA,Lima,Pediatría,2020-12-12,148.43
+P1443,María Torres,29,F,San Isidro,Odontología,2023-11-08,359.93
+P1444,José Pérez,12,F,Comas,Oncología,2020-03-01,122.56
+P1445,Jorge Pérez,NA,M,Callao,Pediatría,2021-01-09,95.15
+P1446,Lucía García,65,F,Miraflores,Oncología,2021-07-24,418.71
+P1447,Jorge Ramírez,38,,NA,NA,2022-01-16,143.1
+P1448,Rosa Flores,NA,,Comas,NA,2024-10-14,209.94
+P1449,José Flores,50,,NA,Odontología,2021-10-30,442.73
+P1450,María Castillo,23,F,Callao,Medicina General,2020-06-10,459.79
+P1451,Lucía Ramírez,NA,,Miraflores,Odontología,2022-02-23,219.35
+P1452,Miguel García,49,NA,Callao,Cardiología,2024-02-21,120.46
+P1453,Jorge Pérez,NA,NA,San Isidro,Odontología,2024-08-30,168.07
+P1454,Jorge Rojas,34,F,Lima,Oncología,2021-06-26,157.13
+P1455,Miguel Castillo,57,NA,Surco,Oncología,2024-12-10,392.4
+P1456,Lucía Torres,NA,M,Miraflores,Medicina General,2024-08-24,465.89
+P1457,Miguel García,NA,NA,NA,Odontología,2022-11-07,73.12
+P1458,Jorge Castillo,NA,M,Los Olivos,Pediatría,2021-09-30,467.76
+P1459,José Pérez,27,F,Callao,Odontología,2021-11-10,484.21
+P1460,José Rojas,NA,NA,Lima,NA,2023-10-24,282.57
+P1461,Ana Rojas,78,F,Comas,Medicina General,2022-11-24,463.2
+P1462,Rosa Pérez,NA,,Surco,Cardiología,2023-09-11,327.39
+P1463,Ana Gómez,33,,San Isidro,Oncología,2023-09-26,272.27
+P1464,María Rojas,NA,F,San Isidro,Odontología,2023-10-29,148.57
+P1465,Jorge Gómez,68,NA,San Isidro,Medicina General,2021-06-17,480.38
+P1466,Jorge Ramírez,29,F,Surco,Dermatología,2022-09-22,318.7
+P1467,Lucía Rojas,77,NA,Comas,Oncología,2021-12-22,117.03
+P1468,Miguel Gómez,NA,F,Comas,Cardiología,2020-12-30,472.1
+P1469,Lucía Flores,NA,NA,San Isidro,Oncología,2021-11-19,70.16
+P1470,Luis Ramírez,17,M,Callao,Cardiología,2022-01-24,260.09
+P1471,Pedro Rojas,85,M,Lima,Cardiología,2022-02-19,366.49
+P1472,Luis Rojas,NA,F,Miraflores,Medicina General,2024-10-01,349.56
+P1473,Miguel Gómez,66,NA,San Isidro,Dermatología,2021-04-08,183.08
+P1474,Pedro Pérez,NA,M,NA,NA,2022-07-03,321.96
+P1475,Carmen Torres,69,F,Comas,Odontología,2021-05-19,228.42
+P1476,Jorge Flores,NA,NA,Lima,Dermatología,2021-04-21,176.5
+P1477,Rosa Torres,10,,Lima,NA,2022-11-30,347.45
+P1478,Luis Ramírez,40,,Los Olivos,NA,2021-01-12,134.33
+P1479,Rosa Castillo,39,,San Isidro,Cardiología,2021-12-15,113.42
+P1480,Pedro Castillo,NA,,Los Olivos,Odontología,2024-01-17,330.22
+P1481,Lucía Flores,NA,NA,Los Olivos,Pediatría,2020-08-24,391.33
+P1482,Ana Flores,NA,F,Surco,Medicina General,2023-05-16,247.6
+P1483,María Castillo,44,F,Surco,Medicina General,2021-02-12,169.71
+P1484,María Ramírez,NA,NA,Miraflores,Cardiología,2021-05-21,139.4
+P1485,Miguel Torres,NA,M,San Isidro,Cardiología,2020-06-05,451.47
+P1486,Lucía Ramírez,25,F,Los Olivos,NA,2020-08-15,416.69
+P1487,Rosa Ramírez,NA,NA,NA,Dermatología,2021-03-08,413.1
+P1488,Jorge Rojas,NA,NA,Los Olivos,Medicina General,2021-03-25,352.91
+P1489,Jorge Castillo,25,NA,San Isidro,NA,2024-04-21,60.1
+P1490,Rosa Castillo,NA,M,Comas,Odontología,2021-09-30,446.11
+P1491,Carmen García,NA,,Los Olivos,Oncología,2024-08-20,54.67
+P1492,María Rojas,44,NA,Los Olivos,Medicina General,2024-12-08,397.57
+P1493,Pedro Torres,NA,NA,Comas,Pediatría,2023-04-11,371.41
+P1494,Carmen Flores,NA,,Miraflores,Medicina General,2023-08-19,444.37
+P1495,Carmen Rojas,30,,Los Olivos,Cardiología,2020-02-23,229.69
+P1496,Pedro Flores,81,,Lima,Medicina General,2024-07-08,114.84
+P1497,Jorge García,NA,NA,Callao,Medicina General,2023-07-13,314.63
+P1498,Carmen Pérez,81,M,Comas,NA,2023-06-16,118.48
+P1499,María Rojas,NA,M,Lima,Oncología,2022-06-13,467.63
+P1500,Carmen Gómez,74,M,NA,Cardiología,2022-07-12,237.43
+P1501,Miguel Flores,NA,,Surco,NA,2024-08-23,430.77
+P1502,Carmen Rojas,NA,F,San Isidro,Dermatología,2022-04-04,438.84
+P1503,Ana Pérez,53,NA,Comas,Dermatología,2020-08-05,113.07
+P1504,Pedro Torres,NA,,Lima,Oncología,2020-11-29,403.49
+P1505,José Flores,74,NA,Callao,NA,2022-05-25,289.73
+P1506,Miguel Pérez,NA,F,Lima,Cardiología,2023-07-21,158.11
+P1507,Carmen Pérez,NA,NA,Comas,Dermatología,2023-08-16,496.06
+P1508,Luis Torres,88,F,Lima,Medicina General,2021-10-20,296.71
+P1509,José Torres,NA,M,Surco,Cardiología,2022-08-08,410.24
+P1510,Ana Castillo,NA,F,Los Olivos,Cardiología,2023-12-11,251.32
+P1511,Ana García,54,,Lima,Pediatría,2022-01-16,234.57
+P1512,Luis Ramírez,NA,F,Lima,Dermatología,2021-06-21,304.88
+P1513,Lucía Torres,NA,M,Callao,Pediatría,2023-11-02,298.57
+P1514,Carmen Castillo,NA,,Miraflores,NA,2024-10-11,129.81
+P1515,María Rojas,87,,NA,NA,2023-11-02,491.59
+P1516,Carmen Torres,NA,M,Callao,Pediatría,2020-06-26,434.13
+P1517,Miguel Gómez,NA,,Comas,Cardiología,2022-07-04,498.7
+P1518,Luis Ramírez,6,M,Surco,NA,2023-07-09,183.0
+P1519,Lucía Rojas,NA,F,San Isidro,Cardiología,2022-02-24,320.18
+P1520,María García,32,NA,Los Olivos,Oncología,2023-03-22,410.98
+P1521,Lucía Torres,NA,,Los Olivos,NA,2021-09-12,152.81
+P1522,Miguel García,NA,F,Surco,NA,2023-03-12,396.26
+P1523,Miguel Rojas,NA,NA,Lima,Odontología,2024-10-13,214.34
+P1524,Lucía Rojas,NA,NA,Callao,Oncología,2024-07-18,371.24
+P1525,Pedro Flores,58,F,San Isidro,Odontología,2020-05-14,373.35
+P1526,Pedro Pérez,NA,,Comas,Pediatría,2020-07-19,181.96
+P1527,Ana Pérez,24,,Comas,Odontología,2020-04-11,318.67
+P1528,Carmen García,NA,NA,San Isidro,Pediatría,2020-03-05,162.64
+P1529,Miguel Ramírez,NA,F,Comas,Dermatología,2020-01-10,249.24
+P1530,Jorge García,25,NA,Miraflores,Odontología,2024-07-10,226.0
+P1531,Lucía Rojas,85,M,Comas,Pediatría,2022-06-18,259.32
+P1532,Ana Torres,NA,,Lima,NA,2024-04-12,139.43
+P1533,Rosa Rojas,NA,NA,Miraflores,NA,2022-08-18,128.84
+P1534,Lucía García,NA,NA,NA,Dermatología,2020-12-24,401.09
+P1535,Luis Rojas,20,M,Callao,NA,2024-11-10,63.19
+P1536,Ana Castillo,NA,,Los Olivos,Oncología,2023-04-26,185.19
+P1537,Jorge Gómez,NA,M,Miraflores,Odontología,2024-03-02,91.42
+P1538,Jorge Gómez,87,M,Miraflores,Oncología,2020-03-05,265.07
+P1539,Pedro Gómez,2,M,Callao,Medicina General,2023-02-19,433.79
+P1540,Ana Rojas,NA,M,Comas,Pediatría,2023-03-23,99.95
+P1541,Carmen Flores,NA,M,Surco,Cardiología,2024-11-23,301.67
+P1542,Lucía Rojas,NA,,Callao,Oncología,2021-06-08,399.51
+P1543,Lucía Gómez,NA,NA,San Isidro,Odontología,2020-10-19,254.47
+P1544,Luis Torres,NA,F,Lima,NA,2024-08-19,306.77
+P1545,Ana Castillo,48,NA,Lima,Cardiología,2020-12-18,492.17
+P1546,Luis Ramírez,NA,F,NA,Odontología,2023-10-27,436.03
+P1547,Carmen Pérez,78,NA,San Isidro,Pediatría,2021-08-30,377.95
+P1548,Miguel Pérez,33,,NA,Dermatología,2023-11-15,450.78
+P1549,Carmen Gómez,NA,F,San Isidro,Odontología,2022-09-16,345.67
+P1550,Pedro Castillo,11,NA,Callao,Pediatría,2022-04-30,338.87
+P1551,Jorge Castillo,NA,,Miraflores,Pediatría,2022-04-06,351.48
+P1552,Pedro Pérez,8,F,Los Olivos,Medicina General,2023-12-19,69.14
+P1553,Ana Rojas,NA,F,Miraflores,Pediatría,2022-07-24,152.27
+P1554,Rosa Castillo,NA,M,Callao,Medicina General,2021-03-26,59.94
+P1555,Jorge Ramírez,57,F,NA,Medicina General,2023-10-12,389.25
+P1556,Pedro Rojas,NA,,Comas,Cardiología,2024-02-10,281.26
+P1557,Miguel Pérez,35,,NA,Dermatología,2020-10-09,466.85
+P1558,Ana Gómez,58,M,San Isidro,Pediatría,2023-08-09,329.13
+P1559,Rosa Castillo,NA,F,Los Olivos,Pediatría,2022-07-13,297.32
+P1560,Ana Torres,21,NA,NA,NA,2020-07-29,160.78
+P1561,Luis Flores,16,NA,Callao,NA,2023-07-24,400.07
+P1562,Luis Pérez,NA,NA,NA,Odontología,2022-01-27,295.17
+P1563,María Pérez,61,M,Comas,Cardiología,2022-06-17,464.19
+P1564,Ana Torres,NA,NA,Lima,Medicina General,2020-01-26,225.51
+P1565,Lucía Pérez,NA,,Lima,Medicina General,2021-06-18,393.74
+P1566,Jorge Rojas,68,,Lima,Oncología,2024-12-20,84.93
+P1567,Jorge Torres,NA,M,Comas,Pediatría,2020-04-05,282.76
+P1568,José García,NA,M,Callao,Pediatría,2022-12-06,131.71
+P1569,María Ramírez,86,,Surco,Odontología,2021-06-19,442.83
+P1570,Rosa Pérez,NA,M,Surco,Dermatología,2022-10-27,189.87
+P1571,José Pérez,NA,M,NA,Medicina General,2021-06-30,61.62
+P1572,Jorge Torres,NA,F,San Isidro,Oncología,2021-06-04,337.91
+P1573,Ana Torres,NA,F,Surco,Cardiología,2023-05-16,230.45
+P1574,María Castillo,NA,NA,San Isidro,Oncología,2021-09-29,288.1
+P1575,Lucía Torres,10,F,Surco,NA,2023-06-21,234.37
+P1576,Carmen Castillo,NA,,Surco,NA,2023-02-17,218.78
+P1577,José Pérez,62,M,Miraflores,Dermatología,2024-12-19,85.8
+P1578,José Pérez,78,,Callao,Medicina General,2020-03-20,166.21
+P1579,Lucía Castillo,NA,NA,Miraflores,Odontología,2023-03-08,450.19
+P1580,Miguel Gómez,NA,M,Callao,Oncología,2021-10-05,344.31
+P1581,Carmen Torres,38,F,Miraflores,NA,2020-01-27,117.73
+P1582,Miguel Ramírez,NA,F,Comas,Dermatología,2022-09-02,276.73
+P1583,Pedro Rojas,35,,Lima,Dermatología,2024-01-11,494.96
+P1584,Pedro Ramírez,NA,M,Surco,NA,2024-12-25,334.5
+P1585,José Rojas,NA,,NA,Odontología,2023-02-22,89.2
+P1586,Jorge Pérez,NA,M,San Isidro,Oncología,2023-04-25,275.94
+P1587,María Gómez,NA,F,NA,Pediatría,2021-12-01,110.53
+P1588,María Pérez,NA,NA,Surco,Odontología,2021-08-21,64.59
+P1589,José Ramírez,68,M,Callao,Dermatología,2023-03-05,157.35
+P1590,Carmen Flores,4,,Lima,Dermatología,2023-04-21,147.98
+P1591,José Torres,86,M,NA,Medicina General,2021-07-20,181.14
+P1592,María Pérez,70,NA,Surco,Cardiología,2022-01-16,138.06
+P1593,Rosa Rojas,31,F,San Isidro,Oncología,2022-01-26,259.74
+P1594,Pedro Ramírez,NA,M,Callao,Pediatría,2024-01-15,61.59
+P1595,Carmen Pérez,NA,,Comas,Dermatología,2022-07-15,494.53
+P1596,Rosa Flores,NA,,NA,NA,2020-01-27,474.86
+P1597,Rosa Gómez,2,,San Isidro,Medicina General,2023-03-27,383.87
+P1598,Lucía Gómez,60,M,Callao,Oncología,2022-06-25,200.71
+P1599,Jorge Torres,NA,F,NA,Oncología,2020-03-10,308.68
+P1600,Rosa Gómez,61,,NA,Dermatología,2024-03-13,189.36
+P1601,Carmen Ramírez,NA,,Callao,NA,2022-09-24,242.94
+P1602,María Torres,68,NA,Los Olivos,Cardiología,2024-11-21,155.57
+P1603,Miguel Ramírez,NA,,Los Olivos,Medicina General,2023-07-17,116.54
+P1604,Miguel Castillo,15,M,San Isidro,Medicina General,2021-06-12,439.27
+P1605,Pedro Gómez,NA,,NA,Dermatología,2022-09-15,465.04
+P1606,Luis Pérez,NA,,Surco,Pediatría,2022-08-24,396.33
+P1607,Miguel Ramírez,NA,M,Miraflores,Dermatología,2020-12-25,208.26
+P1608,Luis Torres,NA,F,San Isidro,Pediatría,2024-04-16,94.32
+P1609,Luis Torres,82,NA,Miraflores,Odontología,2020-09-16,380.8
+P1610,Miguel Flores,7,M,Surco,Pediatría,2021-09-20,203.61
+P1611,María Ramírez,NA,,Lima,Oncología,2023-04-10,151.76
+P1612,Miguel Gómez,67,F,NA,Medicina General,2024-05-07,359.74
+P1613,María Flores,NA,,Comas,Cardiología,2022-05-19,305.86
+P1614,Lucía Flores,72,NA,Callao,Oncología,2023-03-21,225.51
+P1615,Lucía García,NA,NA,Surco,Pediatría,2023-11-27,117.43
+P1616,José Pérez,9,F,NA,NA,2021-12-17,299.76
+P1617,Jorge Castillo,NA,,Lima,NA,2024-02-24,228.47
+P1618,Luis García,39,F,Comas,Oncología,2024-06-13,311.47
+P1619,Jorge Flores,27,NA,Surco,Cardiología,2020-07-11,291.32
+P1620,María Ramírez,14,M,Callao,Odontología,2021-06-20,375.84
+P1621,Miguel Flores,49,M,Lima,NA,2024-10-17,429.55
+P1622,José Gómez,82,F,NA,NA,2023-03-09,285.79
+P1623,Pedro García,86,F,Callao,Pediatría,2024-08-11,150.81
+P1624,José Flores,NA,,Comas,NA,2023-10-09,286.68
+P1625,Rosa Flores,5,M,San Isidro,Pediatría,2021-05-14,453.92
+P1626,Lucía Flores,16,NA,Callao,Medicina General,2021-02-10,422.68
+P1627,María García,81,F,Miraflores,Oncología,2021-09-04,304.57
+P1628,Ana Pérez,NA,F,NA,Medicina General,2020-12-23,417.05
+P1629,Lucía García,90,F,Miraflores,Oncología,2020-10-07,346.57
+P1630,Rosa Torres,73,NA,Miraflores,Pediatría,2020-05-15,133.92
+P1631,Carmen García,NA,F,Lima,Cardiología,2022-10-18,220.78
+P1632,Luis Gómez,77,NA,Lima,Medicina General,2022-08-11,58.84
+P1633,Ana Gómez,46,NA,Miraflores,Cardiología,2023-03-12,238.36
+P1634,Miguel García,NA,F,Comas,Odontología,2020-02-29,61.82
+P1635,María Pérez,49,F,San Isidro,Odontología,2020-04-02,263.61
+P1636,José García,NA,F,Comas,NA,2021-05-30,120.24
+P1637,José Rojas,NA,NA,Comas,Dermatología,2022-03-13,314.32
+P1638,Miguel Rojas,47,M,Comas,Pediatría,2021-04-02,426.2
+P1639,Carmen Pérez,89,NA,Comas,Pediatría,2021-12-08,334.27
+P1640,José Pérez,46,NA,Surco,Oncología,2024-03-05,265.72
+P1641,Rosa Rojas,NA,,Los Olivos,Cardiología,2020-02-27,271.05
+P1642,Rosa Torres,52,NA,Comas,Medicina General,2023-10-31,312.17
+P1643,Carmen Gómez,68,F,Surco,Pediatría,2022-02-26,334.42
+P1644,Pedro Gómez,NA,,San Isidro,Odontología,2020-07-26,308.14
+P1645,Pedro García,34,,Comas,Pediatría,2021-04-03,419.03
+P1646,Pedro Gómez,NA,NA,NA,NA,2020-03-31,337.97
+P1647,José Pérez,81,M,Surco,Dermatología,2023-04-22,216.15
+P1648,Rosa Gómez,NA,NA,Lima,Medicina General,2023-08-07,259.63
+P1649,Luis Castillo,NA,M,Surco,Cardiología,2021-10-29,449.51
+P1650,Rosa Torres,NA,,San Isidro,Oncología,2022-05-14,457.16
+P1651,Luis Gómez,NA,,Callao,Dermatología,2024-07-18,460.33
+P1652,Rosa Torres,53,NA,Comas,Pediatría,2024-11-02,78.57
+P1653,Carmen Flores,29,,San Isidro,Oncología,2024-09-10,462.15
+P1654,Ana Torres,NA,F,Callao,Pediatría,2020-04-03,65.49
+P1655,Carmen Gómez,NA,M,NA,Dermatología,2024-01-04,171.28
+P1656,Jorge Rojas,NA,NA,Surco,Medicina General,2023-11-15,195.57
+P1657,Luis Ramírez,NA,NA,San Isidro,NA,2023-09-27,218.63
+P1658,José Rojas,41,,NA,Odontología,2022-08-21,166.27
+P1659,María Torres,NA,,Lima,NA,2020-01-13,467.48
+P1660,Rosa Torres,43,,Miraflores,NA,2021-09-02,308.47
+P1661,Rosa Pérez,51,F,Callao,Medicina General,2023-07-05,328.08
+P1662,Miguel Flores,42,,San Isidro,Dermatología,2022-10-11,310.72
+P1663,Miguel Flores,NA,,San Isidro,NA,2020-09-21,134.28
+P1664,Pedro Ramírez,78,NA,Surco,NA,2023-11-18,313.22
+P1665,Jorge Rojas,NA,F,Surco,NA,2022-01-03,392.28
+P1666,María García,72,M,Callao,Odontología,2022-07-31,205.96
+P1667,Ana García,13,NA,Miraflores,Medicina General,2022-04-25,491.31
+P1668,Luis Rojas,NA,M,Surco,Oncología,2023-01-19,243.81
+P1669,Rosa García,6,,San Isidro,Medicina General,2020-01-09,379.14
+P1670,José Castillo,NA,M,Lima,Dermatología,2021-11-12,241.59
+P1671,Ana Flores,34,,NA,Odontología,2021-01-10,233.74
+P1672,Rosa Rojas,69,NA,Lima,NA,2020-02-26,293.27
+P1673,Pedro Flores,21,M,Comas,Medicina General,2020-12-01,299.59
+P1674,Pedro Castillo,51,NA,San Isidro,Oncología,2021-07-13,479.0
+P1675,Lucía Flores,NA,F,Callao,Oncología,2021-05-27,140.54
+P1676,Miguel Torres,26,M,NA,Dermatología,2020-05-18,90.27
+P1677,Jorge García,NA,,Comas,Dermatología,2023-09-08,199.43
+P1678,Miguel Ramírez,NA,F,Lima,Odontología,2020-03-23,123.84
+P1679,Lucía García,NA,,San Isidro,Odontología,2021-04-07,316.41
+P1680,Pedro Flores,87,,Miraflores,Oncología,2024-05-08,494.76
+P1681,Rosa Torres,NA,,Callao,Odontología,2024-06-20,127.07
+P1682,José Castillo,NA,NA,Los Olivos,Dermatología,2020-11-20,267.59
+P1683,Miguel Castillo,NA,,Miraflores,Oncología,2023-10-29,424.99
+P1684,Pedro Torres,38,NA,Los Olivos,NA,2022-01-31,133.39
+P1685,Pedro García,64,,San Isidro,Cardiología,2022-08-06,161.87
+P1686,Jorge Castillo,37,M,Los Olivos,Cardiología,2020-01-11,314.41
+P1687,Luis Pérez,NA,F,San Isidro,NA,2021-09-11,469.5
+P1688,Rosa Flores,NA,NA,Callao,Cardiología,2021-12-31,203.5
+P1689,Pedro Gómez,85,NA,Los Olivos,Oncología,2024-01-24,123.23
+P1690,María Castillo,NA,,Comas,Pediatría,2023-09-06,215.2
+P1691,María Pérez,79,M,San Isidro,Cardiología,2024-10-26,112.82
+P1692,Luis Torres,NA,M,Lima,Odontología,2021-05-01,331.08
+P1693,José Torres,NA,,Lima,Cardiología,2023-04-18,376.26
+P1694,María Castillo,NA,M,NA,Odontología,2020-04-26,279.09
+P1695,Luis Gómez,67,,Comas,Dermatología,2023-05-31,486.75
+P1696,Lucía García,NA,,Comas,Pediatría,2023-05-14,285.99
+P1697,Miguel Pérez,85,M,San Isidro,Dermatología,2021-05-04,403.52
+P1698,Carmen Torres,84,F,San Isidro,NA,2020-05-13,101.94
+P1699,Ana Pérez,53,,Miraflores,Cardiología,2023-12-09,51.01
+P1700,Jorge Castillo,6,F,Miraflores,Pediatría,2024-06-08,267.66
+P1701,Ana Gómez,NA,F,Comas,Dermatología,2023-05-16,289.28
+P1702,María Pérez,NA,F,San Isidro,Dermatología,2022-03-04,479.72
+P1703,Ana Gómez,53,NA,NA,Odontología,2024-03-17,300.86
+P1704,Rosa García,82,M,Comas,Medicina General,2021-04-18,50.53
+P1705,Ana Pérez,NA,M,Miraflores,NA,2020-07-10,88.99
+P1706,Miguel Rojas,7,M,Surco,Medicina General,2020-05-30,79.01
+P1707,Miguel Flores,NA,F,Callao,Pediatría,2020-06-13,345.12
+P1708,María García,35,F,Surco,Dermatología,2020-03-07,72.81
+P1709,Jorge Pérez,82,F,NA,Cardiología,2023-01-13,191.15
+P1710,Rosa Torres,84,M,NA,Dermatología,2020-07-29,114.54
+P1711,Jorge Ramírez,NA,F,Surco,Odontología,2024-07-16,495.69
+P1712,Rosa Ramírez,55,NA,Callao,Cardiología,2022-11-01,195.56
+P1713,Ana Pérez,NA,,Lima,Cardiología,2024-11-02,376.57
+P1714,José Torres,NA,M,Lima,Medicina General,2022-09-22,475.98
+P1715,Ana Torres,NA,,Callao,Pediatría,2021-11-17,402.8
+P1716,José Rojas,61,NA,NA,Dermatología,2021-03-27,242.84
+P1717,Carmen Rojas,83,NA,Lima,Pediatría,2021-11-03,253.69
+P1718,Ana Rojas,NA,,Surco,Cardiología,2020-06-25,419.71
+P1719,José Rojas,7,NA,Comas,Oncología,2022-01-26,208.21
+P1720,Pedro García,71,M,San Isidro,Pediatría,2024-12-19,184.6
+P1721,Miguel Rojas,45,M,Surco,Medicina General,2022-12-21,98.03
+P1722,María Torres,88,,Miraflores,Oncología,2021-07-26,302.03
+P1723,Ana Pérez,NA,M,San Isidro,Pediatría,2021-11-22,369.35
+P1724,José Castillo,30,,Surco,Odontología,2021-10-08,411.65
+P1725,Pedro Pérez,NA,NA,Los Olivos,Cardiología,2020-10-31,190.37
+P1726,Pedro Castillo,NA,,Los Olivos,Pediatría,2024-02-01,139.74
+P1727,Carmen Rojas,20,NA,Lima,Pediatría,2024-09-26,288.74
+P1728,Rosa Gómez,18,,San Isidro,Pediatría,2023-07-23,452.84
+P1729,María Pérez,NA,M,Los Olivos,NA,2024-11-29,491.82
+P1730,María Gómez,NA,,Callao,Oncología,2021-05-14,330.71
+P1731,Carmen Gómez,NA,F,Miraflores,Odontología,2024-12-29,432.23
+P1732,Miguel Flores,39,,Lima,Dermatología,2020-01-22,55.53
+P1733,Luis García,71,,Comas,NA,2023-01-16,342.02
+P1734,José Castillo,NA,M,Lima,NA,2022-02-12,453.66
+P1735,Lucía García,51,NA,Los Olivos,Oncología,2021-12-21,198.27
+P1736,Luis García,NA,M,Callao,Cardiología,2021-01-23,317.75
+P1737,Rosa García,69,F,Lima,Oncología,2024-03-05,310.31
+P1738,Jorge Pérez,34,,Los Olivos,Pediatría,2024-05-12,365.24
+P1739,Carmen Flores,NA,F,NA,Cardiología,2021-09-01,277.53
+P1740,María Ramírez,NA,F,Los Olivos,Pediatría,2021-10-02,413.97
+P1741,Miguel Pérez,NA,NA,Los Olivos,Pediatría,2021-04-23,258.43
+P1742,Lucía Ramírez,NA,NA,Callao,Oncología,2020-02-20,437.69
+P1743,Lucía Pérez,52,NA,Surco,Pediatría,2020-12-25,192.6
+P1744,Jorge Pérez,14,,Comas,Medicina General,2021-06-24,267.57
+P1745,Rosa Torres,NA,F,Miraflores,Oncología,2021-04-11,76.94
+P1746,Carmen Pérez,10,M,Surco,Dermatología,2021-05-11,350.49
+P1747,Ana García,NA,M,Los Olivos,Dermatología,2021-11-18,403.97
+P1748,José Rojas,4,,Lima,Oncología,2021-12-19,449.5
+P1749,María García,90,NA,Miraflores,Oncología,2024-12-25,435.82
+P1750,José Torres,43,F,Miraflores,Pediatría,2024-11-11,53.72
+P1751,Miguel Flores,NA,M,Lima,Odontología,2020-12-27,258.04
+P1752,Pedro Ramírez,60,F,Lima,Medicina General,2023-04-01,134.18
+P1753,Miguel Gómez,10,NA,Surco,Medicina General,2020-10-14,406.83
+P1754,Carmen Torres,NA,F,Comas,Odontología,2021-03-18,369.27
+P1755,Luis Torres,NA,M,NA,Pediatría,2022-06-15,292.99
+P1756,Pedro Rojas,79,M,San Isidro,Pediatría,2020-01-15,397.54
+P1757,Carmen Castillo,NA,NA,Surco,Odontología,2022-06-28,450.03
+P1758,José Ramírez,NA,,Miraflores,Dermatología,2022-09-12,315.3
+P1759,Ana García,NA,NA,Callao,Oncología,2021-04-22,79.61
+P1760,José Torres,56,NA,Surco,NA,2021-12-13,449.73
+P1761,José Castillo,58,M,Miraflores,Odontología,2024-03-25,431.47
+P1762,Jorge Torres,79,F,Callao,NA,2024-02-12,187.51
+P1763,Luis Ramírez,90,M,Comas,Cardiología,2024-02-10,460.33
+P1764,Miguel Rojas,57,M,Lima,Pediatría,2022-09-08,492.58
+P1765,José Pérez,29,F,Lima,Oncología,2024-03-08,359.34
+P1766,Rosa Flores,12,,San Isidro,Medicina General,2024-12-09,318.3
+P1767,Ana Castillo,24,M,Callao,Dermatología,2021-09-17,464.4
+P1768,Ana Pérez,32,F,Lima,Odontología,2020-11-01,477.43
+P1769,Lucía Pérez,86,F,Lima,Pediatría,2024-04-16,79.38
+P1770,Pedro Rojas,40,NA,Miraflores,Odontología,2022-03-01,488.09
+P1771,José Pérez,NA,F,NA,Odontología,2024-10-31,287.12
+P1772,Lucía Torres,NA,,San Isidro,Oncología,2024-09-25,145.24
+P1773,Carmen Castillo,75,NA,Lima,NA,2020-02-06,278.53
+P1774,Pedro Gómez,NA,F,Surco,Dermatología,2020-01-03,216.63
+P1775,Carmen Ramírez,NA,F,NA,Odontología,2023-04-05,281.94
+P1776,Pedro Pérez,43,,Callao,Oncología,2020-10-26,318.71
+P1777,Rosa Torres,NA,F,Comas,Pediatría,2021-04-22,348.44
+P1778,Jorge Castillo,NA,M,Los Olivos,Medicina General,2021-12-13,78.62
+P1779,Miguel Ramírez,21,M,San Isidro,Medicina General,2024-12-28,250.98
+P1780,José García,89,,Comas,Oncología,2020-01-07,380.79
+P1781,José Gómez,83,NA,Miraflores,Cardiología,2022-08-05,169.3
+P1782,Pedro Torres,NA,NA,Callao,NA,2020-04-20,412.42
+P1783,Pedro Torres,NA,NA,Surco,Cardiología,2020-10-18,294.82
+P1784,Ana Torres,88,NA,Surco,Pediatría,2021-02-16,245.33
+P1785,Ana Ramírez,NA,,Surco,Pediatría,2021-01-03,75.11
+P1786,Pedro Rojas,NA,,NA,Medicina General,2020-11-16,261.24
+P1787,Ana García,NA,,Callao,NA,2022-08-26,66.93
+P1788,Lucía Flores,72,,San Isidro,NA,2020-09-06,81.21
+P1789,Rosa Torres,80,F,Callao,Medicina General,2024-01-02,214.82
+P1790,Miguel Gómez,74,F,Los Olivos,NA,2023-05-22,151.86
+P1791,Pedro Rojas,NA,,Surco,Pediatría,2023-07-14,271.84
+P1792,Lucía Pérez,NA,NA,Los Olivos,Pediatría,2020-06-29,323.25
+P1793,Pedro Pérez,NA,,NA,Medicina General,2021-06-20,262.92
+P1794,Jorge Pérez,36,,Lima,Dermatología,2023-07-04,124.17
+P1795,Carmen Flores,NA,M,Los Olivos,Cardiología,2021-12-17,208.85
+P1796,María Rojas,NA,NA,San Isidro,NA,2024-06-03,57.85
+P1797,Lucía Gómez,1,NA,San Isidro,Oncología,2021-03-22,330.92
+P1798,Pedro Ramírez,NA,M,Miraflores,Dermatología,2022-05-24,71.31
+P1799,Lucía Torres,NA,NA,Callao,Cardiología,2024-08-16,265.08
+P1800,Luis Ramírez,88,NA,Miraflores,Pediatría,2024-03-23,126.99
+P1801,Jorge Ramírez,NA,NA,Surco,Pediatría,2023-11-06,365.33
+P1802,José Ramírez,35,NA,NA,Oncología,2022-06-29,151.0
+P1803,Ana Torres,57,M,Comas,Odontología,2024-08-12,131.02
+P1804,José Castillo,NA,NA,San Isidro,Dermatología,2024-11-26,141.69
+P1805,José Flores,NA,NA,Callao,Pediatría,2023-07-12,311.09
+P1806,José Ramírez,NA,M,Surco,Oncología,2023-09-12,324.61
+P1807,José Ramírez,7,,Los Olivos,Pediatría,2024-11-08,228.41
+P1808,Lucía Torres,60,,NA,Pediatría,2020-11-03,196.14
+P1809,Carmen Rojas,NA,F,Comas,Odontología,2024-04-16,173.15
+P1810,Ana Flores,23,,Comas,Oncología,2023-07-23,262.32
+P1811,Carmen Torres,86,NA,Lima,Odontología,2020-10-05,491.14
+P1812,Luis Ramírez,NA,NA,Comas,Cardiología,2020-04-20,109.97
+P1813,María García,32,NA,Comas,Oncología,2020-08-30,171.56
+P1814,Ana Gómez,NA,,San Isidro,Dermatología,2020-07-02,57.6
+P1815,Rosa Flores,47,M,Lima,Cardiología,2022-10-08,280.11
+P1816,Miguel Gómez,32,,NA,Pediatría,2022-04-14,498.37
+P1817,María Torres,65,F,San Isidro,Odontología,2024-03-29,336.95
+P1818,María Torres,37,,Surco,Cardiología,2024-03-17,229.5
+P1819,Lucía Torres,NA,M,Miraflores,Cardiología,2021-08-10,325.1
+P1820,Carmen García,23,,Lima,Oncología,2021-08-16,464.08
+P1821,Ana Torres,66,NA,Surco,Pediatría,2023-07-26,187.15
+P1822,José Rojas,22,NA,San Isidro,Pediatría,2024-06-06,429.92
+P1823,Lucía García,68,,Los Olivos,Pediatría,2023-09-09,208.83
+P1824,Luis Pérez,NA,F,Lima,Dermatología,2023-02-07,254.42
+P1825,Ana García,5,F,Lima,Odontología,2023-03-30,340.84
+P1826,María Torres,21,F,Los Olivos,Cardiología,2024-04-28,175.62
+P1827,Luis Pérez,NA,F,NA,Medicina General,2020-06-15,313.74
+P1828,María Flores,NA,M,Comas,Pediatría,2022-02-13,481.41
+P1829,Pedro Castillo,83,F,Callao,Odontología,2023-07-03,199.15
+P1830,Jorge Gómez,10,M,Callao,Pediatría,2020-06-28,294.7
+P1831,María Pérez,NA,M,Callao,Oncología,2023-01-01,420.85
+P1832,María Pérez,59,F,NA,Medicina General,2020-03-14,158.4
+P1833,Luis Torres,NA,NA,Callao,NA,2022-12-18,170.03
+P1834,Rosa Torres,22,M,NA,Cardiología,2023-02-12,199.58
+P1835,Ana Pérez,NA,F,San Isidro,Oncología,2021-07-17,167.31
+P1836,Rosa García,34,,Lima,NA,2023-03-04,480.45
+P1837,María García,NA,NA,Callao,Odontología,2020-01-18,243.85
+P1838,Jorge Ramírez,NA,NA,Miraflores,NA,2022-05-03,163.08
+P1839,Rosa Rojas,NA,F,Los Olivos,NA,2021-12-12,196.9
+P1840,Carmen Castillo,NA,M,Los Olivos,NA,2024-10-30,371.53
+P1841,Ana Torres,NA,M,Miraflores,Odontología,2020-01-17,226.17
+P1842,Ana Gómez,NA,,Callao,Pediatría,2023-04-16,426.76
+P1843,Miguel Flores,42,NA,Surco,Medicina General,2020-11-09,147.1
+P1844,Ana Pérez,NA,NA,Miraflores,Oncología,2022-04-26,58.96
+P1845,María Ramírez,89,NA,Comas,Oncología,2020-09-22,463.49
+P1846,José Gómez,59,M,NA,Oncología,2022-02-08,226.12
+P1847,Luis Ramírez,NA,M,NA,Dermatología,2022-07-13,368.45
+P1848,María Flores,77,F,Los Olivos,Dermatología,2020-05-20,395.94
+P1849,José Pérez,NA,,Los Olivos,Dermatología,2022-08-10,96.37
+P1850,Pedro Pérez,90,M,Comas,NA,2020-04-14,411.41
+P1851,Pedro García,NA,M,Los Olivos,Cardiología,2024-03-14,232.76
+P1852,Pedro Ramírez,NA,,Lima,Medicina General,2021-10-03,101.58
+P1853,Ana Pérez,44,,San Isidro,Oncología,2024-01-17,437.7
+P1854,Miguel Gómez,35,M,Surco,Oncología,2023-09-28,402.53
+P1855,Rosa García,NA,F,Miraflores,Dermatología,2022-01-07,415.68
+P1856,Miguel Flores,NA,F,Callao,NA,2021-11-30,101.58
+P1857,Ana Rojas,NA,F,NA,Odontología,2023-09-23,158.65
+P1858,Pedro Gómez,NA,M,Comas,Pediatría,2020-09-30,497.37
+P1859,Miguel Pérez,NA,F,NA,Dermatología,2024-01-05,390.26
+P1860,Miguel Castillo,NA,M,San Isidro,Odontología,2024-02-10,126.62
+P1861,Carmen Gómez,NA,F,Callao,Cardiología,2024-03-16,309.8
+P1862,Lucía Pérez,NA,F,Comas,Dermatología,2024-06-18,312.29
+P1863,Miguel Pérez,82,M,Surco,Pediatría,2022-11-26,261.65
+P1864,Carmen García,60,M,San Isidro,Dermatología,2023-04-03,172.49
+P1865,Lucía Flores,40,F,Comas,Oncología,2022-03-07,345.31
+P1866,Lucía Gómez,NA,NA,Lima,Oncología,2020-04-14,373.08
+P1867,Miguel Castillo,14,M,San Isidro,Medicina General,2020-11-29,302.96
+P1868,Pedro Torres,46,NA,NA,NA,2022-01-13,341.26
+P1869,Rosa Flores,1,F,Comas,Oncología,2022-03-14,486.1
+P1870,José Rojas,55,M,Callao,Oncología,2023-05-24,341.42
+P1871,José Castillo,1,M,San Isidro,Dermatología,2022-05-22,450.3
+P1872,Luis Rojas,70,,Callao,Dermatología,2022-04-02,280.82
+P1873,Carmen Ramírez,NA,NA,Surco,Dermatología,2023-07-27,283.37
+P1874,Rosa Castillo,NA,,San Isidro,Oncología,2020-05-01,114.01
+P1875,José Castillo,81,M,NA,Medicina General,2024-06-01,293.6
+P1876,Miguel García,40,F,Miraflores,Dermatología,2020-02-10,464.32
+P1877,Lucía Castillo,66,M,Surco,Pediatría,2021-09-04,303.0
+P1878,Miguel Castillo,NA,M,NA,Odontología,2020-09-30,365.12
+P1879,María Ramírez,NA,NA,Comas,Dermatología,2020-04-02,466.96
+P1880,Luis Pérez,48,,San Isidro,Medicina General,2020-05-25,409.8
+P1881,Jorge Castillo,51,,Lima,NA,2023-03-02,356.53
+P1882,Carmen García,16,NA,NA,Dermatología,2020-11-09,133.92
+P1883,María Flores,NA,,Callao,Pediatría,2024-12-11,130.89
+P1884,Lucía Ramírez,NA,NA,San Isidro,Oncología,2021-12-03,57.25
+P1885,Rosa García,72,M,Comas,NA,2021-12-08,478.9
+P1886,Jorge Rojas,46,F,Callao,Odontología,2023-04-24,387.02
+P1887,Jorge Rojas,NA,NA,NA,NA,2023-09-19,461.51
+P1888,José Rojas,71,NA,Surco,Dermatología,2022-08-21,147.51
+P1889,Carmen Rojas,62,F,Surco,Cardiología,2021-06-22,378.45
+P1890,Luis Pérez,75,F,Miraflores,Oncología,2024-03-13,398.12
+P1891,Jorge Flores,15,F,Miraflores,Medicina General,2021-01-06,348.88
+P1892,Miguel Torres,83,NA,NA,Oncología,2021-05-09,258.28
+P1893,Lucía Ramírez,62,NA,Los Olivos,Medicina General,2021-09-02,388.53
+P1894,Jorge Pérez,NA,NA,Comas,NA,2023-08-29,183.13
+P1895,José Flores,47,NA,Los Olivos,Cardiología,2021-06-03,495.81
+P1896,Lucía Flores,60,,Lima,Dermatología,2020-03-01,435.86
+P1897,Jorge Gómez,33,NA,Comas,Oncología,2020-12-09,147.47
+P1898,Pedro Ramírez,31,F,Miraflores,Dermatología,2024-03-22,115.7
+P1899,Carmen Rojas,NA,NA,Comas,Oncología,2024-04-18,224.95
+P1900,Pedro Rojas,90,F,Callao,Cardiología,2023-08-21,271.53
+P1901,Luis Pérez,NA,M,Callao,Medicina General,2021-06-29,252.0
+P1902,Pedro Castillo,64,F,San Isidro,Medicina General,2022-03-01,239.97
+P1903,Miguel Pérez,17,NA,Los Olivos,Oncología,2022-10-25,92.69
+P1904,José Castillo,NA,F,San Isidro,Pediatría,2022-03-20,288.16
+P1905,Lucía Castillo,NA,,Lima,Cardiología,2022-11-09,116.84
+P1906,Rosa Pérez,30,NA,Lima,Cardiología,2024-11-07,197.66
+P1907,José Ramírez,NA,,NA,NA,2022-02-19,224.32
+P1908,José García,23,F,San Isidro,Odontología,2020-03-25,445.34
+P1909,Pedro Ramírez,40,,Comas,Odontología,2023-01-16,302.57
+P1910,Pedro Flores,18,,San Isidro,Pediatría,2023-03-29,129.24
+P1911,Ana García,NA,F,Miraflores,Oncología,2022-05-16,398.78
+P1912,Jorge Ramírez,11,,Miraflores,Cardiología,2023-10-06,57.7
+P1913,José Gómez,NA,,Miraflores,Dermatología,2021-11-21,285.6
+P1914,Carmen Gómez,NA,,NA,Odontología,2021-10-11,385.96
+P1915,Miguel Rojas,76,,Lima,Cardiología,2022-11-11,103.69
+P1916,Miguel Torres,NA,NA,San Isidro,Cardiología,2021-05-22,100.8
+P1917,José Torres,49,NA,San Isidro,Cardiología,2022-01-01,399.23
+P1918,Luis Torres,18,M,Miraflores,Medicina General,2024-02-09,207.19
+P1919,Jorge Ramírez,NA,NA,Surco,Dermatología,2024-07-31,352.15
+P1920,Pedro Gómez,79,F,Callao,Dermatología,2021-02-23,370.55
+P1921,Rosa Gómez,NA,NA,Lima,Pediatría,2023-05-23,104.58
+P1922,José Ramírez,NA,NA,Surco,Cardiología,2023-07-12,258.72
+P1923,Pedro Flores,26,M,Miraflores,Odontología,2020-01-19,425.18
+P1924,Pedro Ramírez,NA,M,Comas,Medicina General,2021-06-10,83.98
+P1925,Miguel Gómez,NA,F,Lima,Medicina General,2021-11-14,159.92
+P1926,Jorge Flores,NA,,Surco,Dermatología,2021-04-21,316.35
+P1927,Rosa Castillo,64,F,Comas,NA,2022-03-20,282.59
+P1928,Luis Gómez,6,M,San Isidro,Oncología,2021-03-02,318.12
+P1929,Carmen Ramírez,15,,Lima,Odontología,2020-06-04,143.27
+P1930,Jorge Pérez,NA,M,Lima,Dermatología,2024-11-10,126.21
+P1931,José Ramírez,37,,Comas,NA,2020-02-16,307.37
+P1932,Lucía Pérez,26,M,Comas,NA,2021-07-31,460.58
+P1933,María Ramírez,58,M,Miraflores,NA,2023-09-20,388.82
+P1934,Lucía Castillo,NA,NA,Surco,Dermatología,2020-06-01,435.71
+P1935,María Rojas,41,,NA,Cardiología,2024-09-19,177.25
+P1936,Rosa Pérez,NA,F,NA,Oncología,2024-12-27,263.81
+P1937,María Torres,66,NA,Miraflores,Oncología,2024-05-02,362.51
+P1938,Pedro Pérez,66,,NA,Pediatría,2021-11-11,253.3
+P1939,María Gómez,59,NA,Comas,Cardiología,2020-04-27,180.65
+P1940,Carmen Flores,NA,,Comas,Cardiología,2022-05-13,140.67
+P1941,Pedro Gómez,53,NA,Miraflores,Cardiología,2020-04-18,333.61
+P1942,Luis Castillo,NA,F,Callao,Cardiología,2023-06-06,266.69
+P1943,Jorge Pérez,NA,NA,Comas,Medicina General,2024-03-10,283.65
+P1944,Ana Pérez,26,F,NA,Oncología,2024-12-29,263.28
+P1945,Ana Castillo,NA,,Surco,Odontología,2020-03-16,403.4
+P1946,Rosa Castillo,NA,M,Surco,Oncología,2024-02-23,279.89
+P1947,Lucía Ramírez,60,M,NA,Oncología,2022-07-07,398.44
+P1948,Luis García,29,,NA,Pediatría,2022-05-20,434.97
+P1949,Miguel Castillo,14,NA,Los Olivos,NA,2020-12-08,274.19
+P1950,Lucía Castillo,5,M,Callao,Oncología,2023-02-05,142.63
+P1951,Lucía Pérez,NA,M,Miraflores,NA,2023-11-20,238.55
+P1952,Luis Torres,36,F,NA,Odontología,2022-12-27,276.01
+P1953,Luis Ramírez,43,M,Miraflores,Oncología,2023-05-26,236.42
+P1954,Jorge Gómez,26,,Surco,Cardiología,2022-05-07,437.01
+P1955,Luis Castillo,41,F,Los Olivos,Cardiología,2024-04-28,243.38
+P1956,María Flores,NA,F,San Isidro,Dermatología,2022-12-22,101.84
+P1957,Rosa Flores,13,M,Comas,Cardiología,2022-06-24,169.0
+P1958,José Pérez,48,M,Los Olivos,Dermatología,2023-07-24,208.56
+P1959,Ana García,NA,F,Lima,Cardiología,2021-10-31,205.93
+P1960,María Ramírez,44,F,Los Olivos,Oncología,2020-06-17,289.74
+P1961,José García,NA,,Miraflores,Cardiología,2021-02-18,497.89
+P1962,Carmen Ramírez,63,NA,Lima,Oncología,2024-09-21,55.48
+P1963,Ana Ramírez,NA,,Comas,Medicina General,2023-03-26,325.55
+P1964,Luis Flores,NA,F,San Isidro,Odontología,2021-07-21,416.69
+P1965,Ana Ramírez,NA,NA,San Isidro,Pediatría,2020-02-14,210.84
+P1966,Jorge Castillo,61,NA,San Isidro,NA,2020-10-28,70.73
+P1967,Rosa Torres,NA,NA,Surco,NA,2022-06-12,341.86
+P1968,Carmen Pérez,18,,NA,Medicina General,2022-12-22,161.09
+P1969,María Flores,8,F,Lima,Oncología,2020-11-10,286.27
+P1970,Ana Castillo,NA,F,Comas,Odontología,2024-05-29,352.98
+P1971,Jorge Torres,65,M,San Isidro,Oncología,2023-08-09,491.9
+P1972,José García,NA,NA,Comas,Cardiología,2021-03-11,275.92
+P1973,Luis García,NA,NA,Los Olivos,Pediatría,2020-11-23,495.66
+P1974,Ana Gómez,5,M,Lima,Cardiología,2024-04-08,171.76
+P1975,Pedro Flores,90,F,Callao,Dermatología,2022-07-14,409.06
+P1976,Lucía Rojas,NA,,Surco,Odontología,2020-10-18,107.17
+P1977,Pedro Pérez,17,F,Lima,Dermatología,2020-05-27,202.14
+P1978,Carmen Pérez,NA,F,Lima,NA,2022-10-13,231.78
+P1979,Luis García,38,F,Comas,Dermatología,2020-04-18,458.51
+P1980,Ana Pérez,NA,F,Los Olivos,Pediatría,2021-03-01,59.74
+P1981,Pedro Rojas,23,M,San Isidro,Cardiología,2023-11-25,128.57
+P1982,María Castillo,42,,Callao,Cardiología,2022-05-24,376.93
+P1983,Rosa Pérez,90,M,Callao,Medicina General,2023-05-09,403.51
+P1984,Ana Flores,NA,F,Comas,Odontología,2020-12-15,432.74
+P1985,Rosa Castillo,35,,Callao,Odontología,2024-04-02,109.56
+P1986,Jorge Rojas,1,F,NA,Odontología,2024-02-22,421.79
+P1987,Rosa García,NA,,San Isidro,NA,2023-07-21,406.08
+P1988,Jorge Flores,NA,,Comas,Cardiología,2024-10-16,235.13
+P1989,Luis Gómez,85,F,NA,Dermatología,2022-12-18,382.29
+P1990,Miguel García,58,NA,Callao,Cardiología,2021-11-25,60.17
+P1991,Lucía Ramírez,77,M,Callao,Oncología,2024-08-27,344.79
+P1992,Jorge Castillo,56,,Callao,Odontología,2023-07-20,322.86
+P1993,Ana Ramírez,NA,F,Callao,Odontología,2020-05-26,478.84
+P1994,Jorge Castillo,NA,F,Los Olivos,Odontología,2021-02-09,469.03
+P1995,Luis Gómez,NA,,NA,Dermatología,2023-06-05,465.95
+P1996,Carmen Flores,24,NA,San Isidro,NA,2022-11-06,343.24
+P1997,Carmen Gómez,NA,M,NA,Medicina General,2022-07-29,133.62
+P1998,Rosa García,29,M,NA,Oncología,2023-07-16,465.22
+P1999,Miguel Rojas,29,,NA,Odontología,2020-03-25,250.45
+P2000,Miguel Torres,NA,F,Surco,Dermatología,2020-07-06,156.86
+P2001,José Ramírez,NA,NA,San Isidro,Dermatología,2020-02-09,180.6
+P2002,Pedro Torres,NA,NA,Lima,Dermatología,2024-09-14,389.82
+P2003,Miguel Torres,NA,,Miraflores,Medicina General,2021-11-04,381.46
+P2004,Pedro Rojas,62,M,Los Olivos,Pediatría,2023-11-07,410.34
+P2005,Ana Ramírez,86,M,San Isidro,NA,2020-04-03,489.81
+P2006,María Torres,NA,M,Lima,Pediatría,2022-12-20,427.53
+P2007,Jorge García,NA,NA,Miraflores,NA,2024-12-09,236.11
+P2008,Pedro García,NA,NA,NA,NA,2023-09-05,499.82
+P2009,Luis Gómez,51,M,NA,NA,2022-11-05,235.22
+P2010,Ana Rojas,20,F,Surco,Dermatología,2022-11-24,185.16
+P2011,José Torres,NA,NA,San Isidro,Odontología,2020-10-08,179.54
+P2012,María Torres,NA,NA,Lima,Medicina General,2023-09-05,258.21
+P2013,Rosa Gómez,NA,F,Callao,Oncología,2020-08-12,373.67
+P2014,Ana Gómez,35,,Comas,Dermatología,2023-02-09,364.11
+P2015,Pedro García,16,M,Surco,Dermatología,2021-08-31,429.38
+P2016,Ana Gómez,11,M,Surco,NA,2020-05-31,234.82
+P2017,Ana Rojas,4,M,Lima,Cardiología,2021-09-11,114.48
+P2018,Rosa Pérez,45,M,Miraflores,Medicina General,2022-07-21,115.96
+P2019,Lucía García,NA,,San Isidro,Odontología,2023-10-18,293.4
+P2020,Rosa Rojas,5,F,Lima,Dermatología,2023-08-01,308.95
+P2021,María Rojas,78,M,Los Olivos,Oncología,2022-08-29,382.38
+P2022,María Torres,NA,NA,Comas,Oncología,2022-11-05,387.37
+P2023,Pedro Gómez,5,,Comas,Dermatología,2020-10-13,466.35
+P2024,Pedro Castillo,NA,F,Los Olivos,Odontología,2020-05-16,376.03
+P2025,Jorge Ramírez,54,M,Los Olivos,Dermatología,2023-04-12,159.18
+P2026,María Gómez,NA,M,Los Olivos,Pediatría,2020-06-18,356.59
+P2027,Rosa Pérez,NA,F,NA,NA,2021-01-18,247.4
+P2028,Lucía Torres,58,F,Comas,NA,2020-07-03,295.61
+P2029,Ana Castillo,NA,M,NA,Pediatría,2023-01-16,256.48
+P2030,José Pérez,NA,NA,Lima,Cardiología,2020-12-16,185.71
+P2031,Ana García,NA,F,Comas,Odontología,2022-01-10,160.84
+P2032,Luis García,22,F,Comas,Odontología,2021-09-15,225.53
+P2033,Carmen Ramírez,28,M,Comas,Cardiología,2020-06-12,312.55
+P2034,Miguel García,NA,F,Lima,NA,2024-02-21,382.2
+P2035,José Gómez,16,M,NA,Pediatría,2020-07-09,459.7
+P2036,Jorge Ramírez,34,NA,Callao,Medicina General,2023-03-11,191.56
+P2037,Ana Ramírez,71,M,San Isidro,NA,2024-06-06,462.34
+P2038,María Flores,NA,,Callao,Medicina General,2022-04-19,198.99
+P2039,Rosa Torres,3,F,NA,Oncología,2022-03-08,344.0
+P2040,Pedro Rojas,1,,Comas,Medicina General,2022-12-05,355.51
+P2041,José Ramírez,61,NA,San Isidro,Odontología,2022-02-17,439.82
+P2042,Ana Gómez,8,F,NA,Medicina General,2020-06-26,212.71
+P2043,Pedro Rojas,8,F,Comas,Medicina General,2023-10-26,373.44
+P2044,Lucía Gómez,NA,M,Comas,Odontología,2021-03-26,56.57
+P2045,Rosa Ramírez,12,M,Callao,NA,2022-11-15,186.84
+P2046,Ana Ramírez,70,M,NA,Pediatría,2023-01-25,308.6
+P2047,Miguel Gómez,84,F,Comas,Odontología,2024-08-04,200.47
+P2048,Jorge Rojas,24,,San Isidro,Oncología,2020-02-28,455.06
+P2049,Rosa Rojas,NA,F,NA,Oncología,2020-06-20,148.66
+P2050,Miguel García,71,M,Lima,Odontología,2023-06-26,431.18
+P2051,Pedro Castillo,38,F,Callao,NA,2022-02-06,84.6
+P2052,Luis Ramírez,63,,Miraflores,Dermatología,2022-08-13,99.0
+P2053,José Castillo,74,M,Comas,Odontología,2023-08-22,399.3
+P2054,María García,NA,,Comas,Dermatología,2024-01-18,347.0
+P2055,Luis García,5,F,Miraflores,Pediatría,2024-06-04,92.68
+P2056,Luis Flores,NA,M,Los Olivos,Cardiología,2023-07-05,307.27
+P2057,Carmen Pérez,NA,M,San Isidro,Oncología,2023-07-30,165.65
+P2058,Jorge Rojas,NA,,NA,Dermatología,2020-09-06,331.55
+P2059,Pedro Ramírez,NA,F,Surco,Medicina General,2024-11-21,493.69
+P2060,José García,46,F,Los Olivos,Cardiología,2023-08-25,255.74
+P2061,Jorge Rojas,NA,F,Callao,Pediatría,2022-06-02,178.08
+P2062,Rosa Torres,52,NA,San Isidro,Dermatología,2023-04-06,301.5
+P2063,Luis García,18,F,Lima,Medicina General,2020-04-14,263.36
+P2064,Luis Rojas,NA,F,Miraflores,Medicina General,2023-09-17,165.71
+P2065,José Torres,NA,,Los Olivos,Oncología,2022-01-03,155.88
+P2066,Miguel Torres,NA,,Miraflores,Pediatría,2020-03-09,169.52
+P2067,Carmen Pérez,NA,F,NA,Odontología,2024-08-23,359.87
+P2068,Jorge Castillo,NA,,NA,Cardiología,2020-06-16,149.62
+P2069,Lucía Castillo,NA,M,Comas,NA,2021-06-13,50.41
+P2070,Miguel Torres,NA,,Lima,Oncología,2021-08-25,145.82
+P2071,Jorge García,NA,NA,Miraflores,Dermatología,2023-03-27,486.74
+P2072,Jorge Castillo,NA,M,Comas,Dermatología,2022-09-07,479.16
+P2073,Ana Gómez,NA,,Miraflores,NA,2020-11-17,212.64
+P2074,Ana Flores,NA,,Surco,Cardiología,2020-04-05,219.13
+P2075,Rosa García,NA,,Lima,Oncología,2021-12-02,409.59
+P2076,Rosa Rojas,89,NA,Lima,Medicina General,2020-11-05,50.11
+P2077,Jorge Rojas,80,NA,San Isidro,Medicina General,2024-01-28,370.41
+P2078,José García,78,NA,Comas,Medicina General,2022-10-28,409.23
+P2079,Ana Ramírez,NA,,NA,NA,2024-10-24,66.14
+P2080,Pedro Pérez,73,F,Miraflores,Odontología,2020-08-27,116.27
+P2081,Pedro Flores,NA,NA,Callao,Pediatría,2020-11-15,350.75
+P2082,Rosa Flores,82,,Los Olivos,Medicina General,2022-01-31,384.4
+P2083,Jorge Gómez,7,M,NA,Oncología,2024-05-02,133.05
+P2084,Miguel Torres,NA,M,Los Olivos,Dermatología,2020-06-25,401.6
+P2085,Miguel Castillo,5,,Lima,Medicina General,2022-08-24,69.91
+P2086,Rosa Rojas,68,NA,Surco,Dermatología,2020-09-27,329.83
+P2087,José García,NA,NA,Lima,Dermatología,2024-05-01,490.08
+P2088,Rosa Rojas,5,NA,San Isidro,Oncología,2020-11-11,125.53
+P2089,Luis Ramírez,28,F,Lima,NA,2024-01-29,238.35
+P2090,Luis Castillo,NA,NA,NA,Cardiología,2023-04-10,101.72
+P2091,Pedro García,NA,NA,Los Olivos,Cardiología,2022-01-02,284.97
+P2092,María Pérez,86,M,NA,NA,2021-07-25,365.85
+P2093,Ana Castillo,NA,NA,Lima,NA,2022-08-11,390.71
+P2094,José García,14,M,San Isidro,Cardiología,2023-05-14,497.43
+P2095,Carmen Ramírez,36,M,San Isidro,Cardiología,2022-07-30,374.07
+P2096,Pedro Gómez,NA,,Comas,Medicina General,2020-03-04,269.26
+P2097,Lucía Rojas,27,M,Lima,Dermatología,2022-08-08,247.44
+P2098,Ana Rojas,7,F,Callao,Medicina General,2024-03-29,292.54
+P2099,Pedro Pérez,NA,F,Lima,Medicina General,2021-05-27,93.51
+P2100,Carmen Ramírez,NA,NA,Los Olivos,Odontología,2022-07-20,370.38
+P2101,Carmen Castillo,69,M,NA,Cardiología,2023-12-21,85.32
+P2102,María Rojas,37,F,Comas,Cardiología,2021-12-13,485.54
+P2103,Carmen Pérez,65,F,NA,Cardiología,2021-11-15,304.31
+P2104,Jorge García,NA,F,Comas,Cardiología,2022-04-03,351.24
+P2105,Lucía Gómez,NA,M,Surco,Oncología,2021-02-10,123.07
+P2106,Rosa Rojas,48,M,San Isidro,Oncología,2023-05-18,203.93
+P2107,Miguel Gómez,55,M,Comas,Oncología,2023-11-10,268.71
+P2108,Miguel Ramírez,88,F,Callao,Dermatología,2023-12-30,473.27
+P2109,Jorge Ramírez,11,F,Lima,Pediatría,2023-01-16,326.22
+P2110,Ana Ramírez,NA,NA,Lima,Medicina General,2024-04-10,487.48
+P2111,María Torres,11,M,Lima,Pediatría,2021-04-02,415.41
+P2112,Carmen Gómez,79,NA,Los Olivos,Cardiología,2020-01-06,58.71
+P2113,Jorge Torres,NA,F,Surco,Cardiología,2023-05-17,307.81
+P2114,Jorge García,NA,F,Callao,Dermatología,2021-07-07,95.27
+P2115,Carmen Gómez,8,M,San Isidro,Cardiología,2023-07-07,92.46
+P2116,José Pérez,NA,NA,Los Olivos,Dermatología,2021-12-11,157.8
+P2117,Pedro Gómez,NA,F,San Isidro,Dermatología,2020-08-23,221.83
+P2118,Pedro Ramírez,39,,Comas,Medicina General,2020-08-07,161.3
+P2119,Jorge Torres,NA,NA,Callao,NA,2020-08-16,495.84
+P2120,Jorge García,86,F,Surco,Pediatría,2020-10-15,316.18
+P2121,Carmen Pérez,72,M,Los Olivos,NA,2020-01-11,329.89
+P2122,Luis Flores,45,M,Lima,Dermatología,2020-07-09,144.53
+P2123,Lucía García,NA,,Lima,Pediatría,2021-11-19,367.28
+P2124,Rosa Ramírez,NA,,Lima,Oncología,2020-12-16,410.17
+P2125,Pedro Gómez,NA,NA,Comas,Oncología,2021-06-29,237.51
+P2126,Miguel Pérez,43,NA,Los Olivos,Pediatría,2023-09-07,108.01
+P2127,Lucía Ramírez,90,M,Callao,Dermatología,2024-09-03,432.44
+P2128,José Ramírez,NA,NA,Los Olivos,Medicina General,2023-11-28,273.13
+P2129,Luis Gómez,5,NA,Comas,Oncología,2021-09-02,327.63
+P2130,Miguel Gómez,46,F,San Isidro,Medicina General,2022-05-29,411.49
+P2131,Jorge Flores,21,M,Los Olivos,Medicina General,2023-02-27,110.47
+P2132,José Castillo,NA,,Los Olivos,Pediatría,2023-06-27,84.97
+P2133,Lucía Ramírez,NA,NA,Miraflores,NA,2020-08-08,418.09
+P2134,Lucía Torres,NA,,Lima,Medicina General,2022-08-23,302.09
+P2135,Rosa Flores,NA,F,Los Olivos,NA,2021-09-27,118.31
+P2136,Jorge Ramírez,NA,NA,Comas,Cardiología,2024-02-18,309.74
+P2137,José Torres,50,F,Lima,Oncología,2024-01-16,105.11
+P2138,Carmen Pérez,57,M,Lima,Pediatría,2023-09-19,346.0
+P2139,Miguel García,NA,M,Callao,Medicina General,2024-05-09,274.68
+P2140,Miguel Flores,5,F,Surco,Cardiología,2024-02-21,422.29
+P2141,María Pérez,NA,M,Comas,Cardiología,2022-09-13,440.13
+P2142,Carmen Torres,NA,,Lima,Dermatología,2023-09-16,353.0
+P2143,Rosa Gómez,NA,F,Comas,NA,2022-10-08,484.28
+P2144,María García,25,M,NA,Pediatría,2023-05-14,193.78
+P2145,María Pérez,NA,,Lima,Dermatología,2021-05-30,134.02
+P2146,Rosa Torres,88,NA,San Isidro,Medicina General,2021-12-05,55.5
+P2147,Carmen Rojas,NA,F,San Isidro,Medicina General,2022-05-11,164.52
+P2148,Lucía Flores,33,,Miraflores,Dermatología,2020-07-02,57.3
+P2149,Jorge García,NA,F,Surco,Cardiología,2021-01-31,278.38
+P2150,María Flores,58,NA,Los Olivos,Cardiología,2022-04-24,478.33
+P2151,Lucía Torres,NA,NA,Surco,Dermatología,2023-06-30,224.92
+P2152,José Torres,NA,M,San Isidro,Odontología,2024-05-25,184.02
+P2153,Lucía García,13,M,San Isidro,Medicina General,2022-05-22,152.23
+P2154,Pedro Torres,NA,,Lima,Oncología,2022-02-26,242.19
+P2155,Rosa Gómez,NA,,Los Olivos,Pediatría,2024-11-04,70.93
+P2156,María Castillo,NA,NA,San Isidro,Dermatología,2023-01-19,263.16
+P2157,Ana Rojas,4,F,San Isidro,Oncología,2020-02-25,463.57
+P2158,José Castillo,48,NA,Lima,NA,2021-05-01,323.58
+P2159,Carmen Pérez,67,NA,Surco,NA,2023-04-04,121.99
+P2160,Luis Rojas,47,NA,NA,Dermatología,2024-02-28,142.18
+P2161,Pedro Rojas,NA,F,Surco,Pediatría,2024-05-14,321.3
+P2162,Miguel Flores,9,F,Comas,Cardiología,2024-05-03,278.65
+P2163,Carmen Pérez,18,F,Comas,Odontología,2020-04-28,375.21
+P2164,Ana Pérez,38,F,Callao,NA,2021-05-31,265.73
+P2165,Jorge Pérez,8,M,Comas,Cardiología,2023-03-19,169.18
+P2166,Jorge Ramírez,9,M,San Isidro,NA,2023-07-14,266.11
+P2167,José Torres,66,NA,Miraflores,Cardiología,2020-07-23,447.58
+P2168,Ana Flores,24,F,San Isidro,Odontología,2024-03-03,237.79
+P2169,Rosa Flores,NA,,Surco,Medicina General,2024-01-11,432.82
+P2170,Pedro Torres,49,NA,Callao,Medicina General,2020-08-28,473.94
+P2171,Rosa Rojas,1,,Miraflores,Cardiología,2024-05-09,282.54
+P2172,Miguel Gómez,NA,,Surco,NA,2022-09-01,473.45
+P2173,José Flores,NA,M,NA,Odontología,2020-12-04,280.85
+P2174,Jorge Castillo,31,M,Miraflores,Cardiología,2023-04-03,107.06
+P2175,Carmen Gómez,NA,M,Callao,NA,2023-04-21,329.27
+P2176,Pedro García,90,NA,Surco,Dermatología,2020-07-09,99.28
+P2177,María Castillo,NA,NA,San Isidro,Oncología,2023-12-08,304.29
+P2178,Pedro Ramírez,NA,F,Surco,Medicina General,2024-06-14,141.73
+P2179,Rosa Ramírez,28,F,Callao,Cardiología,2020-08-08,104.68
+P2180,Rosa Castillo,NA,M,Surco,Medicina General,2022-02-13,432.77
+P2181,José Torres,21,,San Isidro,Pediatría,2024-01-12,243.98
+P2182,María Gómez,NA,F,San Isidro,Odontología,2022-03-25,59.19
+P2183,José García,NA,NA,Lima,Odontología,2022-10-24,64.31
+P2184,Ana Torres,36,M,San Isidro,Pediatría,2020-09-25,79.13
+P2185,Miguel Torres,44,F,Lima,Dermatología,2023-10-02,68.44
+P2186,Lucía Rojas,90,NA,Surco,Medicina General,2023-05-01,298.22
+P2187,José Castillo,26,,Lima,Cardiología,2024-07-09,344.58
+P2188,Luis Flores,NA,NA,NA,Medicina General,2023-05-22,301.45
+P2189,Pedro Torres,NA,,Callao,Pediatría,2024-05-27,272.09
+P2190,Lucía Pérez,39,NA,San Isidro,Cardiología,2023-10-28,348.9
+P2191,Luis Castillo,NA,NA,Miraflores,NA,2024-04-19,130.19
+P2192,Luis Rojas,11,M,Lima,Cardiología,2020-05-20,266.05
+P2193,María Rojas,13,,Los Olivos,Dermatología,2021-04-17,254.35
+P2194,Carmen Gómez,9,M,Lima,Odontología,2020-11-06,266.35
+P2195,Rosa Pérez,NA,M,NA,Pediatría,2020-07-31,214.21
+P2196,Rosa Pérez,48,M,Miraflores,Oncología,2022-12-13,413.28
+P2197,María Pérez,NA,,NA,NA,2022-04-05,147.79
+P2198,Pedro Ramírez,33,M,San Isidro,Dermatología,2020-04-28,244.23
+P2199,María García,58,,Los Olivos,Odontología,2022-11-16,190.03
+P2200,Pedro Torres,59,M,Los Olivos,Medicina General,2022-07-02,86.62
+P2201,Luis Castillo,29,,Surco,Oncología,2020-07-25,272.16
+P2202,María Ramírez,81,F,Comas,Dermatología,2021-07-13,349.1
+P2203,Miguel Flores,31,M,Miraflores,Cardiología,2023-03-17,493.91
+P2204,Pedro Castillo,NA,,Lima,Dermatología,2022-02-27,463.56
+P2205,Lucía Castillo,31,NA,Surco,Medicina General,2021-03-21,448.48
+P2206,Carmen Flores,NA,,Comas,Dermatología,2024-08-31,312.95
+P2207,Carmen Pérez,11,,Callao,Medicina General,2024-11-25,490.79
+P2208,Rosa Torres,NA,,NA,Medicina General,2020-08-05,107.64
+P2209,Pedro Rojas,NA,F,Comas,Dermatología,2024-06-30,264.03
+P2210,José Gómez,NA,NA,NA,Dermatología,2022-11-30,359.77
+P2211,Ana Rojas,NA,F,Comas,Odontología,2024-08-23,360.48
+P2212,Jorge Ramírez,57,,Miraflores,Oncología,2024-02-01,162.43
+P2213,Carmen Rojas,NA,M,San Isidro,Dermatología,2021-11-24,190.92
+P2214,Luis Castillo,85,,Miraflores,NA,2020-03-22,143.87
+P2215,Jorge Gómez,NA,M,Surco,Oncología,2022-09-27,64.27
+P2216,Pedro Castillo,NA,,Surco,Dermatología,2020-04-08,124.44
+P2217,Jorge Gómez,NA,NA,Lima,Pediatría,2021-04-07,410.32
+P2218,María Gómez,43,,NA,Cardiología,2024-10-19,384.1
+P2219,Carmen Gómez,9,,Lima,Cardiología,2021-05-11,496.74
+P2220,Pedro Gómez,NA,NA,San Isidro,Medicina General,2023-12-03,175.29
+P2221,Luis Flores,55,F,Surco,Odontología,2023-09-08,255.46
+P2222,Rosa Rojas,NA,,Miraflores,NA,2020-01-23,51.86
+P2223,María Torres,NA,,San Isidro,Dermatología,2022-09-29,56.02
+P2224,Luis Gómez,4,F,Miraflores,Pediatría,2024-11-04,274.86
+P2225,Rosa Rojas,80,F,Los Olivos,NA,2023-04-26,191.03
+P2226,María Torres,13,M,Callao,Pediatría,2024-09-28,161.39
+P2227,Miguel Torres,59,M,Lima,NA,2024-06-18,476.85
+P2228,Lucía Gómez,NA,F,Surco,Pediatría,2021-07-10,420.39
+P2229,José Flores,NA,F,Surco,Medicina General,2021-08-16,149.84
+P2230,Pedro García,76,F,NA,NA,2021-11-30,352.1
+P2231,Jorge García,NA,NA,Comas,NA,2024-09-27,196.96
+P2232,María Flores,28,,Los Olivos,Cardiología,2023-05-25,457.09
+P2233,María Torres,NA,NA,Miraflores,Dermatología,2022-09-07,182.4
+P2234,Carmen Pérez,30,M,Callao,Oncología,2023-04-13,123.93
+P2235,Luis Rojas,NA,M,San Isidro,Oncología,2024-08-12,367.79
+P2236,Jorge Flores,19,F,Lima,Pediatría,2023-01-07,63.52
+P2237,Jorge Gómez,13,F,Miraflores,Dermatología,2022-12-13,148.09
+P2238,Jorge García,37,NA,Surco,Medicina General,2022-09-20,491.79
+P2239,Miguel Pérez,30,,Los Olivos,Oncología,2021-05-20,99.01
+P2240,Pedro Torres,23,F,NA,NA,2024-06-22,310.23
+P2241,José Torres,58,NA,Miraflores,Oncología,2024-12-26,481.68
+P2242,Rosa Gómez,NA,M,Los Olivos,NA,2022-11-04,364.52
+P2243,Carmen Rojas,68,F,Los Olivos,Odontología,2020-01-25,318.35
+P2244,Miguel Torres,NA,M,Lima,Odontología,2023-12-18,365.06
+P2245,Miguel Flores,NA,M,Surco,Cardiología,2021-06-11,149.67
+P2246,Ana Pérez,NA,M,Los Olivos,Oncología,2022-11-02,79.79
+P2247,Jorge García,NA,M,NA,Oncología,2024-09-23,365.65
+P2248,Jorge Torres,NA,F,Lima,NA,2020-04-10,64.12
+P2249,Lucía Rojas,NA,,Surco,Medicina General,2022-10-28,445.91
+P2250,María García,51,M,Lima,NA,2020-05-03,278.47
+P2251,Luis Flores,33,NA,Los Olivos,Dermatología,2021-09-13,233.28
+P2252,Carmen Flores,64,NA,Lima,Medicina General,2021-06-02,75.25
+P2253,Miguel Rojas,28,,Miraflores,Cardiología,2020-03-13,80.71
+P2254,Luis Castillo,NA,NA,San Isidro,Odontología,2022-04-01,494.6
+P2255,Jorge Ramírez,NA,,Los Olivos,Dermatología,2022-04-16,396.07
+P2256,Miguel Pérez,NA,NA,Miraflores,NA,2021-05-24,303.38
+P2257,Lucía Ramírez,46,,Comas,Medicina General,2023-09-27,198.09
+P2258,Rosa Rojas,6,,Comas,NA,2020-09-29,90.13
+P2259,María Rojas,NA,NA,Miraflores,Oncología,2020-07-04,327.22
+P2260,Jorge Torres,NA,F,NA,Dermatología,2022-08-20,113.97
+P2261,Rosa Ramírez,NA,,Surco,Pediatría,2021-02-06,290.87
+P2262,Ana Rojas,NA,NA,Callao,Pediatría,2022-10-15,216.94
+P2263,Rosa Flores,NA,M,Lima,Cardiología,2020-12-11,452.99
+P2264,Carmen Ramírez,73,F,Miraflores,Odontología,2023-03-14,138.95
+P2265,Lucía Ramírez,NA,F,Miraflores,Dermatología,2024-10-30,63.58
+P2266,Ana Rojas,30,M,Callao,Cardiología,2023-11-26,60.28
+P2267,Luis Rojas,28,NA,Comas,Oncología,2023-09-04,453.95
+P2268,José Pérez,50,,Los Olivos,Dermatología,2022-12-07,184.69
+P2269,Lucía García,NA,,Miraflores,Oncología,2022-05-29,338.86
+P2270,María Pérez,NA,F,Comas,Oncología,2021-06-02,89.29
+P2271,Jorge Castillo,28,NA,San Isidro,Odontología,2023-11-23,432.55
+P2272,José García,NA,M,Callao,Odontología,2021-08-18,411.27
+P2273,Rosa Flores,NA,,San Isidro,Medicina General,2020-11-24,145.43
+P2274,José Castillo,NA,NA,Lima,Medicina General,2024-05-19,200.37
+P2275,Lucía Torres,74,,San Isidro,Medicina General,2022-08-19,107.23
+P2276,Lucía Gómez,NA,F,Surco,NA,2020-06-27,332.07
+P2277,Jorge Castillo,NA,M,Surco,Cardiología,2024-01-16,488.38
+P2278,Rosa Rojas,NA,,Callao,Cardiología,2022-05-25,495.21
+P2279,Carmen Gómez,1,F,NA,Dermatología,2022-05-09,482.77
+P2280,María Torres,NA,M,Surco,NA,2021-05-03,289.78
+P2281,Jorge Gómez,35,M,Miraflores,Cardiología,2023-05-05,169.53
+P2282,Luis Pérez,77,,Comas,Medicina General,2020-12-01,298.49
+P2283,Pedro García,NA,M,Los Olivos,Cardiología,2024-05-30,79.67
+P2284,Rosa Rojas,7,,Surco,Cardiología,2022-11-07,481.8
+P2285,María Pérez,76,M,Surco,Odontología,2024-10-08,344.64
+P2286,Pedro García,NA,NA,Comas,Pediatría,2021-11-05,224.82
+P2287,Jorge Torres,44,F,Surco,Oncología,2022-11-19,351.59
+P2288,José Castillo,27,,Comas,Dermatología,2024-11-08,194.57
+P2289,Pedro Torres,31,F,Callao,Pediatría,2021-07-02,398.09
+P2290,Miguel Ramírez,44,M,Los Olivos,Odontología,2024-10-29,459.62
+P2291,Rosa Rojas,NA,F,NA,Dermatología,2023-10-30,406.77
+P2292,María Castillo,27,NA,San Isidro,Cardiología,2022-01-16,455.89
+P2293,María Ramírez,NA,F,NA,Cardiología,2024-07-02,299.41
+P2294,Carmen Flores,NA,,Los Olivos,Dermatología,2024-08-10,261.96
+P2295,Luis Castillo,59,,San Isidro,NA,2021-02-21,399.0
+P2296,Lucía Rojas,NA,NA,Callao,Odontología,2024-11-05,285.88
+P2297,Luis Castillo,61,F,Callao,Pediatría,2020-05-08,267.71
+P2298,Miguel Gómez,34,NA,San Isidro,Odontología,2020-06-26,387.22
+P2299,Pedro Rojas,87,M,Los Olivos,Oncología,2022-09-04,184.16
+P2300,Ana Torres,69,NA,NA,Oncología,2023-03-05,280.92
+P2301,Miguel Flores,NA,NA,Lima,Dermatología,2021-05-22,212.81
+P2302,Lucía Ramírez,NA,,Callao,Cardiología,2021-06-17,121.91
+P2303,José Flores,NA,,Surco,Oncología,2021-09-24,493.33
+P2304,Carmen Torres,NA,,Callao,NA,2023-11-03,90.39
+P2305,Carmen Rojas,33,NA,Surco,Pediatría,2021-01-01,487.14
+P2306,Carmen Gómez,NA,M,Miraflores,Dermatología,2021-10-01,462.45
+P2307,María Gómez,NA,NA,Los Olivos,Cardiología,2024-03-28,476.2
+P2308,Rosa Rojas,NA,,Surco,NA,2023-04-09,152.39
+P2309,María Gómez,NA,F,Los Olivos,Medicina General,2023-06-17,296.31
+P2310,Luis Pérez,45,M,San Isidro,Cardiología,2024-10-03,301.34
+P2311,Pedro Rojas,42,M,Los Olivos,Dermatología,2022-12-29,144.07
+P2312,Rosa Castillo,2,F,NA,Odontología,2021-12-08,244.27
+P2313,María Gómez,NA,NA,San Isidro,Cardiología,2020-12-16,162.61
+P2314,Jorge Flores,NA,NA,Callao,Oncología,2021-10-07,126.63
+P2315,María Torres,76,F,Lima,Medicina General,2024-08-31,429.92
+P2316,Pedro Pérez,NA,F,Los Olivos,Odontología,2021-04-15,337.41
+P2317,Rosa Ramírez,NA,NA,Comas,Odontología,2023-11-26,157.67
+P2318,María Ramírez,16,F,Callao,Odontología,2022-07-25,463.3
+P2319,Pedro Castillo,NA,NA,Miraflores,Cardiología,2024-01-15,167.47
+P2320,Miguel Flores,NA,,Los Olivos,NA,2023-01-04,274.74
+P2321,Jorge Castillo,1,,Surco,Cardiología,2021-04-22,411.9
+P2322,María Castillo,59,,Callao,Medicina General,2023-10-03,246.13
+P2323,José Pérez,71,,Callao,Pediatría,2021-02-22,434.75
+P2324,Jorge Ramírez,63,F,Comas,Odontología,2023-10-30,174.28
+P2325,Miguel Castillo,NA,NA,Lima,Pediatría,2021-07-16,150.02
+P2326,María Gómez,NA,NA,Lima,Pediatría,2020-06-25,348.13
+P2327,Pedro Ramírez,20,NA,Los Olivos,Dermatología,2024-04-15,305.46
+P2328,Jorge Flores,NA,NA,Miraflores,Pediatría,2020-09-08,208.95
+P2329,María Rojas,NA,M,San Isidro,Pediatría,2024-10-05,210.77
+P2330,Luis García,NA,M,Los Olivos,Pediatría,2020-07-12,168.78
+P2331,Lucía Gómez,NA,,Los Olivos,Odontología,2024-07-04,123.37
+P2332,María García,73,NA,Miraflores,Odontología,2023-01-22,99.42
+P2333,Lucía Pérez,NA,M,Comas,Medicina General,2020-11-09,294.69
+P2334,Rosa García,NA,M,San Isidro,Dermatología,2020-03-29,246.19
+P2335,Ana Torres,NA,M,Callao,Odontología,2022-08-01,489.15
+P2336,Miguel Gómez,NA,,Callao,Oncología,2020-04-03,120.66
+P2337,Jorge Rojas,NA,NA,Surco,NA,2022-04-07,323.87
+P2338,Luis García,29,M,Lima,Pediatría,2020-03-27,244.75
+P2339,Miguel Ramírez,78,NA,Los Olivos,NA,2024-09-26,142.89
+P2340,Ana Pérez,NA,NA,Miraflores,NA,2022-01-01,450.24
+P2341,Carmen Torres,NA,M,Miraflores,Cardiología,2021-05-20,203.76
+P2342,Jorge Castillo,59,,Comas,Medicina General,2020-08-21,254.67
+P2343,Miguel Ramírez,70,,Los Olivos,Pediatría,2022-07-21,304.07
+P2344,María Flores,NA,M,Callao,NA,2023-05-15,112.23
+P2345,José Rojas,19,,Callao,Odontología,2021-08-17,57.97
+P2346,Ana García,NA,M,Callao,Pediatría,2021-10-28,466.59
+P2347,Pedro Ramírez,NA,NA,Los Olivos,Cardiología,2021-05-21,188.49
+P2348,Jorge García,NA,NA,Lima,Medicina General,2023-01-16,282.08
+P2349,María Flores,NA,M,Comas,Cardiología,2022-11-30,222.5
+P2350,Miguel Flores,NA,NA,Callao,Odontología,2020-10-27,137.0
+P2351,Carmen Flores,NA,NA,Lima,Pediatría,2022-11-11,173.16
+P2352,Rosa Ramírez,29,NA,NA,Medicina General,2022-01-04,65.24
+P2353,Rosa Rojas,54,,NA,Cardiología,2021-06-02,92.41
+P2354,Rosa Torres,NA,NA,Miraflores,Odontología,2022-08-31,192.19
+P2355,Carmen Gómez,NA,NA,NA,NA,2020-10-06,280.91
+P2356,Luis Flores,NA,NA,Surco,Medicina General,2023-11-17,235.29
+P2357,Miguel Pérez,NA,NA,Los Olivos,Pediatría,2022-12-28,421.96
+P2358,Luis García,NA,M,Comas,Dermatología,2022-08-17,411.75
+P2359,Carmen Flores,NA,F,Callao,Oncología,2024-04-30,355.05
+P2360,María Gómez,NA,F,NA,Odontología,2022-05-20,236.25
+P2361,Lucía Castillo,51,M,Miraflores,Dermatología,2023-09-06,226.51
+P2362,Jorge Ramírez,33,M,San Isidro,Dermatología,2021-10-17,425.25
+P2363,Jorge Flores,NA,NA,Comas,Dermatología,2020-07-06,401.21
+P2364,Ana Castillo,75,NA,Comas,Pediatría,2021-02-07,132.21
+P2365,Jorge Torres,15,NA,San Isidro,Pediatría,2024-06-17,125.89
+P2366,Carmen Rojas,NA,F,Lima,Pediatría,2022-12-16,272.55
+P2367,José Pérez,NA,,Comas,Oncología,2022-04-01,199.82
+P2368,Ana García,NA,F,Miraflores,NA,2020-11-08,124.76
+P2369,Luis Ramírez,NA,M,San Isidro,Medicina General,2020-12-30,58.5
+P2370,Rosa Pérez,3,NA,Callao,Cardiología,2024-06-09,131.55
+P2371,José Castillo,NA,NA,Callao,Medicina General,2020-10-07,167.71
+P2372,Ana Torres,NA,,NA,Oncología,2024-09-27,313.92
+P2373,Jorge Castillo,NA,F,Comas,NA,2023-05-17,496.13
+P2374,Miguel Gómez,NA,,Surco,Oncología,2020-11-13,88.18
+P2375,José García,7,NA,Los Olivos,Cardiología,2020-02-14,69.76
+P2376,José Castillo,8,,Los Olivos,Pediatría,2022-10-05,128.19
+P2377,Ana García,69,,NA,Odontología,2023-04-04,414.48
+P2378,Luis García,56,F,NA,Pediatría,2021-07-02,90.71
+P2379,María Flores,27,NA,Los Olivos,Medicina General,2021-09-23,75.46
+P2380,Jorge Gómez,19,,Lima,Cardiología,2022-09-17,201.1
+P2381,Pedro Flores,NA,,San Isidro,Cardiología,2024-05-27,73.66
+P2382,Jorge Gómez,18,M,Lima,Pediatría,2024-04-06,396.22
+P2383,Miguel Rojas,57,,Callao,Medicina General,2020-03-10,193.38
+P2384,Ana Ramírez,43,F,Miraflores,Oncología,2024-08-27,150.65
+P2385,Rosa Pérez,NA,,Miraflores,Cardiología,2020-05-26,344.81
+P2386,Luis Torres,NA,F,Surco,Odontología,2023-11-30,456.08
+P2387,Lucía García,89,F,Callao,Odontología,2020-10-06,123.75
+P2388,Miguel Torres,49,,NA,Medicina General,2024-07-11,97.16
+P2389,Lucía Torres,34,M,Los Olivos,Dermatología,2021-02-05,397.9
+P2390,Ana Flores,76,NA,Los Olivos,Pediatría,2022-01-16,490.85
+P2391,Jorge Torres,NA,,Miraflores,Dermatología,2023-01-24,179.49
+P2392,Miguel Flores,NA,,NA,Cardiología,2023-01-07,76.13
+P2393,Lucía García,NA,M,San Isidro,Cardiología,2023-02-07,407.33
+P2394,José Gómez,80,M,Callao,Pediatría,2021-03-11,292.18
+P2395,Jorge Rojas,36,F,Callao,Cardiología,2021-04-16,199.23
+P2396,Jorge García,NA,M,Callao,Medicina General,2024-10-19,192.8
+P2397,Lucía Castillo,NA,F,Lima,Pediatría,2020-08-28,414.41
+P2398,María Pérez,13,,Los Olivos,Dermatología,2020-12-17,238.29
+P2399,Miguel Rojas,41,F,Callao,Odontología,2022-06-16,179.53
+P2400,Rosa Torres,NA,,San Isidro,Cardiología,2020-04-05,153.61
+P2401,Rosa Rojas,NA,,Comas,Medicina General,2022-03-21,250.56
+P2402,Luis Gómez,75,M,Los Olivos,NA,2024-08-31,230.8
+P2403,María Castillo,NA,NA,Los Olivos,Pediatría,2021-10-01,335.71
+P2404,Rosa Gómez,77,NA,NA,Dermatología,2024-03-02,292.01
+P2405,Pedro Castillo,24,NA,Lima,Medicina General,2024-01-23,401.62
+P2406,Jorge García,NA,NA,San Isidro,Odontología,2020-09-02,217.99
+P2407,Luis Flores,NA,M,Surco,Odontología,2020-03-27,173.07
+P2408,Pedro Castillo,NA,NA,Lima,Pediatría,2020-02-05,432.33
+P2409,Luis Rojas,NA,M,Comas,Medicina General,2021-08-22,247.73
+P2410,Carmen Gómez,NA,NA,Comas,Dermatología,2024-12-24,409.07
+P2411,Lucía Ramírez,77,F,Surco,Oncología,2022-06-14,240.45
+P2412,Jorge Rojas,90,F,San Isidro,Oncología,2022-08-01,89.92
+P2413,María Pérez,69,NA,NA,Cardiología,2024-05-11,471.67
+P2414,Rosa Flores,NA,M,San Isidro,Odontología,2021-11-30,386.46
+P2415,José Flores,NA,M,Comas,Odontología,2021-12-31,291.74
+P2416,Carmen Flores,54,NA,Lima,Dermatología,2022-03-15,399.23
+P2417,Jorge García,NA,F,Los Olivos,Oncología,2021-12-29,496.28
+P2418,Lucía Flores,NA,,Miraflores,Pediatría,2020-01-15,384.49
+P2419,Jorge Ramírez,61,,NA,Cardiología,2023-02-06,403.53
+P2420,José Gómez,39,,Callao,Pediatría,2024-05-18,307.34
+P2421,Jorge Ramírez,NA,,Los Olivos,Cardiología,2020-04-24,234.32
+P2422,José Ramírez,NA,,Lima,Medicina General,2020-11-11,429.81
+P2423,Pedro Flores,20,NA,NA,Pediatría,2020-12-28,288.74
+P2424,Carmen García,50,NA,Callao,Odontología,2020-09-27,388.02
+P2425,Luis Torres,58,NA,Surco,Cardiología,2023-06-08,212.77
+P2426,Rosa Gómez,NA,F,Lima,NA,2021-12-04,61.73
+P2427,María Flores,NA,NA,Lima,Odontología,2022-05-28,225.05
+P2428,Carmen Torres,28,F,Miraflores,Odontología,2021-11-10,56.27
+P2429,José Rojas,51,F,NA,Medicina General,2020-09-15,331.13
+P2430,Miguel Flores,72,,Surco,Medicina General,2023-06-09,308.68
+P2431,María Gómez,81,F,Lima,Medicina General,2024-01-14,403.2
+P2432,Jorge Castillo,24,M,Surco,Dermatología,2020-05-20,458.96
+P2433,Ana Ramírez,NA,,Callao,Odontología,2021-07-05,220.41
+P2434,Ana Ramírez,NA,M,Callao,Oncología,2023-06-11,417.24
+P2435,Carmen Pérez,NA,NA,Surco,Oncología,2024-12-16,392.83
+P2436,Lucía García,NA,,Surco,Cardiología,2023-01-26,365.22
+P2437,José Rojas,66,NA,Lima,Oncología,2023-08-28,165.22
+P2438,María Flores,NA,M,Surco,Cardiología,2022-11-10,288.74
+P2439,Jorge Castillo,1,NA,Los Olivos,Dermatología,2023-11-20,98.76
+P2440,Rosa Torres,90,M,San Isidro,Odontología,2022-04-27,424.42
+P2441,Carmen Pérez,85,NA,Comas,Dermatología,2024-07-13,477.89
+P2442,Carmen Rojas,NA,M,Miraflores,Dermatología,2021-10-19,213.36
+P2443,María Torres,NA,M,Callao,NA,2023-08-30,498.84
+P2444,Lucía García,20,NA,Surco,NA,2022-03-29,367.3
+P2445,Ana Rojas,NA,M,Miraflores,Oncología,2021-03-17,352.44
+P2446,Carmen Pérez,NA,,San Isidro,Medicina General,2024-09-09,126.55
+P2447,Pedro Flores,39,F,Lima,NA,2023-06-02,437.84
+P2448,Pedro Ramírez,NA,F,Callao,Odontología,2021-02-24,95.39
+P2449,María Gómez,NA,F,Comas,Pediatría,2022-12-09,373.59
+P2450,María Rojas,NA,M,Callao,Medicina General,2020-02-28,191.58
+P2451,Rosa Ramírez,NA,NA,Lima,Dermatología,2020-10-06,186.19
+P2452,Rosa Torres,NA,NA,Comas,NA,2023-04-14,215.27
+P2453,María Rojas,14,,Lima,Pediatría,2024-11-29,194.46
+P2454,Ana Gómez,90,F,Comas,Pediatría,2021-01-11,471.63
+P2455,Ana Castillo,59,NA,NA,Cardiología,2023-01-17,225.18
+P2456,Lucía Castillo,NA,NA,Los Olivos,Pediatría,2024-11-29,149.22
+P2457,Luis Gómez,NA,,Lima,Cardiología,2024-05-14,160.95
+P2458,María Ramírez,NA,M,Callao,Dermatología,2024-08-29,381.05
+P2459,Miguel Torres,38,F,Miraflores,Dermatología,2021-10-21,126.9
+P2460,María Ramírez,NA,F,Surco,Pediatría,2023-01-28,334.2
+P2461,Jorge Pérez,NA,F,Lima,Medicina General,2021-06-17,299.99
+P2462,Rosa Flores,NA,M,Comas,Medicina General,2023-12-12,322.39
+P2463,Lucía Flores,2,F,Surco,Dermatología,2023-08-13,283.5
+P2464,José Rojas,65,,Surco,Cardiología,2023-04-03,156.28
+P2465,Ana Gómez,87,M,NA,Pediatría,2022-08-28,75.56
+P2466,Luis Pérez,NA,F,Comas,Odontología,2022-05-08,137.9
+P2467,Jorge Gómez,NA,NA,Callao,Oncología,2020-10-01,466.48
+P2468,José García,NA,NA,Miraflores,Oncología,2024-11-19,56.81
+P2469,José Rojas,82,F,Lima,Dermatología,2024-04-25,204.85
+P2470,Pedro Torres,NA,NA,Lima,Odontología,2024-08-18,154.02
+P2471,Miguel Castillo,10,F,Surco,Medicina General,2022-07-17,318.39
+P2472,Rosa Pérez,46,F,NA,Odontología,2024-01-30,361.73
+P2473,Miguel Rojas,NA,F,NA,Pediatría,2021-04-02,92.11
+P2474,Carmen Torres,12,,Los Olivos,Oncología,2024-10-29,496.3
+P2475,María García,18,,Surco,Cardiología,2022-10-29,133.95
+P2476,Lucía Pérez,NA,F,Comas,Cardiología,2022-04-26,74.88
+P2477,Carmen Gómez,NA,,San Isidro,Oncología,2020-12-27,495.11
+P2478,Jorge Ramírez,89,NA,San Isidro,Odontología,2021-03-09,155.63
+P2479,José Rojas,65,F,NA,Oncología,2022-02-23,96.04
+P2480,José Gómez,NA,M,Surco,Medicina General,2023-01-08,490.24
+P2481,Rosa Ramírez,75,F,Surco,Odontología,2024-05-19,340.66
+P2482,Lucía Flores,NA,,Callao,Pediatría,2024-12-09,280.56
+P2483,Carmen Ramírez,32,,Comas,Cardiología,2022-11-18,259.76
+P2484,María Ramírez,19,F,San Isidro,Oncología,2021-12-02,336.17
+P2485,Jorge Ramírez,NA,NA,San Isidro,Medicina General,2024-05-11,275.11
+P2486,Luis Torres,64,F,Miraflores,Odontología,2023-06-14,486.38
+P2487,Luis Castillo,NA,F,Miraflores,Odontología,2020-05-01,52.96
+P2488,Carmen Gómez,72,NA,Lima,Medicina General,2022-01-12,160.01
+P2489,Ana Flores,88,M,Lima,Odontología,2022-09-11,471.52
+P2490,Luis Rojas,65,F,Callao,Dermatología,2021-09-02,117.03
+P2491,Jorge Torres,87,M,San Isidro,Dermatología,2022-03-20,80.9
+P2492,Luis Ramírez,28,,Callao,Pediatría,2021-05-25,194.58
+P2493,Pedro Castillo,22,,Callao,Cardiología,2022-10-27,423.62
+P2494,María Gómez,NA,NA,Lima,Cardiología,2020-01-17,332.32
+P2495,José Ramírez,69,M,NA,Odontología,2022-12-30,105.87
+P2496,Miguel García,31,M,Miraflores,Dermatología,2021-10-05,197.31
+P2497,Pedro Castillo,NA,NA,NA,Oncología,2021-01-12,143.19
+P2498,Luis Gómez,7,F,Lima,Odontología,2024-05-16,126.48
+P2499,Luis Ramírez,84,NA,Surco,Pediatría,2020-11-01,193.81
+P2500,Jorge Pérez,NA,F,Lima,Oncología,2021-06-10,108.82
+P2501,José Pérez,NA,,Los Olivos,Odontología,2021-06-15,222.76
+P2502,Jorge Rojas,72,F,Callao,Dermatología,2023-12-04,71.24
+P2503,Ana Rojas,26,M,Comas,NA,2020-03-03,220.4
+P2504,María Gómez,NA,,Lima,Oncología,2023-12-15,481.81
+P2505,Ana Pérez,NA,M,Callao,Odontología,2023-05-08,282.1
+P2506,Miguel Gómez,NA,M,Lima,Cardiología,2021-07-18,263.07
+P2507,Rosa Gómez,45,F,Comas,NA,2022-08-09,279.49
+P2508,Ana Pérez,NA,NA,San Isidro,Odontología,2024-12-03,456.05
+P2509,José Flores,NA,M,Los Olivos,Cardiología,2021-12-17,130.82
+P2510,Lucía Ramírez,NA,M,Comas,Odontología,2023-08-24,286.37
+P2511,Luis Torres,14,F,Lima,NA,2020-10-13,199.76
+P2512,María Gómez,NA,NA,NA,Odontología,2023-02-20,168.37
+P2513,Luis Flores,NA,M,Los Olivos,Pediatría,2020-11-29,384.59
+P2514,Ana Torres,55,NA,Surco,Cardiología,2024-12-15,372.47
+P2515,María Pérez,NA,NA,Surco,Pediatría,2021-05-13,179.88
+P2516,Ana Gómez,NA,M,Comas,Odontología,2021-06-03,430.1
+P2517,Miguel Flores,21,NA,Surco,Dermatología,2020-10-03,376.09
+P2518,Ana Ramírez,87,M,Comas,Dermatología,2022-10-21,261.28
+P2519,Rosa Rojas,NA,M,Comas,Cardiología,2022-08-31,184.92
+P2520,Lucía Torres,74,NA,San Isidro,NA,2022-11-24,167.58
+P2521,Lucía Flores,NA,NA,Surco,Odontología,2023-07-04,175.94
+P2522,Luis Ramírez,64,M,Los Olivos,Pediatría,2024-09-11,204.45
+P2523,Pedro Pérez,39,NA,San Isidro,Cardiología,2021-12-25,383.01
+P2524,María Torres,24,,Miraflores,Oncología,2021-03-04,155.48
+P2525,Carmen Rojas,NA,F,Miraflores,Medicina General,2023-04-10,331.07
+P2526,Miguel Gómez,NA,F,NA,Medicina General,2022-01-29,203.97
+P2527,Miguel Flores,NA,F,Los Olivos,NA,2021-09-07,353.06
+P2528,José Castillo,21,NA,Lima,Cardiología,2023-11-23,370.22
+P2529,Ana Ramírez,11,NA,Comas,NA,2021-04-25,213.72
+P2530,Miguel Rojas,77,,Lima,Cardiología,2023-05-31,448.6
+P2531,Ana García,44,F,Callao,Dermatología,2021-04-21,65.62
+P2532,Luis Torres,2,NA,Lima,Odontología,2024-10-07,218.04
+P2533,Luis Torres,NA,NA,Miraflores,Medicina General,2021-12-14,494.52
+P2534,Carmen Pérez,6,NA,San Isidro,NA,2021-03-07,75.5
+P2535,Pedro Castillo,NA,M,San Isidro,Medicina General,2022-06-22,303.85
+P2536,Lucía Flores,NA,NA,Lima,Pediatría,2024-09-13,158.03
+P2537,Pedro Torres,NA,NA,Los Olivos,Oncología,2021-09-19,410.07
+P2538,Rosa Gómez,65,M,Miraflores,Cardiología,2021-11-25,223.56
+P2539,José Ramírez,78,F,Surco,Pediatría,2020-11-12,90.49
+P2540,Luis Gómez,NA,M,Miraflores,Oncología,2020-04-04,476.31
+P2541,Carmen Castillo,69,NA,Surco,Dermatología,2024-01-16,124.97
+P2542,Lucía Castillo,6,F,Callao,NA,2021-10-20,463.11
+P2543,José Flores,75,NA,Lima,Medicina General,2021-02-01,118.5
+P2544,Ana Pérez,NA,NA,Miraflores,Pediatría,2021-09-10,357.71
+P2545,Miguel Ramírez,43,M,San Isidro,Pediatría,2020-06-08,88.13
+P2546,José Flores,44,NA,Lima,Pediatría,2020-05-17,66.26
+P2547,María García,48,NA,Los Olivos,Medicina General,2022-07-08,75.77
+P2548,Pedro Torres,56,M,Miraflores,NA,2022-01-24,427.3
+P2549,Luis Castillo,89,,San Isidro,Oncología,2022-08-17,196.94
+P2550,Lucía Flores,NA,NA,NA,Pediatría,2022-08-17,316.34
+P2551,Carmen Rojas,NA,NA,Callao,NA,2021-06-25,131.01
+P2552,Miguel Rojas,NA,NA,Miraflores,Cardiología,2022-02-01,481.16
+P2553,Rosa Rojas,74,NA,NA,Oncología,2023-05-10,251.78
+P2554,Carmen Ramírez,NA,NA,Callao,Pediatría,2021-11-21,324.41
+P2555,Jorge Pérez,NA,F,Comas,Oncología,2023-04-17,415.62
+P2556,María Gómez,NA,M,Surco,Cardiología,2024-12-28,201.95
+P2557,Jorge Pérez,38,M,NA,Cardiología,2022-12-09,51.7
+P2558,Miguel Pérez,NA,F,San Isidro,Pediatría,2020-10-23,340.5
+P2559,Carmen García,4,M,NA,Dermatología,2021-02-26,54.15
+P2560,María García,25,NA,Miraflores,Medicina General,2022-08-27,354.9
+P2561,Lucía Torres,66,NA,Lima,NA,2024-01-11,396.06
+P2562,Luis Torres,NA,F,NA,Pediatría,2021-12-30,309.23
+P2563,Luis Torres,NA,F,Callao,Medicina General,2023-05-08,118.01
+P2564,Carmen Rojas,NA,NA,Comas,Medicina General,2022-06-05,243.33
+P2565,Carmen Castillo,NA,,NA,NA,2023-11-03,207.24
+P2566,Luis Pérez,NA,,San Isidro,Dermatología,2022-04-23,451.86
+P2567,Rosa Ramírez,NA,NA,Los Olivos,Dermatología,2023-03-30,189.0
+P2568,María Castillo,31,NA,NA,Cardiología,2024-09-10,82.0
+P2569,Pedro Flores,46,NA,Surco,Pediatría,2022-11-30,480.7
+P2570,Lucía Ramírez,52,NA,Surco,Odontología,2023-08-08,287.72
+P2571,José Pérez,NA,,San Isidro,Oncología,2021-06-07,448.09
+P2572,Luis Pérez,22,NA,Lima,Medicina General,2022-12-17,151.1
+P2573,Miguel Gómez,NA,F,Lima,Cardiología,2023-12-22,332.85
+P2574,Ana Rojas,NA,M,Los Olivos,Cardiología,2023-12-24,180.68
+P2575,Jorge Pérez,NA,F,Surco,Odontología,2021-11-30,168.53
+P2576,María García,80,M,San Isidro,Oncología,2021-05-15,468.39
+P2577,Miguel Castillo,NA,,Callao,NA,2021-09-03,75.98
+P2578,Luis Flores,52,,Comas,Medicina General,2021-12-13,166.45
+P2579,José Rojas,7,,NA,Pediatría,2022-03-07,395.94
+P2580,Ana Ramírez,26,NA,Surco,Cardiología,2023-03-08,408.48
+P2581,Carmen Flores,11,F,Los Olivos,Dermatología,2022-10-23,415.8
+P2582,Carmen Flores,NA,F,Los Olivos,NA,2024-07-19,278.5
+P2583,Carmen Castillo,82,F,Surco,Dermatología,2023-08-20,396.87
+P2584,Carmen García,36,M,Callao,Cardiología,2021-05-11,164.91
+P2585,Jorge Ramírez,31,M,Lima,Cardiología,2021-05-23,183.06
+P2586,Rosa Rojas,NA,NA,Lima,Odontología,2024-04-24,385.19
+P2587,José Flores,NA,NA,San Isidro,Cardiología,2020-11-11,179.78
+P2588,Jorge Gómez,NA,F,San Isidro,Dermatología,2024-12-25,58.31
+P2589,Miguel Gómez,4,NA,Miraflores,Pediatría,2024-12-20,151.94
+P2590,José García,NA,M,Miraflores,Medicina General,2020-04-11,107.44
+P2591,Carmen Rojas,NA,NA,NA,Oncología,2020-10-07,276.46
+P2592,Ana Ramírez,NA,M,Lima,Oncología,2021-01-30,477.0
+P2593,Pedro Pérez,NA,F,Comas,Cardiología,2023-03-05,353.38
+P2594,Carmen Flores,87,M,Callao,Oncología,2020-07-27,74.55
+P2595,Carmen Pérez,55,NA,Lima,Dermatología,2022-12-22,355.27
+P2596,Ana Pérez,70,,Lima,Odontología,2021-01-28,256.93
+P2597,Ana Torres,NA,NA,San Isidro,Cardiología,2020-12-08,93.33
+P2598,María García,NA,F,Callao,NA,2021-11-09,378.61
+P2599,Miguel Rojas,NA,M,Los Olivos,Pediatría,2021-07-23,483.51
+P2600,Pedro Torres,NA,F,Los Olivos,Oncología,2022-10-18,319.66
+P2601,María Rojas,70,,NA,Odontología,2022-02-08,324.08
+P2602,Jorge Castillo,73,F,San Isidro,NA,2023-12-19,319.82
+P2603,Rosa Torres,13,F,San Isidro,Oncología,2021-04-05,399.88
+P2604,Luis Castillo,50,F,Los Olivos,Medicina General,2023-11-22,106.49
+P2605,Rosa Torres,53,F,San Isidro,Medicina General,2023-04-21,139.31
+P2606,Pedro Ramírez,NA,NA,Surco,Oncología,2021-02-10,309.1
+P2607,Lucía Pérez,NA,M,Surco,Medicina General,2022-04-25,132.43
+P2608,Jorge Flores,49,NA,Callao,Pediatría,2020-12-21,369.35
+P2609,Ana Rojas,25,M,Comas,Oncología,2020-07-10,362.87
+P2610,Luis Torres,NA,F,Lima,Cardiología,2022-07-15,344.17
+P2611,Miguel García,90,F,Los Olivos,Cardiología,2023-09-19,90.77
+P2612,Lucía Torres,NA,NA,Comas,Pediatría,2021-06-17,98.85
+P2613,María Gómez,NA,M,Surco,NA,2020-04-25,281.12
+P2614,Rosa Castillo,NA,NA,Los Olivos,Odontología,2020-02-08,132.02
+P2615,Jorge Gómez,NA,NA,Lima,NA,2022-10-24,481.83
+P2616,Jorge Castillo,NA,,Callao,Medicina General,2022-12-12,241.35
+P2617,Lucía Castillo,NA,,Comas,NA,2023-05-08,390.34
+P2618,Luis Rojas,60,,Surco,NA,2021-11-30,480.25
+P2619,Jorge Gómez,49,NA,San Isidro,Pediatría,2024-03-24,159.64
+P2620,Jorge Torres,51,F,Miraflores,Pediatría,2023-09-23,404.58
+P2621,Ana Castillo,22,M,Callao,Cardiología,2023-10-30,371.95
+P2622,María Ramírez,60,F,Surco,Medicina General,2020-04-27,487.51
+P2623,Jorge García,NA,,Callao,NA,2023-11-30,101.65
+P2624,Miguel Rojas,NA,F,Comas,Oncología,2024-03-29,131.17
+P2625,Lucía Pérez,NA,F,NA,Dermatología,2020-06-29,101.89
+P2626,Pedro García,51,M,Lima,Pediatría,2024-05-04,284.59
+P2627,Lucía Gómez,NA,,NA,Oncología,2024-12-08,178.4
+P2628,Miguel Flores,NA,M,Surco,Medicina General,2022-06-07,142.43
+P2629,Lucía Gómez,81,F,NA,Pediatría,2021-03-02,451.86
+P2630,Lucía Pérez,NA,NA,Comas,Dermatología,2024-02-09,128.35
+P2631,Miguel Flores,40,M,Comas,Cardiología,2021-10-15,125.13
+P2632,Ana Rojas,53,F,Callao,Pediatría,2024-07-22,449.9
+P2633,Luis Ramírez,NA,,NA,Oncología,2022-06-22,125.38
+P2634,Pedro Ramírez,17,,Comas,Odontología,2024-03-29,211.0
+P2635,Ana Castillo,64,NA,Callao,Dermatología,2021-04-12,335.27
+P2636,Lucía Ramírez,1,M,San Isidro,NA,2020-04-06,398.48
+P2637,Lucía Ramírez,77,F,Comas,Dermatología,2023-11-23,423.49
+P2638,Rosa Castillo,NA,,Los Olivos,Medicina General,2024-09-09,279.13
+P2639,Carmen Pérez,48,M,Callao,Oncología,2021-05-19,262.99
+P2640,Miguel García,NA,F,San Isidro,Oncología,2022-02-08,284.29
+P2641,Carmen Pérez,62,NA,Lima,Medicina General,2021-02-15,400.09
+P2642,Luis Gómez,3,NA,Los Olivos,Pediatría,2020-11-14,65.51
+P2643,Jorge Flores,41,F,San Isidro,Pediatría,2023-05-06,442.89
+P2644,Carmen Castillo,38,,Miraflores,Dermatología,2021-01-01,496.95
+P2645,María Flores,NA,M,Comas,Pediatría,2021-10-31,238.91
+P2646,María Gómez,65,M,Surco,Medicina General,2021-11-08,210.15
+P2647,Carmen Castillo,45,F,Comas,Oncología,2023-10-05,308.02
+P2648,Luis Pérez,NA,,NA,Dermatología,2023-08-31,423.48
+P2649,María Ramírez,10,F,Miraflores,Medicina General,2021-08-13,186.35
+P2650,Pedro Ramírez,NA,,San Isidro,Dermatología,2023-03-21,75.22
+P2651,Pedro Pérez,5,NA,Los Olivos,Dermatología,2024-01-03,91.51
+P2652,Ana García,71,M,Comas,Dermatología,2022-09-03,435.85
+P2653,Luis Gómez,NA,M,NA,Oncología,2024-07-20,141.39
+P2654,Luis García,NA,,Surco,Dermatología,2022-01-08,369.86
+P2655,Luis Rojas,NA,NA,Comas,Medicina General,2023-06-24,100.3
+P2656,Pedro Gómez,NA,M,NA,Odontología,2020-03-09,409.42
+P2657,Carmen Ramírez,77,NA,Callao,Cardiología,2020-05-24,285.1
+P2658,Pedro Torres,10,,San Isidro,Odontología,2021-01-27,263.7
+P2659,Luis Castillo,35,,Callao,Medicina General,2023-01-28,266.79
+P2660,José Gómez,45,M,NA,NA,2020-01-25,183.43
+P2661,María Torres,68,NA,Miraflores,NA,2024-07-11,222.44
+P2662,Ana Castillo,NA,F,Comas,Odontología,2024-06-23,428.96
+P2663,José Castillo,NA,F,Los Olivos,Oncología,2023-09-17,236.81
+P2664,Miguel Flores,40,,Callao,Dermatología,2023-04-06,104.49
+P2665,Miguel García,NA,NA,Miraflores,Oncología,2024-07-01,273.21
+P2666,Rosa Gómez,NA,,Callao,Odontología,2020-12-03,192.94
+P2667,Lucía Flores,NA,F,Callao,NA,2020-08-31,410.83
+P2668,Pedro Castillo,NA,M,Comas,Oncología,2021-12-27,176.2
+P2669,Ana Pérez,NA,NA,Surco,Odontología,2020-03-30,261.56
+P2670,Pedro Castillo,36,,Surco,NA,2023-11-12,453.45
+P2671,Jorge Torres,NA,F,NA,Pediatría,2022-12-01,360.21
+P2672,Rosa Flores,16,M,NA,Dermatología,2020-03-17,473.56
+P2673,Ana Ramírez,NA,,San Isidro,Oncología,2020-12-26,419.18
+P2674,Miguel Torres,80,M,Lima,NA,2021-01-07,179.05
+P2675,Miguel Ramírez,78,NA,Miraflores,Pediatría,2021-11-18,497.53
+P2676,María Castillo,NA,F,San Isidro,Dermatología,2021-08-20,216.63
+P2677,Lucía García,NA,F,Los Olivos,Dermatología,2021-05-23,365.29
+P2678,Pedro Torres,1,M,Callao,NA,2024-06-17,261.01
+P2679,María Pérez,49,F,Miraflores,Medicina General,2020-01-04,326.65
+P2680,Ana Pérez,28,M,Callao,Dermatología,2023-06-15,131.91
+P2681,Lucía Ramírez,68,,Miraflores,Cardiología,2024-03-21,198.92
+P2682,Pedro Torres,NA,,San Isidro,Oncología,2022-01-29,409.12
+P2683,Miguel García,75,F,Comas,Dermatología,2024-09-11,217.98
+P2684,Ana García,NA,,Callao,NA,2022-09-05,250.15
+P2685,José Gómez,24,M,Los Olivos,Dermatología,2022-05-26,345.21
+P2686,Carmen Gómez,49,NA,NA,NA,2024-07-14,231.78
+P2687,Lucía Gómez,58,M,NA,Odontología,2024-06-25,133.3
+P2688,Lucía García,53,F,Surco,Cardiología,2024-05-25,303.89
+P2689,María Pérez,NA,F,Lima,NA,2020-11-11,59.63
+P2690,María Torres,NA,,Surco,NA,2023-02-04,210.0
+P2691,Ana Pérez,81,F,Callao,Pediatría,2021-04-27,190.6
+P2692,María Rojas,NA,F,Surco,Odontología,2022-04-10,261.53
+P2693,Carmen Flores,NA,NA,San Isidro,Odontología,2020-12-03,341.05
+P2694,Luis Rojas,NA,,San Isidro,Cardiología,2023-02-11,161.46
+P2695,Pedro Ramírez,81,NA,Miraflores,Dermatología,2023-09-02,482.83
+P2696,Rosa García,NA,NA,NA,Cardiología,2020-06-06,498.41
+P2697,Luis Gómez,NA,M,Miraflores,Pediatría,2021-07-11,400.12
+P2698,María Gómez,16,NA,Comas,Oncología,2022-07-29,423.01
+P2699,José Rojas,NA,M,NA,Dermatología,2024-02-15,334.35
+P2700,Carmen Rojas,NA,,Los Olivos,Dermatología,2024-12-31,344.94
+P2701,Miguel Ramírez,NA,,San Isidro,NA,2022-11-12,384.11
+P2702,Jorge Torres,23,M,Callao,Dermatología,2021-12-11,227.16
+P2703,Lucía Castillo,NA,M,Surco,Oncología,2020-03-02,479.17
+P2704,Pedro Rojas,60,,Comas,Dermatología,2020-09-19,350.87
+P2705,Rosa Flores,NA,NA,San Isidro,Odontología,2021-08-26,188.58
+P2706,Carmen Torres,NA,,Miraflores,NA,2020-10-17,289.21
+P2707,Carmen García,1,F,Callao,Oncología,2022-12-01,143.68
+P2708,Miguel Flores,NA,,Callao,Odontología,2020-08-09,320.81
+P2709,Luis Gómez,NA,F,NA,Cardiología,2020-04-15,423.23
+P2710,Carmen Pérez,NA,F,Miraflores,Odontología,2020-01-31,447.95
+P2711,María Ramírez,NA,F,Miraflores,Odontología,2022-01-30,245.36
+P2712,Carmen Rojas,NA,M,Miraflores,NA,2020-03-04,493.92
+P2713,Carmen Torres,3,M,Comas,Medicina General,2023-06-17,301.57
+P2714,Carmen Castillo,NA,F,Los Olivos,Oncología,2021-10-24,274.93
+P2715,Carmen Pérez,NA,,Lima,NA,2021-04-26,123.81
+P2716,Jorge Flores,36,M,Los Olivos,NA,2021-01-26,428.47
+P2717,Lucía Pérez,69,M,Surco,NA,2021-10-15,181.32
+P2718,Carmen Ramírez,83,,Los Olivos,Odontología,2022-12-30,160.44
+P2719,Jorge Castillo,NA,NA,Comas,NA,2020-03-15,287.88
+P2720,Ana Ramírez,56,M,Lima,NA,2023-07-18,355.99
+P2721,Pedro Pérez,28,M,NA,Oncología,2020-06-17,111.99
+P2722,Ana Ramírez,NA,F,NA,NA,2022-03-19,473.84
+P2723,Pedro Castillo,NA,NA,Surco,Cardiología,2020-02-06,74.01
+P2724,José Pérez,45,F,Lima,Dermatología,2022-03-14,379.55
+P2725,Ana García,NA,NA,Surco,Medicina General,2022-07-14,286.15
+P2726,José Flores,NA,NA,Lima,Oncología,2022-08-16,142.55
+P2727,Lucía Pérez,NA,M,San Isidro,Cardiología,2022-06-30,490.63
+P2728,María Castillo,NA,F,NA,Dermatología,2021-03-11,216.32
+P2729,José Flores,NA,M,Surco,Odontología,2023-11-09,88.22
+P2730,María Gómez,NA,M,Los Olivos,Oncología,2022-06-09,66.01
+P2731,Miguel Flores,NA,NA,Comas,NA,2023-02-23,466.42
+P2732,José García,14,,Callao,Dermatología,2021-08-26,498.7
+P2733,Ana Gómez,NA,,San Isidro,Dermatología,2020-11-01,320.75
+P2734,Jorge Ramírez,NA,F,NA,NA,2021-09-01,234.24
+P2735,Carmen Ramírez,NA,F,Los Olivos,Dermatología,2021-11-01,427.8
+P2736,Rosa Ramírez,22,F,San Isidro,Pediatría,2024-11-01,487.44
+P2737,María Torres,47,M,Miraflores,Medicina General,2021-02-28,162.1
+P2738,María Ramírez,NA,NA,Surco,Pediatría,2021-03-10,155.57
+P2739,José García,59,M,Miraflores,Dermatología,2022-05-30,409.61
+P2740,Rosa Ramírez,10,NA,NA,Oncología,2022-04-25,287.79
+P2741,Lucía Castillo,NA,,Los Olivos,Pediatría,2024-04-02,140.57
+P2742,Carmen Rojas,47,NA,Los Olivos,Cardiología,2023-02-05,94.75
+P2743,Rosa Ramírez,60,,Surco,Dermatología,2024-11-10,380.5
+P2744,Carmen Rojas,59,M,NA,Medicina General,2022-05-26,303.13
+P2745,Lucía Rojas,NA,,Comas,Cardiología,2023-05-01,178.9
+P2746,María Pérez,NA,M,Callao,Dermatología,2023-08-04,291.14
+P2747,Luis Flores,37,NA,NA,Dermatología,2022-08-28,75.1
+P2748,María García,75,NA,NA,NA,2024-05-16,50.97
+P2749,Pedro Torres,27,,Callao,Pediatría,2022-05-04,145.13
+P2750,Pedro Gómez,NA,M,San Isidro,Cardiología,2020-10-14,251.84
+P2751,José Gómez,NA,F,Miraflores,Pediatría,2021-03-30,336.11
+P2752,Carmen García,38,NA,Callao,Cardiología,2021-11-19,112.38
+P2753,Miguel Rojas,85,M,Lima,Cardiología,2021-01-21,201.35
+P2754,María Flores,46,M,Miraflores,Pediatría,2023-04-09,354.7
+P2755,Ana Rojas,17,,Lima,Medicina General,2022-06-28,381.81
+P2756,Rosa García,NA,F,Lima,Dermatología,2022-07-20,460.98
+P2757,Miguel Gómez,72,F,NA,Dermatología,2020-12-23,490.68
+P2758,Jorge Flores,NA,NA,Comas,Dermatología,2023-04-02,301.34
+P2759,Lucía Castillo,90,NA,Comas,Odontología,2023-02-24,294.05
+P2760,Rosa Ramírez,NA,NA,Callao,Pediatría,2020-06-11,253.87
+P2761,Lucía Gómez,15,F,Comas,Dermatología,2020-07-20,235.0
+P2762,José Ramírez,63,M,Callao,Medicina General,2020-08-22,382.46
+P2763,Ana Gómez,3,,Surco,Pediatría,2023-03-21,325.65
+P2764,Pedro Flores,57,NA,San Isidro,Odontología,2024-11-04,455.67
+P2765,María Gómez,NA,,Comas,NA,2022-07-23,258.28
+P2766,Lucía García,40,,San Isidro,Pediatría,2023-11-04,487.76
+P2767,Pedro Rojas,29,,NA,Oncología,2024-07-16,308.24
+P2768,Luis Flores,NA,M,NA,Oncología,2021-03-20,409.69
+P2769,Pedro Pérez,6,NA,Surco,Oncología,2020-04-05,245.23
+P2770,Jorge Flores,39,NA,Surco,Medicina General,2023-03-24,352.06
+P2771,Lucía García,72,NA,Comas,NA,2024-07-07,152.0
+P2772,María Gómez,3,NA,Los Olivos,Cardiología,2021-07-12,301.6
+P2773,Pedro García,15,M,San Isidro,Oncología,2022-05-10,468.12
+P2774,Jorge Gómez,NA,M,San Isidro,Cardiología,2021-01-26,105.81
+P2775,Carmen García,NA,M,Surco,Oncología,2020-12-25,283.26
+P2776,Pedro Gómez,NA,M,Los Olivos,Odontología,2020-11-07,193.01
+P2777,Carmen Pérez,55,,San Isidro,Dermatología,2021-05-13,433.46
+P2778,Pedro García,NA,F,Callao,Oncología,2023-11-12,339.01
+P2779,Jorge Torres,31,M,Lima,Pediatría,2022-01-27,388.13
+P2780,Pedro Ramírez,50,F,Los Olivos,Odontología,2023-02-25,229.48
+P2781,Luis Flores,24,,Surco,NA,2021-05-24,229.84
+P2782,Pedro Flores,NA,F,Surco,Pediatría,2022-07-02,340.07
+P2783,José Flores,3,NA,Los Olivos,NA,2024-10-13,315.78
+P2784,Jorge Castillo,NA,NA,Lima,Oncología,2024-04-24,365.83
+P2785,Luis Rojas,14,NA,Lima,Odontología,2022-11-04,393.2
+P2786,Carmen Pérez,NA,F,Callao,Cardiología,2024-01-04,51.14
+P2787,Carmen Castillo,48,NA,Comas,Medicina General,2021-04-22,124.96
+P2788,Ana Rojas,NA,F,Lima,Oncología,2022-04-24,406.77
+P2789,Lucía Ramírez,88,NA,Callao,Odontología,2020-03-27,110.64
+P2790,Luis Ramírez,25,F,Surco,Cardiología,2020-01-09,326.3
+P2791,María García,NA,NA,Lima,Oncología,2021-12-20,493.05
+P2792,Carmen Rojas,32,,San Isidro,Pediatría,2022-11-11,124.89
+P2793,Jorge Flores,NA,F,Lima,Medicina General,2020-05-26,377.48
+P2794,María Ramírez,31,NA,Los Olivos,Odontología,2024-01-27,491.45
+P2795,Pedro Flores,NA,NA,Callao,Dermatología,2022-02-09,295.91
+P2796,Lucía Gómez,NA,NA,San Isidro,Cardiología,2024-02-01,107.96
+P2797,José Flores,NA,M,San Isidro,Odontología,2021-05-10,101.94
+P2798,Ana Flores,58,M,NA,Odontología,2023-11-30,275.36
+P2799,Luis Torres,62,NA,Miraflores,Dermatología,2022-09-30,272.19
+P2800,Lucía García,30,M,Lima,Pediatría,2020-09-21,186.09
+P2801,Miguel Torres,NA,M,Los Olivos,Medicina General,2024-02-09,348.14
+P2802,Rosa Flores,NA,F,Lima,Odontología,2022-08-20,385.25
+P2803,Ana Gómez,48,,Callao,Oncología,2022-05-04,453.67
+P2804,Carmen Castillo,NA,,Lima,Medicina General,2023-06-06,405.58
+P2805,Lucía Ramírez,36,NA,Lima,Pediatría,2022-11-02,69.36
+P2806,Carmen Castillo,45,M,San Isidro,Dermatología,2021-01-14,423.27
+P2807,Jorge Castillo,1,F,Los Olivos,Pediatría,2023-08-27,305.31
+P2808,José García,37,M,Lima,Pediatría,2021-01-14,485.84
+P2809,Lucía Ramírez,61,,Comas,Cardiología,2020-09-13,169.86
+P2810,Lucía Rojas,NA,M,Lima,Cardiología,2021-12-17,105.15
+P2811,Luis Rojas,73,NA,Lima,Cardiología,2021-05-20,419.16
+P2812,María Pérez,84,NA,Miraflores,NA,2022-04-23,188.34
+P2813,Carmen Castillo,81,NA,Comas,NA,2021-02-26,252.52
+P2814,Miguel Gómez,30,M,Comas,NA,2023-05-26,309.52
+P2815,Carmen Ramírez,33,,NA,Dermatología,2024-08-21,218.87
+P2816,Lucía Ramírez,NA,,NA,Medicina General,2021-04-13,394.37
+P2817,María Torres,NA,F,Callao,NA,2024-04-21,173.43
+P2818,José Ramírez,74,M,Lima,Odontología,2022-02-09,295.2
+P2819,Miguel Gómez,NA,NA,Surco,NA,2024-08-05,272.3
+P2820,Luis Rojas,NA,F,Surco,Odontología,2021-12-17,258.23
+P2821,Luis Rojas,56,NA,Lima,Odontología,2021-07-15,385.67
+P2822,Lucía Pérez,NA,M,NA,NA,2024-07-28,379.58
+P2823,Lucía Torres,NA,F,Surco,Odontología,2021-05-26,411.43
+P2824,Rosa Castillo,5,M,Comas,Odontología,2023-06-13,423.65
+P2825,Miguel Gómez,49,M,Callao,NA,2024-09-23,163.8
+P2826,Carmen Torres,88,F,Surco,Cardiología,2022-09-27,282.54
+P2827,Carmen Castillo,85,NA,San Isidro,Medicina General,2022-08-13,469.47
+P2828,Carmen Flores,NA,M,Surco,Odontología,2024-06-08,322.37
+P2829,Carmen Rojas,NA,F,Lima,Odontología,2024-11-08,364.6
+P2830,Ana Torres,52,NA,Miraflores,Dermatología,2022-08-25,354.72
+P2831,Pedro Flores,1,M,NA,Cardiología,2022-06-17,194.64
+P2832,Luis Flores,NA,M,Surco,Dermatología,2020-10-21,324.27
+P2833,Rosa Pérez,22,F,San Isidro,Pediatría,2022-02-14,423.54
+P2834,María Torres,NA,M,Surco,Odontología,2021-12-30,159.15
+P2835,Pedro Pérez,10,F,Los Olivos,Oncología,2020-03-22,326.1
+P2836,Luis Pérez,24,M,Surco,Cardiología,2024-01-20,447.45
+P2837,Ana Castillo,43,F,Comas,Medicina General,2022-08-28,67.26
+P2838,Pedro Torres,10,NA,NA,Oncología,2024-11-03,427.85
+P2839,María Torres,11,,Surco,Oncología,2020-03-12,70.95
+P2840,José Flores,NA,F,NA,Medicina General,2024-12-29,150.97
+P2841,Pedro Torres,62,F,Miraflores,Dermatología,2023-09-21,54.78
+P2842,Jorge Ramírez,NA,,Comas,Pediatría,2020-06-28,338.87
+P2843,Pedro Gómez,NA,F,Surco,Cardiología,2020-11-14,455.24
+P2844,María García,51,,Miraflores,Cardiología,2024-04-17,120.75
+P2845,María García,NA,M,Comas,Pediatría,2022-12-14,403.67
+P2846,María García,23,F,Comas,Odontología,2021-05-29,424.13
+P2847,Carmen García,NA,,San Isidro,Odontología,2024-01-10,279.15
+P2848,José Ramírez,81,NA,NA,Dermatología,2021-08-17,122.42
+P2849,Miguel Ramírez,42,,Miraflores,Dermatología,2023-03-12,455.37
+P2850,Luis García,NA,,Miraflores,Medicina General,2024-01-23,285.99
+P2851,Jorge Gómez,25,M,Miraflores,Cardiología,2022-11-24,393.55
+P2852,José Rojas,NA,M,San Isidro,NA,2024-07-18,448.81
+P2853,Carmen Rojas,52,NA,San Isidro,Odontología,2022-09-27,370.04
+P2854,Rosa Castillo,43,F,San Isidro,Pediatría,2020-10-17,72.88
+P2855,Rosa Pérez,54,NA,NA,Medicina General,2022-08-27,71.29
+P2856,José García,NA,,Los Olivos,Odontología,2022-01-26,102.21
+P2857,Ana Pérez,35,NA,San Isidro,Odontología,2023-11-18,486.76
+P2858,Pedro Gómez,NA,F,Comas,Dermatología,2020-08-31,61.47
+P2859,Rosa Flores,NA,NA,Los Olivos,Medicina General,2020-07-31,376.34
+P2860,José Gómez,NA,M,Los Olivos,Odontología,2023-10-24,294.1
+P2861,Jorge Rojas,78,M,Comas,Odontología,2024-09-10,255.54
+P2862,Carmen Pérez,NA,NA,Lima,Odontología,2024-06-01,424.37
+P2863,Rosa Torres,40,M,Los Olivos,Medicina General,2021-12-29,302.26
+P2864,Rosa Pérez,NA,M,San Isidro,NA,2021-04-27,491.32
+P2865,José Gómez,NA,M,Comas,NA,2024-02-17,343.12
+P2866,Miguel Castillo,NA,F,Lima,Medicina General,2023-08-05,207.1
+P2867,Miguel García,1,NA,San Isidro,Oncología,2023-10-05,246.89
+P2868,Pedro García,NA,NA,Comas,Oncología,2020-12-01,304.94
+P2869,Rosa Ramírez,7,M,Surco,Medicina General,2020-08-26,233.3
+P2870,María Gómez,80,M,Callao,Cardiología,2023-06-24,467.86
+P2871,Rosa Castillo,18,NA,Surco,Oncología,2024-01-26,341.33
+P2872,Miguel Ramírez,NA,,Los Olivos,Odontología,2021-10-24,310.08
+P2873,Carmen Gómez,1,M,Miraflores,NA,2023-04-18,306.86
+P2874,Ana Flores,NA,,NA,Pediatría,2023-12-26,234.4
+P2875,Miguel Flores,NA,M,San Isidro,Medicina General,2023-07-08,175.39
+P2876,Miguel Torres,NA,,Miraflores,Oncología,2020-10-04,388.72
+P2877,Miguel Castillo,NA,M,Los Olivos,Pediatría,2022-04-01,303.76
+P2878,Ana Pérez,56,,Miraflores,NA,2023-10-06,401.26
+P2879,José Ramírez,NA,,Callao,Oncología,2023-01-30,412.31
+P2880,Miguel Rojas,NA,F,NA,Dermatología,2024-04-15,312.66
+P2881,Carmen Castillo,NA,NA,Surco,Pediatría,2022-07-31,364.94
+P2882,Luis Flores,75,,Callao,Cardiología,2020-09-21,73.56
+P2883,Lucía García,11,M,Los Olivos,Oncología,2020-12-29,448.93
+P2884,Luis Pérez,NA,,Los Olivos,Pediatría,2022-07-22,427.82
+P2885,María Torres,59,F,Los Olivos,NA,2023-11-12,107.45
+P2886,Carmen Gómez,15,M,Comas,Odontología,2023-12-09,479.01
+P2887,Rosa García,NA,F,Surco,Medicina General,2023-10-09,182.42
+P2888,María García,NA,F,Surco,Odontología,2022-06-22,381.06
+P2889,Ana Gómez,23,F,Lima,Pediatría,2021-09-08,420.03
+P2890,Luis García,56,F,San Isidro,Cardiología,2020-10-20,456.57
+P2891,Ana Gómez,30,F,Lima,Cardiología,2024-12-12,96.58
+P2892,José García,19,M,Lima,Odontología,2022-08-21,113.53
+P2893,Miguel Pérez,37,NA,Comas,Cardiología,2022-05-31,371.25
+P2894,María Castillo,37,M,Los Olivos,Oncología,2024-12-08,107.49
+P2895,Carmen Rojas,NA,M,Miraflores,Cardiología,2022-03-22,348.77
+P2896,Lucía García,NA,F,Comas,Dermatología,2023-02-28,291.61
+P2897,Ana Pérez,83,F,Comas,Dermatología,2024-12-27,199.36
+P2898,Miguel García,NA,F,Surco,Odontología,2024-01-08,50.9
+P2899,Ana Gómez,37,M,Miraflores,Dermatología,2020-12-24,238.54
+P2900,Carmen Rojas,6,,Miraflores,Cardiología,2023-08-30,312.36
+P2901,Carmen Rojas,54,,San Isidro,Medicina General,2023-06-26,103.53
+P2902,Lucía Ramírez,85,NA,Callao,Pediatría,2023-09-19,246.63
+P2903,Luis Ramírez,NA,,Miraflores,Odontología,2023-12-02,266.52
+P2904,Pedro Rojas,51,,Los Olivos,Odontología,2021-10-29,69.11
+P2905,Ana Ramírez,55,,Miraflores,NA,2021-09-08,237.57
+P2906,María Castillo,35,NA,Callao,Medicina General,2020-09-17,274.79
+P2907,Miguel Torres,24,M,Miraflores,Oncología,2023-07-21,270.13
+P2908,Lucía Ramírez,NA,M,Comas,Odontología,2022-01-11,404.04
+P2909,María Flores,NA,M,Surco,Dermatología,2023-10-28,387.86
+P2910,Pedro Torres,45,F,San Isidro,Medicina General,2022-08-27,121.53
+P2911,Rosa Gómez,62,M,NA,Odontología,2021-08-31,245.0
+P2912,Ana Pérez,NA,NA,San Isidro,Odontología,2023-09-19,152.08
+P2913,Lucía Rojas,63,F,NA,Odontología,2020-04-06,199.05
+P2914,Lucía Flores,NA,NA,Miraflores,Pediatría,2021-06-17,89.86
+P2915,Carmen Flores,84,NA,Los Olivos,Odontología,2021-06-16,349.84
+P2916,Jorge García,71,F,Callao,Odontología,2020-10-16,457.54
+P2917,Miguel Ramírez,NA,M,Lima,Oncología,2020-11-04,143.69
+P2918,Lucía Rojas,32,NA,San Isidro,Dermatología,2021-04-13,266.04
+P2919,María Torres,NA,M,Miraflores,Cardiología,2020-06-06,263.09
+P2920,Rosa Gómez,47,M,Miraflores,Cardiología,2020-08-04,317.81
+P2921,Jorge García,NA,M,Comas,Odontología,2020-02-07,479.44
+P2922,Lucía Ramírez,NA,,Comas,Dermatología,2020-08-13,176.93
+P2923,María Castillo,NA,,Comas,Oncología,2023-10-30,193.93
+P2924,Luis Ramírez,NA,,Callao,Medicina General,2024-01-23,203.11
+P2925,Carmen García,NA,NA,Los Olivos,NA,2020-04-15,183.96
+P2926,Rosa Rojas,54,M,Comas,Medicina General,2024-06-04,369.61
+P2927,Lucía Ramírez,NA,F,Miraflores,Dermatología,2022-02-06,440.99
+P2928,Luis Torres,21,NA,NA,Pediatría,2022-09-26,275.44
+P2929,María Castillo,38,M,NA,Cardiología,2023-02-05,423.41
+P2930,Miguel Rojas,NA,M,Comas,Pediatría,2024-11-29,291.26
+P2931,Ana Pérez,41,,Callao,Odontología,2020-10-25,211.5
+P2932,Lucía Rojas,NA,,Surco,Oncología,2024-04-25,340.23
+P2933,Luis Rojas,53,,Los Olivos,Oncología,2023-04-22,345.06
+P2934,Jorge García,NA,F,Callao,Medicina General,2020-03-31,485.37
+P2935,Ana Flores,NA,M,Comas,Dermatología,2024-06-22,295.74
+P2936,Ana Flores,22,NA,Lima,NA,2024-08-06,492.16
+P2937,Lucía Pérez,57,,Miraflores,Medicina General,2020-06-24,94.45
+P2938,Pedro Ramírez,23,NA,Miraflores,Pediatría,2024-04-24,172.99
+P2939,Lucía Castillo,NA,,Lima,NA,2023-09-04,352.85
+P2940,Lucía Gómez,NA,NA,Los Olivos,Cardiología,2022-12-27,420.34
+P2941,José Flores,84,F,Los Olivos,Medicina General,2021-09-24,60.76
+P2942,María Gómez,NA,F,Surco,Cardiología,2023-08-31,319.41
+P2943,Jorge Rojas,37,,Los Olivos,Odontología,2021-10-13,484.38
+P2944,Carmen Castillo,NA,M,Lima,Odontología,2020-09-15,300.7
+P2945,Lucía Castillo,22,NA,Surco,Dermatología,2024-07-20,74.56
+P2946,Lucía Flores,NA,NA,Los Olivos,Cardiología,2023-08-11,470.6
+P2947,Pedro Flores,NA,,Los Olivos,Odontología,2020-10-09,120.43
+P2948,Ana Ramírez,2,NA,Miraflores,Oncología,2020-09-03,429.94
+P2949,José Gómez,NA,NA,Comas,Pediatría,2020-09-24,351.78
+P2950,María Torres,NA,NA,Los Olivos,Dermatología,2024-07-05,291.77
+P2951,Carmen García,NA,,Callao,Medicina General,2024-04-21,325.98
+P2952,María Flores,9,NA,Comas,Pediatría,2024-07-09,401.99
+P2953,Jorge Torres,NA,F,Surco,Cardiología,2024-02-22,221.26
+P2954,José Pérez,NA,NA,San Isidro,Odontología,2021-12-31,310.32
+P2955,Luis Torres,44,,San Isidro,Pediatría,2021-01-16,295.1
+P2956,José García,32,M,NA,NA,2021-12-12,462.39
+P2957,María García,36,NA,Callao,Dermatología,2021-01-10,106.18
+P2958,José Castillo,78,,NA,Pediatría,2023-09-04,471.57
+P2959,Pedro Ramírez,NA,NA,Miraflores,Medicina General,2022-09-02,240.45
+P2960,Ana Gómez,NA,NA,NA,Odontología,2024-07-21,165.23
+P2961,Luis Rojas,NA,NA,Comas,NA,2024-05-14,104.39
+P2962,Ana Ramírez,NA,M,Callao,Dermatología,2021-07-20,140.52
+P2963,Luis Gómez,13,,NA,Oncología,2024-08-23,251.16
+P2964,Carmen Gómez,39,NA,Miraflores,Medicina General,2023-03-22,77.14
+P2965,Pedro Flores,2,NA,Comas,Oncología,2023-03-12,327.06
+P2966,Lucía Castillo,NA,M,Comas,Cardiología,2024-09-26,212.64
+P2967,Carmen Ramírez,34,F,Callao,Cardiología,2023-06-22,194.61
+P2968,Jorge Ramírez,2,NA,Surco,Dermatología,2021-07-05,269.04
+P2969,José Gómez,23,,Comas,Medicina General,2024-04-18,384.88
+P2970,Lucía Rojas,54,NA,Comas,Oncología,2023-07-22,435.4
+P2971,Rosa García,NA,NA,Miraflores,Pediatría,2023-10-12,435.63
+P2972,Luis Torres,NA,M,San Isidro,NA,2021-09-16,351.41
+P2973,Pedro Flores,NA,M,Callao,NA,2023-01-04,103.08
+P2974,José Gómez,NA,F,Miraflores,Oncología,2024-11-20,379.27
+P2975,María García,80,,NA,Pediatría,2023-04-16,358.29
+P2976,José Flores,NA,M,Miraflores,Dermatología,2021-09-06,263.87
+P2977,María García,NA,M,NA,Oncología,2023-09-20,386.66
+P2978,Jorge Flores,85,,San Isidro,Dermatología,2024-05-06,322.65
+P2979,Jorge Flores,83,F,Callao,Cardiología,2022-01-08,110.53
+P2980,Lucía Pérez,NA,,Lima,Medicina General,2020-02-12,217.4
+P2981,Jorge Torres,NA,,San Isidro,Dermatología,2021-05-23,226.61
+P2982,Ana Flores,1,,Miraflores,Oncología,2024-10-07,170.02
+P2983,Lucía Flores,NA,M,Callao,NA,2022-05-17,157.78
+P2984,Carmen Gómez,NA,NA,Miraflores,Dermatología,2024-02-08,379.5
+P2985,Ana Ramírez,88,NA,Comas,NA,2020-05-01,360.13
+P2986,Carmen García,NA,M,Surco,Medicina General,2023-06-01,92.7
+P2987,Jorge García,NA,M,Surco,Medicina General,2024-01-12,173.57
+P2988,María Gómez,NA,F,NA,Cardiología,2023-12-29,66.3
+P2989,Rosa Ramírez,NA,M,Los Olivos,Oncología,2024-04-29,190.82
+P2990,Jorge Pérez,NA,NA,Surco,Odontología,2022-08-29,324.44
+P2991,Rosa Pérez,NA,F,Callao,Cardiología,2020-09-07,101.35
+P2992,María Ramírez,NA,,NA,NA,2022-10-09,317.3
+P2993,José García,71,,Surco,Medicina General,2022-07-08,154.75
+P2994,Jorge Pérez,NA,M,San Isidro,Cardiología,2021-09-04,420.93
+P2995,Ana Gómez,NA,F,San Isidro,Cardiología,2023-10-25,290.47
+P2996,Ana Rojas,21,,Callao,Cardiología,2021-09-09,294.04
+P2997,Rosa Rojas,NA,F,San Isidro,Pediatría,2023-12-11,89.03
+P2998,Pedro Castillo,NA,F,San Isidro,Medicina General,2021-07-31,265.58
+P2999,Ana Pérez,28,M,Lima,Oncología,2020-01-30,305.83
+P3000,Rosa Torres,7,M,Surco,Odontología,2022-04-02,145.45
