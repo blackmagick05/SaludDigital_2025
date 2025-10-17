@@ -104,7 +104,7 @@ SaludDigitalB_E1/
 
 Proyecto desarrollado aplicando conceptos de Big Data, Vs Code, Python, MongoDB y Jenkins. 
 
-Jaime Llanos Bardales 
+Flores Celis Imanol Yair 
 
 Fecha: 17.10.2025 
 
